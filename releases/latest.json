@@ -1,0 +1,19 @@
+{
+  "version": "0.0.2",
+  "notes": "🚀 Nueva versión",
+  "pub_date": "2025-06-24T20:08:52.645Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "...",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/versions/last/Tintero_amd64.deb"
+    },
+    "windows-x86_64": {
+      "signature": "...",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/versions/v0.0.2/windows/Tintero_0.0.2_x64_setup.exe"
+    }
+  },
+  "release_notes": {
+    "es": "🚀 Nueva versión",
+    "en": "🚀 New version"
+  }
+}
