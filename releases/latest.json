@@ -5,11 +5,11 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtrdHhycDRvV29YanJyYW9xQUsyM1poZFJ3elFuaUJFc1cramt4RXlsSUVNUUgwdDc4SGo2YjJyOXpFWVB3WEJYT290MTdIaFZ3eHRuZXF4VG5JeWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDAxMzI5CWZpbGU6VGludGVyb18wLjAuMl9hbWQ2NC5kZWIKNlM0U3dBYTJTZWF2d0Z1bHJVTmdDcHZhVVFTQXJQMXdNQ20vNFArejlyVjY2ZFI3T3RUOGh2a1loTUQ1bWR2dU9Lalh6aCtmVjVWWHJ6MWdNY2FJQnc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.0.1/linux/Tintero_0.0.2_amd64.deb"
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.0.2/linux/Tintero_0.0.2_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5JQ2c3RGJSdGNTU3RyNitMRzArajM5dTBWdXZlbjF2SUp2TTNnTHkwcmNleDNPVWhVbW1SUGJoU2ZWRTA2MzRwNDlYTVJOTGh2SWNvbkJzSzYrR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDAxODU1CWZpbGU6VGludGVyb18wLjAuMl94NjQtc2V0dXAuZXhlCjZNazB5VXdkT2Iwa0dGNEJHcjN3SUwvdFJ1blQyd0wwT2ZRR3JseU1VZUVnTUgyQU03TC9WcFZoNTVtWitnM3pIRnNlZ3dGS0JPRDI3QnpIZ3pobkJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.0.1/windows/Tintero_0.0.2_x64-setup.exe"
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.0.2/windows/Tintero_0.0.2_x64-setup.exe"
     }
   },
   "release_notes": {
