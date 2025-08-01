@@ -1,19 +1,19 @@
 {
-  "version": "0.0.2",
-  "notes": "🚀 Worldbuildling, scenes, fixes",
-  "pub_date": "2025-06-25T23:24:00.645Z",
+  "version": "0.1.0",
+  "notes": "🚀 Massive fixes and quality of life improvements. Better scene handling, added IA integration, improved visual interface",
+  "pub_date": "2025-08-02T01:08:00.645Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtrdHhycDRvV29YanJyYW9xQUsyM1poZFJ3elFuaUJFc1cramt4RXlsSUVNUUgwdDc4SGo2YjJyOXpFWVB3WEJYT290MTdIaFZ3eHRuZXF4VG5JeWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDAxMzI5CWZpbGU6VGludGVyb18wLjAuMl9hbWQ2NC5kZWIKNlM0U3dBYTJTZWF2d0Z1bHJVTmdDcHZhVVFTQXJQMXdNQ20vNFArejlyVjY2ZFI3T3RUOGh2a1loTUQ1bWR2dU9Lalh6aCtmVjVWWHJ6MWdNY2FJQnc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.0.2/linux/Tintero_0.0.2_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhtRmhnY3M4NGxEZkhod2lYTURHR3YrZkpUOEtlZkxoMTlCdnE3UW9yUW1IMWxwTkFuMmJFa2thWm5NTk03SGU1b3NlNzZkaEpsTWFrVWQvdjFIWVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDc5NjAwCWZpbGU6VGludGVyb18wLjEuMF9hbWQ2NC5kZWIKZnplREtvQ0RiUEVlWGZzdXdMallUNnlmNzF4dFhRRDRadzl4ZHB5bS9TdTI0SkcxaDFHVGFKTUMzaWNybHBVVDVTTW1MMmoycWpUL28rWVpac1p2Q0E9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.0/linux/Tintero_0.1.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5JQ2c3RGJSdGNTU3RyNitMRzArajM5dTBWdXZlbjF2SUp2TTNnTHkwcmNleDNPVWhVbW1SUGJoU2ZWRTA2MzRwNDlYTVJOTGh2SWNvbkJzSzYrR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNDAxODU1CWZpbGU6VGludGVyb18wLjAuMl94NjQtc2V0dXAuZXhlCjZNazB5VXdkT2Iwa0dGNEJHcjN3SUwvdFJ1blQyd0wwT2ZRR3JseU1VZUVnTUgyQU03TC9WcFZoNTVtWitnM3pIRnNlZ3dGS0JPRDI3QnpIZ3pobkJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.0.2/windows/Tintero_0.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpKeXF0WWJYb3BrU0IzZ0N5dTZnYTRNVzJNVG9hV3NXTUl5NGUzZ0xJZkYwMWxQOFF2azRmVC9vK0pRN1plRWZVdms5ODBnMGlzNlhsNWF0MkN3YndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDgwNDE5CWZpbGU6VGludGVyb18wLjEuMF94NjQtc2V0dXAuZXhlCm54ZXhYcnhycFp4YTBVQnFGMUI4NHdWM2VOV3cwZmxOTTBUM0tNN0lYTmZoQUFLaEFYUW81V3dNTHFJYWFMazNGSmtxaFlablFiQWdHeHBQYTJkUENRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.0/windows/Tintero_0.1.0_x64-setup.exe"
     }
   },
   "release_notes": {
-    "es": "🚀 Añadida gestión de escenas en el capítulo, añadida pestaña de creación de mundos y mejorado generador de personajes. Arreglos en estilos.",
-    "en": "🚀 Added scene management to chapters, added worldbuildling tab and improved character generation. Style fixes."
+    "es": "🚀 Gran cantidad de arreglo de errores y mejoras de calidad de vida. Mejor gestión de escenas, añadida integración con IA, mejorada interfaz visual",
+    "en": "🚀 Massive fixes and quality of life improvements. Better scene handling, added IA integration, improved visual interface."
   }
 }
