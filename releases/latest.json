@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "🚀 Massive fixes and quality of life improvements. Better scene handling, added IA integration, improved visual interface",
-  "pub_date": "2025-08-02T01:08:00.645Z",
+  "version": "0.1.5",
+  "notes": "🚀 Massive fixes and quality of life improvements. AI tools completely integrated",
+  "pub_date": "2025-08-27T01:08:00.645Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhtRmhnY3M4NGxEZkhod2lYTURHR3YrZkpUOEtlZkxoMTlCdnE3UW9yUW1IMWxwTkFuMmJFa2thWm5NTk03SGU1b3NlNzZkaEpsTWFrVWQvdjFIWVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDc5NjAwCWZpbGU6VGludGVyb18wLjEuMF9hbWQ2NC5kZWIKZnplREtvQ0RiUEVlWGZzdXdMallUNnlmNzF4dFhRRDRadzl4ZHB5bS9TdTI0SkcxaDFHVGFKTUMzaWNybHBVVDVTTW1MMmoycWpUL28rWVpac1p2Q0E9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.0/linux/Tintero_0.1.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxTWTc5NkFuMDBhQzJvb0h0NEx1eVJ3b2xjblZkTEtOMlcwNXlRbnpaMUdjenlQU2JVd3Aza0dpT0tucG9tZlUrTXgzTDdORDY4N3Ywbm9BZmdUa2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzI1ODE5CWZpbGU6VGludGVyb18wLjEuNV9hbWQ2NC5kZWIKSWhweTJ2MzJOUjZzeUdsNDMzOGJvTXRTSVVrSW4wd1lvZXhvT1dyUStaLzdTVHpuREE3bkhLMjBjYVd2MkFvd0gwQjUyamhjQUVzQVM1SkxhRUQvQUE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.5/linux/Tintero_0.1.5_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpKeXF0WWJYb3BrU0IzZ0N5dTZnYTRNVzJNVG9hV3NXTUl5NGUzZ0xJZkYwMWxQOFF2azRmVC9vK0pRN1plRWZVdms5ODBnMGlzNlhsNWF0MkN3YndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDgwNDE5CWZpbGU6VGludGVyb18wLjEuMF94NjQtc2V0dXAuZXhlCm54ZXhYcnhycFp4YTBVQnFGMUI4NHdWM2VOV3cwZmxOTTBUM0tNN0lYTmZoQUFLaEFYUW81V3dNTHFJYWFMazNGSmtxaFlablFiQWdHeHBQYTJkUENRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.0/windows/Tintero_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZCbWtpR2R0bi9NekJ5dWxxdmhyS2VQMGcwbWN2djh3SHdIQVBnQ1g2WU5Qb1c5djVyQjBuTTJJdElxV3BPMU5laUtFQ0tDRzFYU2Z3SWUvanRubkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzI2MzgxCWZpbGU6VGludGVyb18wLjEuNV94NjQtc2V0dXAuZXhlCmpxcndtS0Q3U2ZvRDdEdk1ZTnd1TzMwOUFQUDFCUi9IcXBQWmN6alJVcGRqSnVHVUR6MDAxNHlSeUduWjgvQWVncFdLOHJSRURhdVlNcnhFVjJBeUJRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.5/windows/Tintero_0.1.5_x64-setup.exe"
     }
   },
   "release_notes": {
-    "es": "🚀 Gran cantidad de arreglo de errores y mejoras de calidad de vida. Mejor gestión de escenas, añadida integración con IA, mejorada interfaz visual",
-    "en": "🚀 Massive fixes and quality of life improvements. Better scene handling, added IA integration, improved visual interface."
+    "es": "🚀 Gran cantidad de arreglo de errores y mejoras de calidad de vida. Herramientas de IA completamente integradas",
+    "en": "🚀 Massive fixes and quality of life improvements. AI tools completely integrated."
   }
 }
