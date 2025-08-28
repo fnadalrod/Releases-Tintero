@@ -1,19 +1,19 @@
 {
-  "version": "0.1.5",
-  "notes": "🚀 Massive fixes and quality of life improvements. AI tools completely integrated",
-  "pub_date": "2025-08-27T01:08:00.645Z",
+  "version": "0.1.6",
+  "notes": "🚀 Fixed issues with AI token shop",
+  "pub_date": "2025-08-28T01:08:00.645Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxTWTc5NkFuMDBhQzJvb0h0NEx1eVJ3b2xjblZkTEtOMlcwNXlRbnpaMUdjenlQU2JVd3Aza0dpT0tucG9tZlUrTXgzTDdORDY4N3Ywbm9BZmdUa2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzI1ODE5CWZpbGU6VGludGVyb18wLjEuNV9hbWQ2NC5kZWIKSWhweTJ2MzJOUjZzeUdsNDMzOGJvTXRTSVVrSW4wd1lvZXhvT1dyUStaLzdTVHpuREE3bkhLMjBjYVd2MkFvd0gwQjUyamhjQUVzQVM1SkxhRUQvQUE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.5/linux/Tintero_0.1.5_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5oUWd5bXA4UFF1TS9QdlRDNWRMalNuTHFwT1djcVhQTS9pSWJNMlp6OUNISmkrV0MvcTZKNVRBRXozaCswUDF0L3doOVZrUnpSYnVHUzJ2VG1PeEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDAxNzY4CWZpbGU6VGludGVyb18wLjEuNl9hbWQ2NC5kZWIKZEp3d0NpYnlySHZDUVhiRHlUd3BYWFFkMGdtYTZlQzVuU0M5a29nT2ltdnpLRWFYZEl6enU1aCtlVG5CREdxTUozM0xIV093UkZsSlAvazVsT3NZQlE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.6/linux/Tintero_0.1.6_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZCbWtpR2R0bi9NekJ5dWxxdmhyS2VQMGcwbWN2djh3SHdIQVBnQ1g2WU5Qb1c5djVyQjBuTTJJdElxV3BPMU5laUtFQ0tDRzFYU2Z3SWUvanRubkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzI2MzgxCWZpbGU6VGludGVyb18wLjEuNV94NjQtc2V0dXAuZXhlCmpxcndtS0Q3U2ZvRDdEdk1ZTnd1TzMwOUFQUDFCUi9IcXBQWmN6alJVcGRqSnVHVUR6MDAxNHlSeUduWjgvQWVncFdLOHJSRURhdVlNcnhFVjJBeUJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.5/windows/Tintero_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpSY0dtQ1lYcDg4eVNpbldxcHNra2EzVElSZkJXdWI2b2cvUTBacGFOS2x5aFJTSVlPVzNEWnhvSjlZVk1JTXVNYnI5Sy9rclZHaUxyYzc1STRkUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDAyNDQwCWZpbGU6VGludGVyb18wLjEuNl94NjQtc2V0dXAuZXhlCmhrYUMrVG82a043T2MvNGNmWHJjSFNSSTE2OTdqVDVPWVozdHZidzRLWHExVXNYdTBUSFRxalhES0Fha2ZOeWRDU3M1SkdLVEhYTkFCeWdWSFpzUkRnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.6/windows/Tintero_0.1.6_x64-setup.exe"
     }
   },
   "release_notes": {
-    "es": "🚀 Gran cantidad de arreglo de errores y mejoras de calidad de vida. Herramientas de IA completamente integradas",
-    "en": "🚀 Massive fixes and quality of life improvements. AI tools completely integrated."
+    "es": "🚀 Arreglados problemas con la tienda de tokens IA",
+    "en": "🚀 Fixed issues with AI token shop."
   }
 }
