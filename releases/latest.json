@@ -1,15 +1,15 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "notes": "🚀 Fixed issues with AI token shop",
-  "pub_date": "2025-08-28T01:08:00.645Z",
+  "pub_date": "2025-08-29T01:08:00.645Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5oUWd5bXA4UFF1TS9QdlRDNWRMalNuTHFwT1djcVhQTS9pSWJNMlp6OUNISmkrV0MvcTZKNVRBRXozaCswUDF0L3doOVZrUnpSYnVHUzJ2VG1PeEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDAxNzY4CWZpbGU6VGludGVyb18wLjEuNl9hbWQ2NC5kZWIKZEp3d0NpYnlySHZDUVhiRHlUd3BYWFFkMGdtYTZlQzVuU0M5a29nT2ltdnpLRWFYZEl6enU1aCtlVG5CREdxTUozM0xIV093UkZsSlAvazVsT3NZQlE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.6/linux/Tintero_0.1.6_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5Ib2FGcTJmS1QxMjIyKzB2b3ZrMm5Qa2JBcUUwSlZxc24zN1hIdWE5bUZEQUJ5OWFFVkxYOGdqejkyU3FmQVZsdkl6Nkd0cGxacFUwUHJNdTRYUmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NTA1MTgyCWZpbGU6VGludGVyb18wLjEuN19hbWQ2NC5kZWIKUGloc2RYT2JmQldPSmkxZEM5KytDMUJnTW1ObC9md3lBYXhaY2dzNGVaS1Vxd1FWblhXQlNWMGMzcDBFTCtNdEJURENCU3RHNTNmemI3S2lrZXF2REE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.7/linux/Tintero_0.1.7_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpSY0dtQ1lYcDg4eVNpbldxcHNra2EzVElSZkJXdWI2b2cvUTBacGFOS2x5aFJTSVlPVzNEWnhvSjlZVk1JTXVNYnI5Sy9rclZHaUxyYzc1STRkUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDAyNDQwCWZpbGU6VGludGVyb18wLjEuNl94NjQtc2V0dXAuZXhlCmhrYUMrVG82a043T2MvNGNmWHJjSFNSSTE2OTdqVDVPWVozdHZidzRLWHExVXNYdTBUSFRxalhES0Fha2ZOeWRDU3M1SkdLVEhYTkFCeWdWSFpzUkRnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.6/windows/Tintero_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW1tcng1UnU3YzIwemRXc1F3ZDd1b08zcU0rKzZDeGh1WGtXUHhMMTVLWjJuTlltdkNUUE83UnIwOW4ydytuUDZoa0grRm1jYzIxaU9PeWgzd1VQN3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NTA1ODgxCWZpbGU6VGludGVyb18wLjEuN194NjQtc2V0dXAuZXhlCi9zSkxoc1Z3SlpkeXpIMnljM1JEUFE4bCsvTXg5SVlYdFNjemd2aWNBbFU1QmpnRTVOVWJSRzd2VG9HazRvNHVwZ0RORDFaZ2FGa1EwVDRvakRJMkN3PT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.7/windows/Tintero_0.1.7_x64-setup.exe"
     }
   },
   "release_notes": {
