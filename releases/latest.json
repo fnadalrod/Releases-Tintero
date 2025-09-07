@@ -1,19 +1,24 @@
 {
-  "version": "0.1.6",
-  "notes": "🚀 Fixed issues with AI token shop",
-  "pub_date": "2025-08-28T01:08:00.645Z",
+  "version": "0.1.8",
+  "notes": "🚀 Added French, Italian, Portuguese, German and Catalan languages",
+  "pub_date": "2025-09-07T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5oUWd5bXA4UFF1TS9QdlRDNWRMalNuTHFwT1djcVhQTS9pSWJNMlp6OUNISmkrV0MvcTZKNVRBRXozaCswUDF0L3doOVZrUnpSYnVHUzJ2VG1PeEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDAxNzY4CWZpbGU6VGludGVyb18wLjEuNl9hbWQ2NC5kZWIKZEp3d0NpYnlySHZDUVhiRHlUd3BYWFFkMGdtYTZlQzVuU0M5a29nT2ltdnpLRWFYZEl6enU1aCtlVG5CREdxTUozM0xIV093UkZsSlAvazVsT3NZQlE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.6/linux/Tintero_0.1.6_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5mR3BJMlpka0tueVoyaDZvUktDKzNpMmxPaVdyUVdDRGM5Z1VvTjdaOWYzNFByTHF0SXBDcUR6b3JCV2huc2F0bVN1TzZTVEFhZUQ2eWN1TVppK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Mjc3NzQ1CWZpbGU6VGludGVyb18wLjEuOF9hbWQ2NC5kZWIKMCtzNUpOSmo0VHNRekFkRTJyUWJ5ZmNSYzJLSXpQbUlzd0RVQWZLTm9qUy9IeUlHNUxRTnlMZitweG1MWDZ6VEZsMUVybUlFMGd6K2MxRXdUVTdsQVE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.8/linux/Tintero_0.1.8_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpSY0dtQ1lYcDg4eVNpbldxcHNra2EzVElSZkJXdWI2b2cvUTBacGFOS2x5aFJTSVlPVzNEWnhvSjlZVk1JTXVNYnI5Sy9rclZHaUxyYzc1STRkUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDAyNDQwCWZpbGU6VGludGVyb18wLjEuNl94NjQtc2V0dXAuZXhlCmhrYUMrVG82a043T2MvNGNmWHJjSFNSSTE2OTdqVDVPWVozdHZidzRLWHExVXNYdTBUSFRxalhES0Fha2ZOeWRDU3M1SkdLVEhYTkFCeWdWSFpzUkRnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.6/windows/Tintero_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtpUmJSVGVINEY0VTV2azNINUNwUzZLWE9DbU9ZZUNLdGZSbkt3eEp4NElrSWVHcWZhNm84R3lheDBqdGpWTUUvb3hEWE0zL09CbWlWNTBSNk1iZndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Mjc4NTE0CWZpbGU6VGludGVyb18wLjEuOF94NjQtc2V0dXAuZXhlClBHaEJNR2k1SVAvUXR5TGpOMERnV1cweHNqS2pwWGlGd1IxNFJFQ3F6dEpjNFhxYkI2MHZRUkFaZk4yUUxsa2t6dkZrdS8zdDFuL1EwZTdlNnNvMEJRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.8/windows/Tintero_0.1.8_x64-setup.exe"
     }
   },
   "release_notes": {
-    "es": "🚀 Arreglados problemas con la tienda de tokens IA",
-    "en": "🚀 Fixed issues with AI token shop."
+    "es": "🚀 Añadidos idiomas francés, italiano, portugués, alemán y catalán",
+    "en": "🚀 Added French, Italian, Portuguese, German and Catalan languages",
+    "it": "🚀 Aggiunte le lingue francese, italiano, portoghese, tedesco e catalano",
+    "fr": "🚀 Ajout des langues française, italienne, portugaise, allemande et catalane",
+    "pt": "🚀 Adicionados os idiomas francês, italiano, português, alemão e catalão",
+    "de": "🚀 Französische, italienische, portugiesische, deutsche und katalanische Sprachen hinzugefügt",
+    "ca": "🚀 Afegits els idiomes francès, italià, portuguès, alemany i català"
   }
 }
