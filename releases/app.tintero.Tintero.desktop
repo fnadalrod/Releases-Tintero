@@ -1,10 +1,11 @@
 [Desktop Entry]
 Name=Tintero
 Comment=Multiplatform writing app for novels, scripts, RPGs, and essays
-Exec=tintero
+Exec=app
 Icon=app.tintero.Tintero
 Type=Application
 Categories=Office;WordProcessor;
 StartupNotify=true
 MimeType=text/plain;
 Keywords=writing;novel;script;essay;creative;rpg;screenplay;
+StartupWMClass=tintero
