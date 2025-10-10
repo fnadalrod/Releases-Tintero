@@ -1,24 +1,24 @@
 {
-  "version": "0.1.8",
-  "notes": "🚀 Added French, Italian, Portuguese, German and Catalan languages",
-  "pub_date": "2025-09-07T00:00:00.000Z",
+  "version": "0.2.0",
+  "notes": "Fixed several missing or incorrect translations.\nImproved the appearance of notes in the dashboard panel.\nAdded the option to include checkboxes in cardboards.\nFixed an issue where beta users couldn't sync projects.",
+  "pub_date": "2025-10-11T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5mR3BJMlpka0tueVoyaDZvUktDKzNpMmxPaVdyUVdDRGM5Z1VvTjdaOWYzNFByTHF0SXBDcUR6b3JCV2huc2F0bVN1TzZTVEFhZUQ2eWN1TVppK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Mjc3NzQ1CWZpbGU6VGludGVyb18wLjEuOF9hbWQ2NC5kZWIKMCtzNUpOSmo0VHNRekFkRTJyUWJ5ZmNSYzJLSXpQbUlzd0RVQWZLTm9qUy9IeUlHNUxRTnlMZitweG1MWDZ6VEZsMUVybUlFMGd6K2MxRXdUVTdsQVE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.8/linux/Tintero_0.1.8_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXU3RThMUEhxQU5wcjJBRlFpaDVNV0JVZENQV2xnNWJveW1jQWRMMUp5NEM3bmt5TTN4T2N1UXNHakhud3Mzb0h3MFZmZTR1aUJ6VWMyWjhJTzZHcWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMTM3MDM2CWZpbGU6VGludGVyb18wLjIuMF9hbWQ2NC5kZWIKUVBZdDd5Z2ZIVHlQNWo5bnBNSUxFdTdGZy9JN2htSy9QNzBWZVVhdnlUYlVtbHdIRlg3WFNuL3J0NlhoM2IxaHBVVlo3UDVOSVlhWnZ3TmRTZ1R2QlE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.2.0/linux/Tintero_0.2.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtpUmJSVGVINEY0VTV2azNINUNwUzZLWE9DbU9ZZUNLdGZSbkt3eEp4NElrSWVHcWZhNm84R3lheDBqdGpWTUUvb3hEWE0zL09CbWlWNTBSNk1iZndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Mjc4NTE0CWZpbGU6VGludGVyb18wLjEuOF94NjQtc2V0dXAuZXhlClBHaEJNR2k1SVAvUXR5TGpOMERnV1cweHNqS2pwWGlGd1IxNFJFQ3F6dEpjNFhxYkI2MHZRUkFaZk4yUUxsa2t6dkZrdS8zdDFuL1EwZTdlNnNvMEJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.1.8/windows/Tintero_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9QRUg5cTFrOTQyZjhTNzZ2M1Z4dzA2cUxRNHpCMU4vb2RNa3MyWTdwSXJJTFBrMXJVMW5DS01TamRxK1Y2eHBvOGhOOHhMWDRZRHBUUzlwZnowQ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMTM3OTUzCWZpbGU6VGludGVyb18wLjIuMF94NjQtc2V0dXAuZXhlCktyMzcxMlVteExqMEI0eTh6R0ltVmlIYTB3MUNTMVIzSno1ajJ4eWFYekk5MkFhV29hdVV6cjZCMm9mbHJLc2RoUXFaTlJmRHdRNTUvUlQwVi9CWkFRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.2.0/windows/Tintero_0.2.0_x64-setup.exe"
     }
   },
   "release_notes": {
-    "es": "🚀 Añadidos idiomas francés, italiano, portugués, alemán y catalán",
-    "en": "🚀 Added French, Italian, Portuguese, German and Catalan languages",
-    "it": "🚀 Aggiunte le lingue francese, italiano, portoghese, tedesco e catalano",
-    "fr": "🚀 Ajout des langues française, italienne, portugaise, allemande et catalane",
-    "pt": "🚀 Adicionados os idiomas francês, italiano, português, alemão e catalão",
-    "de": "🚀 Französische, italienische, portugiesische, deutsche und katalanische Sprachen hinzugefügt",
-    "ca": "🚀 Afegits els idiomes francès, italià, portuguès, alemany i català"
+    "en": "Fixed several missing or incorrect translations.\nImproved the appearance of notes in the dashboard panel.\nAdded the option to include checkboxes in cardboards.\nFixed an issue where beta users couldn't sync projects.",
+    "es": "Se han corregido varias traducciones faltantes o erróneas.\nSe ha mejorado el aspecto de las notas en el panel del dashboard.\nSe ha añadido la opción de añadir casillas de verificación a las cardboards.\nSe ha solucionado un error que impedía a los usuarios beta sincronizar proyectos.",
+    "ca": "S'han corregit diverses traduccions que faltaven o eren incorrectes.\nS'ha millorat l'aspecte de les notes al tauler de control.\nS'ha afegit l'opció d'afegir caselles de selecció a les cardboards.\nS'ha corregit un error que impedia als usuaris beta sincronitzar projectes.",
+    "de": "Mehrere fehlende oder falsche Übersetzungen wurden korrigiert.\nDas Erscheinungsbild der Notizen im Dashboard-Panel wurde verbessert.\nDie Option zum Hinzufügen von Kontrollkästchen zu den Cardboards wurde hinzugefügt.\nEin Fehler wurde behoben, durch den Beta-Nutzer Projekte nicht synchronisieren konnten.",
+    "fr": "Correction de plusieurs traductions manquantes ou incorrectes.\nAmélioration de l'apparence des notes dans le panneau du tableau de bord.\nAjout de la possibilité d'ajouter des cases à cocher aux cardboards.\nCorrection d'un bug empêchant les utilisateurs bêta de synchroniser leurs projets.",
+    "it": "Corrette diverse traduzioni mancanti o errate.\nMigliorato l'aspetto delle note nel pannello della dashboard.\nAggiunta l'opzione per inserire checkbox nelle cardboards.\nRisolto un errore che impediva agli utenti beta di sincronizzare i progetti.",
+    "pt": "Foram corrigidas várias traduções em falta ou incorretas.\nFoi melhorado o aspeto das notas no painel do dashboard.\nAdicionada a opção de incluir caixas de seleção nas cardboards.\nCorrigido um erro que impedia os utilizadores beta de sincronizar projetos."
   }
 }
