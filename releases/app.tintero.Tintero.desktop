@@ -8,4 +8,4 @@ Categories=Office;WordProcessor;
 StartupNotify=true
 MimeType=text/plain;
 Keywords=writing;novel;script;essay;creative;rpg;screenplay;
-StartupWMClass=tintero
+StartupWMClass=app
