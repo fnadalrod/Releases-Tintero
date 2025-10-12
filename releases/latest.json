@@ -1,24 +1,24 @@
 {
-  "version": "0.2.0",
-  "notes": "Fixed several missing or incorrect translations.\nImproved the appearance of notes in the dashboard panel.\nAdded the option to include checkboxes in cardboards.\nFixed an issue where beta users couldn't sync projects.",
-  "pub_date": "2025-10-11T00:00:00.000Z",
+  "version": "0.3.0",
+  "notes": "Improvements on sync functionality and fixed minor graphical bugs.",
+  "pub_date": "2025-10-12T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXU3RThMUEhxQU5wcjJBRlFpaDVNV0JVZENQV2xnNWJveW1jQWRMMUp5NEM3bmt5TTN4T2N1UXNHakhud3Mzb0h3MFZmZTR1aUJ6VWMyWjhJTzZHcWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMTM3MDM2CWZpbGU6VGludGVyb18wLjIuMF9hbWQ2NC5kZWIKUVBZdDd5Z2ZIVHlQNWo5bnBNSUxFdTdGZy9JN2htSy9QNzBWZVVhdnlUYlVtbHdIRlg3WFNuL3J0NlhoM2IxaHBVVlo3UDVOSVlhWnZ3TmRTZ1R2QlE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.2.0/linux/Tintero_0.2.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFiOGFmZjllRGdGYXBNczdld3c5M1pmdnI3bUxoaTlGZUhOeTFCMWtPU2kzc0lYQS9TeitlMGdJNEgyOGZ3WXlGbmRTN2ZTdTB1OVlWcEdXNzFjeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc0OTI5CWZpbGU6VGludGVyb18wLjMuMF9hbWQ2NC5kZWIKK3lVWlJJMVBpa2UxNHoxalErMlNRZUFhUzdmclZpSzFZZVpXdHFFSkIzdGU3RFM4aHY0RDcxczlXWWNlOGJjM0UyL2ozR3Q2dlEwS0lyZWhlazg4REE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.0/linux/Tintero_0.3.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9QRUg5cTFrOTQyZjhTNzZ2M1Z4dzA2cUxRNHpCMU4vb2RNa3MyWTdwSXJJTFBrMXJVMW5DS01TamRxK1Y2eHBvOGhOOHhMWDRZRHBUUzlwZnowQ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMTM3OTUzCWZpbGU6VGludGVyb18wLjIuMF94NjQtc2V0dXAuZXhlCktyMzcxMlVteExqMEI0eTh6R0ltVmlIYTB3MUNTMVIzSno1ajJ4eWFYekk5MkFhV29hdVV6cjZCMm9mbHJLc2RoUXFaTlJmRHdRNTUvUlQwVi9CWkFRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.2.0/windows/Tintero_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFSRDFWZW95N1pOakhjMG9xNEJXK0JSWnUzUHFVbGltR3NTSnFRVXhMUHJxYi9haE43WHYzQlBneHp6ZVEyb1ZyMm81V3k4Q01KblFQd2pHZnVjbXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc1ODA1CWZpbGU6VGludGVyb18wLjMuMF94NjQtc2V0dXAuZXhlCnRmeGlqTjgyWGY1L1BJdnN6VlhuTkFLbDdoOUg3dWdJUDlySnR4cllNYmQ5bU9LYnBUdFNwZXlxTHpKMXI4eGtDeXNYM3lvSlNHZ0FSeGZpSWVGcURnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.0/windows/Tintero_0.3.0_x64-setup.exe"
     }
   },
   "release_notes": {
-    "en": "Fixed several missing or incorrect translations.\nImproved the appearance of notes in the dashboard panel.\nAdded the option to include checkboxes in cardboards.\nFixed an issue where beta users couldn't sync projects.",
-    "es": "Se han corregido varias traducciones faltantes o erróneas.\nSe ha mejorado el aspecto de las notas en el panel del dashboard.\nSe ha añadido la opción de añadir casillas de verificación a las cardboards.\nSe ha solucionado un error que impedía a los usuarios beta sincronizar proyectos.",
-    "ca": "S'han corregit diverses traduccions que faltaven o eren incorrectes.\nS'ha millorat l'aspecte de les notes al tauler de control.\nS'ha afegit l'opció d'afegir caselles de selecció a les cardboards.\nS'ha corregit un error que impedia als usuaris beta sincronitzar projectes.",
-    "de": "Mehrere fehlende oder falsche Übersetzungen wurden korrigiert.\nDas Erscheinungsbild der Notizen im Dashboard-Panel wurde verbessert.\nDie Option zum Hinzufügen von Kontrollkästchen zu den Cardboards wurde hinzugefügt.\nEin Fehler wurde behoben, durch den Beta-Nutzer Projekte nicht synchronisieren konnten.",
-    "fr": "Correction de plusieurs traductions manquantes ou incorrectes.\nAmélioration de l'apparence des notes dans le panneau du tableau de bord.\nAjout de la possibilité d'ajouter des cases à cocher aux cardboards.\nCorrection d'un bug empêchant les utilisateurs bêta de synchroniser leurs projets.",
-    "it": "Corrette diverse traduzioni mancanti o errate.\nMigliorato l'aspetto delle note nel pannello della dashboard.\nAggiunta l'opzione per inserire checkbox nelle cardboards.\nRisolto un errore che impediva agli utenti beta di sincronizzare i progetti.",
-    "pt": "Foram corrigidas várias traduções em falta ou incorretas.\nFoi melhorado o aspeto das notas no painel do dashboard.\nAdicionada a opção de incluir caixas de seleção nas cardboards.\nCorrigido um erro que impedia os utilizadores beta de sincronizar projetos."
+    "en": "Improvements on sync functionality and fixed minor graphical bugs.",
+    "es": "Mejoras en la funcionalidad de sincronización y corrección de pequeños errores gráficos.",
+    "ca": "Millores en la funcionalitat de sincronització i correcció de petits errors gràfics.",
+    "de": "Verbesserungen der Synchronisierungsfunktion und Behebung kleiner grafischer Fehler.",
+    "fr": "Améliorations de la fonctionnalité de synchronisation et correction de petits bugs graphiques.",
+    "it": "Miglioramenti nella funzionalità di sincronizzazione e correzione di piccoli bug grafici.",
+    "pt": "Melhorias na funcionalidade de sincronização e correção de pequenos erros gráficos."
   }
 }
