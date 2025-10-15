@@ -1,24 +1,24 @@
 {
-  "version": "0.3.0",
-  "notes": "Improvements on sync functionality and fixed minor graphical bugs.",
+  "version": "0.3.1",
+  "notes": "Added auto refresh token, fixed beta user issues, fixed translations, fixed minor bugs, fixed minor graphical bugs.",
   "pub_date": "2025-10-12T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFiOGFmZjllRGdGYXBNczdld3c5M1pmdnI3bUxoaTlGZUhOeTFCMWtPU2kzc0lYQS9TeitlMGdJNEgyOGZ3WXlGbmRTN2ZTdTB1OVlWcEdXNzFjeEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc0OTI5CWZpbGU6VGludGVyb18wLjMuMF9hbWQ2NC5kZWIKK3lVWlJJMVBpa2UxNHoxalErMlNRZUFhUzdmclZpSzFZZVpXdHFFSkIzdGU3RFM4aHY0RDcxczlXWWNlOGJjM0UyL2ozR3Q2dlEwS0lyZWhlazg4REE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.0/linux/Tintero_0.3.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhoTjFZOWVLTzQxNEU5c2ZoRFpwMUF3NnFYWkJ4Rm5LRWJKVUhXaXB4c2lXcWtZUm8rL3ZveG9RRU9GaWhSK2p0d3F6K09HZXJTaGpaMk1iT3JHZmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNTY2MTg4CWZpbGU6VGludGVyb18wLjMuMV9hbWQ2NC5kZWIKZjR2RWxTRHA0ZE9CbFpjOUhrWFZRMTBqR2Z3ZXNyR0haeXFWNGFpV1YwdHZrdlpFUm55dUZOZUlCb0R1ZllTYzNESzh1c0dONVJnVjNzQ2JndmRjQlE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.1/linux/Tintero_0.3.1_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFSRDFWZW95N1pOakhjMG9xNEJXK0JSWnUzUHFVbGltR3NTSnFRVXhMUHJxYi9haE43WHYzQlBneHp6ZVEyb1ZyMm81V3k4Q01KblFQd2pHZnVjbXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc1ODA1CWZpbGU6VGludGVyb18wLjMuMF94NjQtc2V0dXAuZXhlCnRmeGlqTjgyWGY1L1BJdnN6VlhuTkFLbDdoOUg3dWdJUDlySnR4cllNYmQ5bU9LYnBUdFNwZXlxTHpKMXI4eGtDeXNYM3lvSlNHZ0FSeGZpSWVGcURnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.0/windows/Tintero_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW01Q2xLSjFkREpvRlBKTldBWTBzN1lLOTdFWHpuejFpWWtqWG0yaEdJQTB1cEZldy85eWRPOTl0WnhqU3ZaMS9uTDMvZkhqWVdTd2FDNTdVQW5SMkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNTY3Mjc1CWZpbGU6VGludGVyb18wLjMuMV94NjQtc2V0dXAuZXhlCjAyYitwbFZMRnVpdVJlVGJxUnZOVGlUWDNZZTVVRHl4NUlUVkhSbFU2ZmhKaitqOUNKcUtETHIwWE5UOUhJdXQyNTRabkdBaHQ5Q1Vidzk3WlVxT0N3PT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.1/windows/Tintero_0.3.1_x64-setup.exe"
     }
   },
   "release_notes": {
-    "en": "Improvements on sync functionality and fixed minor graphical bugs.",
-    "es": "Mejoras en la funcionalidad de sincronización y corrección de pequeños errores gráficos.",
-    "ca": "Millores en la funcionalitat de sincronització i correcció de petits errors gràfics.",
-    "de": "Verbesserungen der Synchronisierungsfunktion und Behebung kleiner grafischer Fehler.",
-    "fr": "Améliorations de la fonctionnalité de synchronisation et correction de petits bugs graphiques.",
-    "it": "Miglioramenti nella funzionalità di sincronizzazione e correzione di piccoli bug grafici.",
-    "pt": "Melhorias na funcionalidade de sincronização e correção de pequenos erros gráficos."
+    "en": "Added auto refresh token, fixed beta user issues, fixed translations, fixed minor bugs, fixed minor graphical bugs.",
+    "es": "Añadido el refresco automático del token, corregidos problemas con usuarios beta, corregidas traducciones, corregidos errores menores y errores gráficos menores.",
+    "ca": "Afegit l'actualització automàtica del testimoni, corregits problemes amb usuaris beta, corregides traduccions, corregits errors menors i errors gràfics menors.",
+    "de": "Automatische Token-Aktualisierung hinzugefügt, Probleme mit Beta-Benutzern behoben, Übersetzungen korrigiert, kleinere Fehler und grafische Fehler behoben.",
+    "fr": "Ajout du rafraîchissement automatique du jeton, correction des problèmes avec les utilisateurs bêta, correction des traductions, correction de bugs mineurs et de bugs graphiques mineurs.",
+    "it": "Aggiunto l'aggiornamento automatico del token, risolti problemi con gli utenti beta, corrette le traduzioni, risolti piccoli bug e bug grafici minori.",
+    "pt": "Adicionado o atualização automática do token, corrigidos problemas com utilizadores beta, correções nas traduções, correção de pequenos erros e erros gráficos menores."
   }
 }
