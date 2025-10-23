@@ -1,24 +1,24 @@
 {
-  "version": "0.3.1",
-  "notes": "Added auto refresh token, fixed beta user issues, fixed translations, fixed minor bugs, fixed minor graphical bugs.",
-  "pub_date": "2025-10-12T00:00:00.000Z",
+  "version": "0.4.1",
+  "notes": "Added sidebar in editor for direct control of scenes, characters, notes and worldbuilding for each file, fixed synchronization issues when entering idle mode, added direct anonymous feedback without email, fixed multi-search issues, corrected French translations, improved app details, minor fixes.",
+  "pub_date": "2025-10-23T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhoTjFZOWVLTzQxNEU5c2ZoRFpwMUF3NnFYWkJ4Rm5LRWJKVUhXaXB4c2lXcWtZUm8rL3ZveG9RRU9GaWhSK2p0d3F6K09HZXJTaGpaMk1iT3JHZmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNTY2MTg4CWZpbGU6VGludGVyb18wLjMuMV9hbWQ2NC5kZWIKZjR2RWxTRHA0ZE9CbFpjOUhrWFZRMTBqR2Z3ZXNyR0haeXFWNGFpV1YwdHZrdlpFUm55dUZOZUlCb0R1ZllTYzNESzh1c0dONVJnVjNzQ2JndmRjQlE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.1/linux/Tintero_0.3.1_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxEcHFzcHFsZDJiaE1IalJZdnE3Q216d0VaTHNQTWNYbGMwUzFFdnhzY0NZYWc2TGhhMzJLQzlXM0VrQ053bEVXSjZ1YjdwZE5lS05qM3R6NEp0V3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMjIyODA0CWZpbGU6VGludGVyb18wLjQuMV9hbWQ2NC5kZWIKQzNtREY5N1JPYlJZQjFvaE9QUTNVZWZ1RDV2Rm81RFlyUjhzM1VZMW4rZWhtVG1ncEtuQ3lWZEpPQkdsS2hVRi9BOU90MWpjZ1kwcStxQVB5Qm1HQVE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.1/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW01Q2xLSjFkREpvRlBKTldBWTBzN1lLOTdFWHpuejFpWWtqWG0yaEdJQTB1cEZldy85eWRPOTl0WnhqU3ZaMS9uTDMvZkhqWVdTd2FDNTdVQW5SMkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNTY3Mjc1CWZpbGU6VGludGVyb18wLjMuMV94NjQtc2V0dXAuZXhlCjAyYitwbFZMRnVpdVJlVGJxUnZOVGlUWDNZZTVVRHl4NUlUVkhSbFU2ZmhKaitqOUNKcUtETHIwWE5UOUhJdXQyNTRabkdBaHQ5Q1Vidzk3WlVxT0N3PT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/raw/master/releases/0.3.1/windows/Tintero_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXNJTlhJVkk3cElIKy9pQUk0NytoWElVSTZsM3FRYzdQMVFjNTA3RDM5TXExL1QzUEx4MHBxc0Y2NXEvc2xCZFVZTTJ1QXl0KzNyQ0R5U1JzdDdaWmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMjIzNjYzCWZpbGU6VGludGVyb18wLjQuMV94NjQtc2V0dXAuZXhlCnl2b2taK0MwVHVXRkJwSjIrY2pTdzIwSUZtaFIzYjZDZ09VcDM1UlZTRHhaSmNOMHhVZkc5Nm9GV0JBN1RXdzhpbmhydUhxSCtod1VaTGRFbFNnVUFnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.1/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added auto refresh token, fixed beta user issues, fixed translations, fixed minor bugs, fixed minor graphical bugs.",
-    "es": "Añadido el refresco automático del token, corregidos problemas con usuarios beta, corregidas traducciones, corregidos errores menores y errores gráficos menores.",
-    "ca": "Afegit l'actualització automàtica del testimoni, corregits problemes amb usuaris beta, corregides traduccions, corregits errors menors i errors gràfics menors.",
-    "de": "Automatische Token-Aktualisierung hinzugefügt, Probleme mit Beta-Benutzern behoben, Übersetzungen korrigiert, kleinere Fehler und grafische Fehler behoben.",
-    "fr": "Ajout du rafraîchissement automatique du jeton, correction des problèmes avec les utilisateurs bêta, correction des traductions, correction de bugs mineurs et de bugs graphiques mineurs.",
-    "it": "Aggiunto l'aggiornamento automatico del token, risolti problemi con gli utenti beta, corrette le traduzioni, risolti piccoli bug e bug grafici minori.",
-    "pt": "Adicionado o atualização automática do token, corrigidos problemas com utilizadores beta, correções nas traduções, correção de pequenos erros e erros gráficos menores."
+    "en": "Added sidebar in editor for direct control of scenes, characters, notes and worldbuilding for each file. Fixed synchronization issues when entering idle mode. Added direct, anonymous feedback without email to collect better feedback during beta. Fixed issues with multi-search. Corrected incorrect French translations. Improved app details. Minor fixes.",
+    "es": "Añadida barra lateral en el editor para control directo de escenas, personajes, notas y worldbuilding para cada archivo. Corregidos problemas de sincronización al entrar en modo inactivo. Añadido sistema de feedback directo y anónimo sin correo electrónico para recopilar mejor feedback durante la beta. Corregidos problemas con la búsqueda múltiple. Corregidas traducciones incorrectas en francés. Mejorados los detalles de la aplicación. Correcciones menores.",
+    "ca": "Afegida barra lateral a l'editor per al control directe d'escenes, personatges, notes i worldbuilding per a cada arxiu. Corregits problemes de sincronització en entrar en mode inactiu. Afegit sistema de feedback directe i anònim sense correu electrònic per recopilar millor feedback durant la beta. Corregits problemes amb la cerca múltiple. Corregides traduccions incorrectes en francès. Millorats els detalls de l'aplicació. Correccions menors.",
+    "de": "Seitenleiste im Editor für direkte Steuerung von Szenen, Charakteren, Notizen und Worldbuilding für jede Datei hinzugefügt. Synchronisierungsprobleme beim Wechsel in den Ruhemodus behoben. Direktes, anonymes Feedback ohne E-Mail hinzugefügt, um besseres Feedback während der Beta zu sammeln. Probleme mit der Mehrfachsuche behoben. Falsche französische Übersetzungen korrigiert. App-Details verbessert. Kleinere Fehlerbehebungen.",
+    "fr": "Ajout d'une barre latérale dans l'éditeur pour le contrôle direct des scènes, personnages, notes et worldbuilding pour chaque fichier. Correction des problèmes de synchronisation lors du passage en mode veille. Ajout d'un système de feedback direct et anonyme sans email pour collecter de meilleurs retours pendant la bêta. Correction des problèmes avec la recherche multiple. Correction des traductions françaises incorrectes. Amélioration des détails de l'application. Corrections mineures.",
+    "it": "Aggiunta barra laterale nell'editor per il controllo diretto di scene, personaggi, note e worldbuilding per ogni file. Risolti problemi di sincronizzazione all'ingresso in modalità inattiva. Aggiunto sistema di feedback diretto e anonimo senza email per raccogliere migliori feedback durante la beta. Risolti problemi con la ricerca multipla. Corrette traduzioni francesi errate. Migliorati i dettagli dell'applicazione. Correzioni minori.",
+    "pt": "Adicionada barra lateral no editor para controlo direto de cenas, personagens, notas e worldbuilding para cada ficheiro. Corrigidos problemas de sincronização ao entrar em modo inativo. Adicionado sistema de feedback direto e anónimo sem email para recolher melhor feedback durante a beta. Corrigidos problemas com a pesquisa múltipla. Corrigidas traduções francesas incorretas. Melhorados os detalhes da aplicação. Correções menores."
   }
 }
