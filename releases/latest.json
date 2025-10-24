@@ -1,24 +1,24 @@
 {
-  "version": "0.4.1",
-  "notes": "Added sidebar in editor for direct control of scenes, characters, notes and worldbuilding for each file, fixed synchronization issues when entering idle mode, added direct anonymous feedback without email, fixed multi-search issues, corrected French translations, improved app details, minor fixes.",
-  "pub_date": "2025-10-23T00:00:00.000Z",
+  "version": "0.4.2",
+  "notes": "Fixed an issue where the language had to be selected twice when starting the application for the first time.",
+  "pub_date": "2025-10-24T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxEcHFzcHFsZDJiaE1IalJZdnE3Q216d0VaTHNQTWNYbGMwUzFFdnhzY0NZYWc2TGhhMzJLQzlXM0VrQ053bEVXSjZ1YjdwZE5lS05qM3R6NEp0V3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMjIyODA0CWZpbGU6VGludGVyb18wLjQuMV9hbWQ2NC5kZWIKQzNtREY5N1JPYlJZQjFvaE9QUTNVZWZ1RDV2Rm81RFlyUjhzM1VZMW4rZWhtVG1ncEtuQ3lWZEpPQkdsS2hVRi9BOU90MWpjZ1kwcStxQVB5Qm1HQVE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.1/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5KeE9KcGxtWUg0L3Fuc0FyaDd6N3plZG9Rcm02a2NNTjdhY1hibnFYU1RwemtIZDZZU3dLdEYrMllRbEdVVmo4blBuTmpUNVI5NHEzOFR6WHQ1RFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzA1MjU5CWZpbGU6VGludGVyb18wLjQuMl9hbWQ2NC5kZWIKQWxBVGxmeUxiMENOSUswK0VrdEI5NFdhRFFHaEhnSVFFMm04VkpjOGJqUmhscXZJcDlhOUYrMDhpN2s2cFBnang3dHdPV1p6cFZoWlp0dWpIM1h5Qnc9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.2/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXNJTlhJVkk3cElIKy9pQUk0NytoWElVSTZsM3FRYzdQMVFjNTA3RDM5TXExL1QzUEx4MHBxc0Y2NXEvc2xCZFVZTTJ1QXl0KzNyQ0R5U1JzdDdaWmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMjIzNjYzCWZpbGU6VGludGVyb18wLjQuMV94NjQtc2V0dXAuZXhlCnl2b2taK0MwVHVXRkJwSjIrY2pTdzIwSUZtaFIzYjZDZ09VcDM1UlZTRHhaSmNOMHhVZkc5Nm9GV0JBN1RXdzhpbmhydUhxSCtod1VaTGRFbFNnVUFnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.1/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRVSkxtcDhScTliekluMzhZbnlRbklpWE1meFoxTDhjbzVnRXNieUt0b3hOMmdDTGE2MmM4YXJKTDdhV0d4ZHZjSWRjcktsaXl6dXRsL2dyQVVDcnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzA2NDM1CWZpbGU6VGludGVyb18wLjQuMl94NjQtc2V0dXAuZXhlCk82UmVxYUNudDZMQW9FSXNRRXdHc044TTgrdTdjM0gweE8vQWZFSkRzR1hINHFQRFpqMDVKTjdtbUQremNBSkh0WGlPOFVIcmdqU1IyRkJXdmQ4Q0JBPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.2/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added sidebar in editor for direct control of scenes, characters, notes and worldbuilding for each file. Fixed synchronization issues when entering idle mode. Added direct, anonymous feedback without email to collect better feedback during beta. Fixed issues with multi-search. Corrected incorrect French translations. Improved app details. Minor fixes.",
-    "es": "Añadida barra lateral en el editor para control directo de escenas, personajes, notas y worldbuilding para cada archivo. Corregidos problemas de sincronización al entrar en modo inactivo. Añadido sistema de feedback directo y anónimo sin correo electrónico para recopilar mejor feedback durante la beta. Corregidos problemas con la búsqueda múltiple. Corregidas traducciones incorrectas en francés. Mejorados los detalles de la aplicación. Correcciones menores.",
-    "ca": "Afegida barra lateral a l'editor per al control directe d'escenes, personatges, notes i worldbuilding per a cada arxiu. Corregits problemes de sincronització en entrar en mode inactiu. Afegit sistema de feedback directe i anònim sense correu electrònic per recopilar millor feedback durant la beta. Corregits problemes amb la cerca múltiple. Corregides traduccions incorrectes en francès. Millorats els detalls de l'aplicació. Correccions menors.",
-    "de": "Seitenleiste im Editor für direkte Steuerung von Szenen, Charakteren, Notizen und Worldbuilding für jede Datei hinzugefügt. Synchronisierungsprobleme beim Wechsel in den Ruhemodus behoben. Direktes, anonymes Feedback ohne E-Mail hinzugefügt, um besseres Feedback während der Beta zu sammeln. Probleme mit der Mehrfachsuche behoben. Falsche französische Übersetzungen korrigiert. App-Details verbessert. Kleinere Fehlerbehebungen.",
-    "fr": "Ajout d'une barre latérale dans l'éditeur pour le contrôle direct des scènes, personnages, notes et worldbuilding pour chaque fichier. Correction des problèmes de synchronisation lors du passage en mode veille. Ajout d'un système de feedback direct et anonyme sans email pour collecter de meilleurs retours pendant la bêta. Correction des problèmes avec la recherche multiple. Correction des traductions françaises incorrectes. Amélioration des détails de l'application. Corrections mineures.",
-    "it": "Aggiunta barra laterale nell'editor per il controllo diretto di scene, personaggi, note e worldbuilding per ogni file. Risolti problemi di sincronizzazione all'ingresso in modalità inattiva. Aggiunto sistema di feedback diretto e anonimo senza email per raccogliere migliori feedback durante la beta. Risolti problemi con la ricerca multipla. Corrette traduzioni francesi errate. Migliorati i dettagli dell'applicazione. Correzioni minori.",
-    "pt": "Adicionada barra lateral no editor para controlo direto de cenas, personagens, notas e worldbuilding para cada ficheiro. Corrigidos problemas de sincronização ao entrar em modo inativo. Adicionado sistema de feedback direto e anónimo sem email para recolher melhor feedback durante a beta. Corrigidos problemas com a pesquisa múltipla. Corrigidas traduções francesas incorretas. Melhorados os detalhes da aplicação. Correções menores."
+    "en": "Fixed an issue where the language had to be selected twice when starting the application for the first time.",
+    "es": "Se ha solucionado un problema por el que en ocasiones había que seleccionar el idioma dos veces al iniciar la aplicación por primera vez.",
+    "ca": "S'ha solucionat un problema pel qual de vegades calia seleccionar l'idioma dues vegades en iniciar l'aplicació per primera vegada.",
+    "de": "Ein Problem wurde behoben, bei dem die Sprache beim ersten Start der Anwendung manchmal zweimal ausgewählt werden musste.",
+    "fr": "Correction d'un problème où la langue devait parfois être sélectionnée deux fois lors du premier démarrage de l'application.",
+    "it": "Risolto un problema per cui a volte era necessario selezionare la lingua due volte all'avvio dell'applicazione per la prima volta.",
+    "pt": "Corrigido um problema em que, por vezes, era necessário selecionar o idioma duas vezes ao iniciar a aplicação pela primeira vez."
   }
 }
