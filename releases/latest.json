@@ -1,24 +1,24 @@
 {
-  "version": "0.4.2",
-  "notes": "Fixed an issue where the language had to be selected twice when starting the application for the first time.",
-  "pub_date": "2025-10-24T00:00:00.000Z",
+  "version": "0.5.0",
+  "notes": "Major worldbuilding updates, new category options, extra fields, loading screen fix, Android fixes, improved sync.",
+  "pub_date": "2025-11-19T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW5KeE9KcGxtWUg0L3Fuc0FyaDd6N3plZG9Rcm02a2NNTjdhY1hibnFYU1RwemtIZDZZU3dLdEYrMllRbEdVVmo4blBuTmpUNVI5NHEzOFR6WHQ1RFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzA1MjU5CWZpbGU6VGludGVyb18wLjQuMl9hbWQ2NC5kZWIKQWxBVGxmeUxiMENOSUswK0VrdEI5NFdhRFFHaEhnSVFFMm04VkpjOGJqUmhscXZJcDlhOUYrMDhpN2s2cFBnang3dHdPV1p6cFZoWlp0dWpIM1h5Qnc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.2/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW1KekR6QmEzVGdDV1FJQS93UFAwTm9ZN3MzQzVDd1l4Y01GcWc2Qmo2UXBZc1ZVUDA0WndhT0RCTk5TVjJYQ2J5ZHI4ZmxlZVZUREszRUVFdEQzNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTk4MzY3CWZpbGU6VGludGVyb18wLjUuMF9hbWQ2NC5kZWIKVSs0bEZvNmFCZWlmdDdqalcxNjZnVm51ME1DTCtpQ29mUXhRYW9ibG5CVnl4NmthaUVJK0FOMk03NVNjWThpZER4ODRGZEs3dEl6d2Nnb3FPVnBDQnc9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.5.0/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRVSkxtcDhScTliekluMzhZbnlRbklpWE1meFoxTDhjbzVnRXNieUt0b3hOMmdDTGE2MmM4YXJKTDdhV0d4ZHZjSWRjcktsaXl6dXRsL2dyQVVDcnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzA2NDM1CWZpbGU6VGludGVyb18wLjQuMl94NjQtc2V0dXAuZXhlCk82UmVxYUNudDZMQW9FSXNRRXdHc044TTgrdTdjM0gweE8vQWZFSkRzR1hINHFQRFpqMDVKTjdtbUQremNBSkh0WGlPOFVIcmdqU1IyRkJXdmQ4Q0JBPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.4.2/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxTUkF1U2RRT3cxZUZabUVrWXg0WWkrSXJkSUtIR2h6ZThLQUc2WmQxZjhFMC90TXQ0TDJPNFhQR2ZzdjYxNStBWnE0c09kbWRNOEpJbVl4dlR6c3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTk5NTM2CWZpbGU6VGludGVyb18wLjUuMF94NjQtc2V0dXAuZXhlCmdIUm95UUtNWWlOSmJTdDMwK0djNExIcVQxQkdTZ05XUkhtWDhSa0hlaXErSXBTRHlCQ0puY2NEeEpLRGlGK05mNjNiRU1XTVFxOURrOGtaYThhWEJnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.5.0/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Fixed an issue where the language had to be selected twice when starting the application for the first time.",
-    "es": "Se ha solucionado un problema por el que en ocasiones había que seleccionar el idioma dos veces al iniciar la aplicación por primera vez.",
-    "ca": "S'ha solucionat un problema pel qual de vegades calia seleccionar l'idioma dues vegades en iniciar l'aplicació per primera vegada.",
-    "de": "Ein Problem wurde behoben, bei dem die Sprache beim ersten Start der Anwendung manchmal zweimal ausgewählt werden musste.",
-    "fr": "Correction d'un problème où la langue devait parfois être sélectionnée deux fois lors du premier démarrage de l'application.",
-    "it": "Risolto un problema per cui a volte era necessario selezionare la lingua due volte all'avvio dell'applicazione per la prima volta.",
-    "pt": "Corrigido um problema em que, por vezes, era necessário selecionar o idioma duas vezes ao iniciar a aplicação pela primeira vez."
+    "en": "Major worldbuilding updates: new category create/import/export/delete options, extra fields, loading screen fix, Android visual fixes, and improved sync.",
+    "es": "Grandes mejoras en worldbuilding: nuevas opciones para crear/importar/exportar/eliminar categorías, campos extra, corrección de pantalla de carga, arreglos visuales en Android y mejor sincronización.",
+    "ca": "Grans millores al worldbuilding: noves opcions per crear/importar/exportar/eliminar categories, camps extra, correcció de pantalla de càrrega, errors visuals a Android i millor sincronització.",
+    "de": "Große Worldbuilding-Updates: neue Optionen zum Erstellen/Importieren/Exportieren/Löschen von Kategorien, zusätzliche Felder, Ladebildschirm-Fix, Android-Bugfixes und bessere Synchronisation.",
+    "fr": "Mises à jour majeures du worldbuilding : nouvelles options pour créer/importer/exporter/supprimer des catégories, champs supplémentaires, correction de l’écran de chargement, corrections visuelles Android et meilleure synchronisation.",
+    "it": "Grandi novità nel worldbuilding: nuove opzioni per creare/importare/esportare/eliminare categorie, campi extra, fix della schermata de caricamento, correzioni grafiche Android e sincronizzazione migliorata.",
+    "pt": "Grandes melhorias no worldbuilding: novas opções para criar/importar/exportar/eliminar categorias, campos extra, correção do ecrã de carregamento, correções visuais no Android e melhor sincronização."
   }
 }
