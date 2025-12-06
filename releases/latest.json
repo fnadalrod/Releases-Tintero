@@ -1,24 +1,24 @@
 {
-  "version": "0.5.2",
-  "notes": "Major worldbuilding updates, new category options, extra fields, loading screen fix, Android fixes, improved sync.",
-  "pub_date": "2025-11-20T00:00:00.000Z",
+  "version": "0.6.1",
+  "notes": "Sync improvements, Google Drive integration, local AI fixes, mobile UI improvements, purchasing/token fixes, tooltips added, Google account creation fixes, major visual updates, and general stability enhancements.",
+  "pub_date": "2025-12-07T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZsVWs5SU41dzIyQkFtY2VPbkU4T3U3bXM2RXRVL0Vhc0NKdGhoMTY2aFZhUjVIRERPZHRwbVFZVkFxNWIvZXdkUnpZQ2pJeHpVZi9oV1l0YUFUQ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjgxMTkxCWZpbGU6VGludGVyb18wLjUuMl9hbWQ2NC5kZWIKOXJITThyNFpDZ0pYV0Qzdjhqdzg4U1lQdjRUQ1RXRlFrWlBjNTl3d3NMZnRrdnV1aG4yUlgwRnBPeU1Wa0xWMzJUb2UzYk12MFZRdyswdG9nTTA5Q0E9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.5.2/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtiUXUwOUhIbVhCVUY1M1JBNHFSSFpsUUtnNnZSbDh0bWVFeE9uQ2F5NkpSZWE5U2xHMSs3U1ZPUC9sU0k2bVdaTk96Q2VHa3VtTTlEZFBmYTh1SHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MDYwNzI2CWZpbGU6VGludGVyb18wLjYuMV9hbWQ2NC5kZWIKK2dJV0tMQm1BaFoyc2RvbkJxYU9GbTI5S0xLV1IxRTkrOEpHdmhJZzZQRitNcStSZSt0MUNkTFQ5YkRnOUo1eC90MHRlMm1ocmRWZDhDTjJkdnZNREE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.1/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlHaU9YaDl6Sk5Ua3QrSk9OUjJIdkc4bnljZ0pUYnFzYy9NOGJScXlpY203eGxBVlN6MkNGb3hQa2hFZVJtb0o3VUZEMUZWL3pqcjdMYXNHSCsycVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjc4MTU1CWZpbGU6VGludGVyb18wLjUuMl94NjQtc2V0dXAuZXhlCmtMN3dpMmkxcEpGNnl5OGgra05STkpzS1pCNVFLMVRiSTd1QlNmUUZpMVdHQUZBVm5IMUZ4NHdacUpRbElHZ1lBcTV4cS9HalZzaVl4L01FelppVkN3PT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.5.2/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXJKMGM5RVE5Ykp5NU9TeXVvd0lySkNoTm5yWlFDK2JlZyt0UFh2N2hzc0wycVF1RlRsT0dGUG5ET2g3U0ZSaWREdVpJZDRWbTRhdE1oRG0yUFNqc2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MDQxNTcyCWZpbGU6VGludGVyb18wLjYuMV94NjQtc2V0dXAuZXhlCkM2YTNlQjArYmhoK210dlFOWVdHSitIOGEwdis1WUVjTkVQMWV0azdOMDBtWDA2WEhZWTZaMFdaNTFlUTVFUWd0aSt3d0FrQ3l6SkgvTSsyK3E0a0NRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.1/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Major worldbuilding updates: new category create/import/export/delete options, extra fields, loading screen fix, Android visual fixes, and improved sync.",
-    "es": "Grandes mejoras en worldbuilding: nuevas opciones para crear/importar/exportar/eliminar categorías, campos extra, corrección de pantalla de carga, arreglos visuales en Android y mejor sincronización.",
-    "ca": "Grans millores al worldbuilding: noves opcions per crear/importar/exportar/eliminar categories, camps extra, correcció de pantalla de càrrega, errors visuals a Android i millor sincronització.",
-    "de": "Große Worldbuilding-Updates: neue Optionen zum Erstellen/Importieren/Exportieren/Löschen von Kategorien, zusätzliche Felder, Ladebildschirm-Fix, Android-Bugfixes und bessere Synchronisation.",
-    "fr": "Mises à jour majeures du worldbuilding : nouvelles options pour créer/importer/exporter/supprimer des catégories, champs supplémentaires, correction de l’écran de chargement, corrections visuelles Android et meilleure synchronisation.",
-    "it": "Grandi novità nel worldbuilding: nuove opzioni per creare/importare/esportare/eliminare categorie, campi extra, fix della schermata de caricamento, correzioni grafiche Android e sincronizzazione migliorata.",
-    "pt": "Grandes melhorias no worldbuilding: novas opções para criar/importar/exportar/eliminar categorias, campos extra, correção do ecrã de carregamento, correções visuais no Android e melhor sincronização."
+    "en": "Improvements on sync, Google Drive added as a third-party sync option, improved local AI usage and connection fixes, better mobile experience when adding or editing files, fixes related to purchasing and viewing AI tokens, tooltips added to many buttons, fixes for Google account creation, major visual updates on the initial page, and general hotfixes, visual improvements, and stability enhancements.",
+    "es": "Mejoras en la sincronización, añadido Google Drive como opción de sincronización externa, mejoras en el uso de IA local y correcciones de conexión, mejor experiencia móvil al añadir o editar archivos, correcciones relacionadas con la compra y visualización de tokens de IA, añadidos tooltips a muchos botones, correcciones al crear cuentas con Google, importantes actualizaciones visuales en la página inicial y correcciones generales, mejoras visuales y mayor estabilidad.",
+    "ca": "Millores en la sincronització, afegit Google Drive com a opció de sincronització externa, millores en l'ús de la IA local i correccions de connexió, millor experiència mòbil en afegir o editar arxius, correccions relacionades amb la compra i visualització de tokens d'IA, afegits tooltips a molts botons, correccions en la creació de comptes amb Google, actualitzacions visuals importants a la pàgina inicial i correccions generals, millores visuals i estabilitat.",
+    "de": "Verbesserungen bei der Synchronisierung, Google Drive als Drittanbieter-Sync-Option hinzugefügt, verbessertes lokales KI-Verhalten und Verbindungsfixes, bessere mobile Erfahrung beim Hinzufügen oder Bearbeiten von Dateien, Fehlerbehebungen beim Kauf und Anzeigen von KI-Tokens, Tooltips zu vielen Schaltflächen hinzugefügt, Fehlerbehebungen bei der Google-Kontoerstellung, große visuelle Updates auf der Startseite sowie allgemeine Hotfixes, visuelle Verbesserungen und Stabilitätsverbesserungen.",
+    "fr": "Améliorations de la synchronisation, ajout de Google Drive comme option tierce, amélioration de l'utilisation de l'IA locale et corrections de connexion, meilleure expérience mobile lors de l'ajout ou de l'édition de fichiers, corrections liées à l'achat et à l'affichage des jetons IA, ajout de tooltips à de nombreux boutons, corrections lors de la création de comptes Google, mises à jour visuelles majeures sur la page initiale ainsi que correctifs généraux, améliorations visuelles et stabilité accrue.",
+    "it": "Miglioramenti alla sincronizzazione, aggiunto Google Drive come opzione di sincronizzazione di terze parti, migliorato l'uso dell'IA locale e corretti problemi di connessione, migliore esperienza mobile nell'aggiunta o modifica di file, correzioni relative all'acquisto e visualizzazione dei token IA, aggiunti tooltip a molti pulsanti, correzioni nella creazione di account Google, importanti aggiornamenti visivi nella pagina iniziale e vari hotfix, miglioramenti visivi e stabilità.",
+    "pt": "Melhorias na sincronização, Google Drive adicionado como opção de sincronização externa, melhorias no uso da IA local e correções de conexão, melhor experiência móvel ao adicionar ou editar arquivos, correções relacionadas à compra e visualização de tokens de IA, adicionados tooltips em muitos botões, correções na criação de contas Google, grandes atualizações visuais na página inicial e correções gerais, melhorias visuais e maior estabilidade."
   }
 }
