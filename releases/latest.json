@@ -1,24 +1,24 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "notes": "Sync improvements, Google Drive integration, local AI fixes, mobile UI improvements, purchasing/token fixes, tooltips added, Google account creation fixes, major visual updates, and general stability enhancements.",
-  "pub_date": "2025-12-07T00:00:00.000Z",
+  "pub_date": "2025-12-09T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtiUXUwOUhIbVhCVUY1M1JBNHFSSFpsUUtnNnZSbDh0bWVFeE9uQ2F5NkpSZWE5U2xHMSs3U1ZPUC9sU0k2bVdaTk96Q2VHa3VtTTlEZFBmYTh1SHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MDYwNzI2CWZpbGU6VGludGVyb18wLjYuMV9hbWQ2NC5kZWIKK2dJV0tMQm1BaFoyc2RvbkJxYU9GbTI5S0xLV1IxRTkrOEpHdmhJZzZQRitNcStSZSt0MUNkTFQ5YkRnOUo1eC90MHRlMm1ocmRWZDhDTjJkdnZNREE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.1/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxSNzY3dHI2MEFFS0xTYlBpeDZ6ekFFT0FyOVhQaUlGL1hKTUpIZG9wNCtsdjhFTmdHd2ZmWHpyVTVWbTExdi93Z2YrTng2VVhUQ0VsR21seFdKUVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjQ0MjgwCWZpbGU6VGludGVyb18wLjYuMl9hbWQ2NC5kZWIKKzN1dDBGbHZRbHRyZlM3REEwakw4UDdFNnp2VWZ5TlBaL2E1S3NHcENzMmh5RE5lSUdTOFZhTGphMnhIbk1YZXp1d1hhUHM5bU0vdjIwOTVFM3BQQ3c9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.2/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXJKMGM5RVE5Ykp5NU9TeXVvd0lySkNoTm5yWlFDK2JlZyt0UFh2N2hzc0wycVF1RlRsT0dGUG5ET2g3U0ZSaWREdVpJZDRWbTRhdE1oRG0yUFNqc2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MDQxNTcyCWZpbGU6VGludGVyb18wLjYuMV94NjQtc2V0dXAuZXhlCkM2YTNlQjArYmhoK210dlFOWVdHSitIOGEwdis1WUVjTkVQMWV0azdOMDBtWDA2WEhZWTZaMFdaNTFlUTVFUWd0aSt3d0FrQ3l6SkgvTSsyK3E0a0NRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.1/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRuamtaN2xnN1FFTjg0Y1FHaHFudDdkeEp6SktsMjBJQ1M4NWFtVi80SjFCMFpvZE5rQXZ4anVDOUU1eDg2YTJkVEFHVU9NeFVWV2Q3RHlTOHhXUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjQ1NjMyCWZpbGU6VGludGVyb18wLjYuMl94NjQtc2V0dXAuZXhlCjFNVkhUV2E4a2UxVGN0Vmc5aHNiNUtQVHRRdjNINGFwd2JHbFIyR2oyeFdBUVRBTUZheW1kb0lhSlE2SVRZb1VhMUtxRE4wZVIvcUNISkF6dUlaTUJRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.2/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Improvements on sync, Google Drive added as a third-party sync option, improved local AI usage and connection fixes, better mobile experience when adding or editing files, fixes related to purchasing and viewing AI tokens, tooltips added to many buttons, fixes for Google account creation, major visual updates on the initial page, and general hotfixes, visual improvements, and stability enhancements.",
-    "es": "Mejoras en la sincronización, añadido Google Drive como opción de sincronización externa, mejoras en el uso de IA local y correcciones de conexión, mejor experiencia móvil al añadir o editar archivos, correcciones relacionadas con la compra y visualización de tokens de IA, añadidos tooltips a muchos botones, correcciones al crear cuentas con Google, importantes actualizaciones visuales en la página inicial y correcciones generales, mejoras visuales y mayor estabilidad.",
-    "ca": "Millores en la sincronització, afegit Google Drive com a opció de sincronització externa, millores en l'ús de la IA local i correccions de connexió, millor experiència mòbil en afegir o editar arxius, correccions relacionades amb la compra i visualització de tokens d'IA, afegits tooltips a molts botons, correccions en la creació de comptes amb Google, actualitzacions visuals importants a la pàgina inicial i correccions generals, millores visuals i estabilitat.",
-    "de": "Verbesserungen bei der Synchronisierung, Google Drive als Drittanbieter-Sync-Option hinzugefügt, verbessertes lokales KI-Verhalten und Verbindungsfixes, bessere mobile Erfahrung beim Hinzufügen oder Bearbeiten von Dateien, Fehlerbehebungen beim Kauf und Anzeigen von KI-Tokens, Tooltips zu vielen Schaltflächen hinzugefügt, Fehlerbehebungen bei der Google-Kontoerstellung, große visuelle Updates auf der Startseite sowie allgemeine Hotfixes, visuelle Verbesserungen und Stabilitätsverbesserungen.",
-    "fr": "Améliorations de la synchronisation, ajout de Google Drive comme option tierce, amélioration de l'utilisation de l'IA locale et corrections de connexion, meilleure expérience mobile lors de l'ajout ou de l'édition de fichiers, corrections liées à l'achat et à l'affichage des jetons IA, ajout de tooltips à de nombreux boutons, corrections lors de la création de comptes Google, mises à jour visuelles majeures sur la page initiale ainsi que correctifs généraux, améliorations visuelles et stabilité accrue.",
-    "it": "Miglioramenti alla sincronizzazione, aggiunto Google Drive come opzione di sincronizzazione di terze parti, migliorato l'uso dell'IA locale e corretti problemi di connessione, migliore esperienza mobile nell'aggiunta o modifica di file, correzioni relative all'acquisto e visualizzazione dei token IA, aggiunti tooltip a molti pulsanti, correzioni nella creazione di account Google, importanti aggiornamenti visivi nella pagina iniziale e vari hotfix, miglioramenti visivi e stabilità.",
-    "pt": "Melhorias na sincronização, Google Drive adicionado como opção de sincronização externa, melhorias no uso da IA local e correções de conexão, melhor experiência móvel ao adicionar ou editar arquivos, correções relacionadas à compra e visualização de tokens de IA, adicionados tooltips em muitos botões, correções na criação de contas Google, grandes atualizações visuais na página inicial e correções gerais, melhorias visuais e maior estabilidade."
+    "en": "Fixed major sync issues, minor improvements to desktop login, Android app now closes properly when pressing Back, and general performance and stability enhancements.",
+    "es": "Corregidos problemas importantes de sincronización, pequeñas mejoras en el inicio de sesión en escritorio, la app de Android ahora se cierra correctamente al pulsar Atrás y mejoras generales de rendimiento y estabilidad.",
+    "ca": "Corregits problemes importants de sincronització, millores menors en l'inici de sessió a l'escriptori, l'app d'Android ara es tanca correctament en prémer Enrere i millores generals de rendiment i estabilitat.",
+    "de": "Wichtige Synchronisationsprobleme behoben, kleine Verbesserungen beim Desktop-Login, die Android-App schließt nun korrekt beim Drücken von Zurück sowie allgemeine Leistungs- und Stabilitätsverbesserungen.",
+    "fr": "Correction de problèmes majeurs de synchronisation, légères améliorations de la connexion sur desktop, l'application Android se ferme maintenant correctement en appuyant sur Retour, ainsi que des améliorations générales de performance et de stabilité.",
+    "it": "Risolti problemi importanti di sincronizzazione, miglioramenti minori nel login su desktop, l'app Android ora si chiude correttamente premendo Indietro e miglioramenti generali delle prestazioni e della stabilità.",
+    "pt": "Corrigidos problemas importantes de sincronização, pequenas melhorias no login de desktop, o app Android agora fecha corretamente ao pressionar Voltar e melhorias gerais de desempenho e estabilidade."
   }
 }
