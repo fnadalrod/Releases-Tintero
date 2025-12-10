@@ -1,24 +1,24 @@
 {
-  "version": "0.6.2",
-  "notes": "Sync improvements, Google Drive integration, local AI fixes, mobile UI improvements, purchasing/token fixes, tooltips added, Google account creation fixes, major visual updates, and general stability enhancements.",
-  "pub_date": "2025-12-09T00:00:00.000Z",
+  "version": "0.6.3",
+  "notes": "Massive performance improvements, fixed project importing on Android, and changes to sync system.",
+  "pub_date": "2025-12-10T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxqRXdlNTZMc0JFSm9ja2FhU0dEZVNKRmRMVnd1TGNiZlF5SnY1NnFkRmtaUWFkaUdxWFRIay8vd0x6bzJCYUVpOVU0c1lvTi9RN3FFS3hhRVN2R2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjY5MTU0CWZpbGU6VGludGVyb18wLjYuMl9hbWQ2NC5kZWIKV2ZHQ2NXdjFUbDBad256Qnh6aDZNcFQrWTZxUE9jekxVUW9GdlZmQ2R6dWlCREYzeDluSGNEU0pxbzNnN1lGalUvaHVWMC8wRkxERUJlejBCb2psQUE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.2/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpybG56a0phWnNma3lHeGVvTy9qUjE5aHZDaEdocXVnUjlwelppek9rVC82QzlpeCtTS01UblZBNjZ3bm1LTGtlZFIrRzV4dkFRM2VuTnRxT0Q4R3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzI1ODM3CWZpbGU6VGludGVyb18wLjYuM19hbWQ2NC5kZWIKUTFkb0xTVHdGL3NJMHNENjdySWNKSlR3bTFrcHhleTcxRWUvS0pBRzdrZ2phWDBFeDVPZzRnNEhpazVvRHVjY1JwN1c3MkJSSEVnR2tTMUxxY0VNRFE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.3/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRuamtaN2xnN1FFTjg0Y1FHaHFudDdkeEp6SktsMjBJQ1M4NWFtVi80SjFCMFpvZE5rQXZ4anVDOUU1eDg2YTJkVEFHVU9NeFVWV2Q3RHlTOHhXUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjQ1NjMyCWZpbGU6VGludGVyb18wLjYuMl94NjQtc2V0dXAuZXhlCjFNVkhUV2E4a2UxVGN0Vmc5aHNiNUtQVHRRdjNINGFwd2JHbFIyR2oyeFdBUVRBTUZheW1kb0lhSlE2SVRZb1VhMUtxRE4wZVIvcUNISkF6dUlaTUJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.2/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9HVURjSytpTGVCckw4aFgyUWdnaGJ2QVFOMTJ3TnRnblptbUR1QnREeTBmN0FUUW9jdEtuNnJ0cWRzMERyUWZIKzRLZTlJekNFYURLUkEyTkhablEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzI2OTc5CWZpbGU6VGludGVyb18wLjYuM194NjQtc2V0dXAuZXhlCndqelorU1h2SkVKdytiZUJKSE5JZWRvdnVnUDg5eHJ0RCtNT1NRUW83UG00dmE4QW1ydkZmSmNNOTBWNE9uMGw0ajNuRzYvWUpFNm5sbGZZYjhvakRnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.3/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Fixed major sync issues, minor improvements to desktop login, Android app now closes properly when pressing Back, and general performance and stability enhancements.",
-    "es": "Corregidos problemas importantes de sincronización, pequeñas mejoras en el inicio de sesión en escritorio, la app de Android ahora se cierra correctamente al pulsar Atrás y mejoras generales de rendimiento y estabilidad.",
-    "ca": "Corregits problemes importants de sincronització, millores menors en l'inici de sessió a l'escriptori, l'app d'Android ara es tanca correctament en prémer Enrere i millores generals de rendiment i estabilitat.",
-    "de": "Wichtige Synchronisationsprobleme behoben, kleine Verbesserungen beim Desktop-Login, die Android-App schließt nun korrekt beim Drücken von Zurück sowie allgemeine Leistungs- und Stabilitätsverbesserungen.",
-    "fr": "Correction de problèmes majeurs de synchronisation, légères améliorations de la connexion sur desktop, l'application Android se ferme maintenant correctement en appuyant sur Retour, ainsi que des améliorations générales de performance et de stabilité.",
-    "it": "Risolti problemi importanti di sincronizzazione, miglioramenti minori nel login su desktop, l'app Android ora si chiude correttamente premendo Indietro e miglioramenti generali delle prestazioni e della stabilità.",
-    "pt": "Corrigidos problemas importantes de sincronização, pequenas melhorias no login de desktop, o app Android agora fecha corretamente ao pressionar Voltar e melhorias gerais de desempenho e estabilidade."
+    "en": "Massive performance improvements, fixed project importing issues on Android, and changes to sync system.",
+    "es": "Mejoras masivas de rendimiento, corregidos problemas de importación de proyectos en Android y cambios en el sistema de sincronización.",
+    "ca": "Millores massives de rendiment, corregits problemes d'importació de projectes a Android i canvis en el sistema de sincronització.",
+    "de": "Massive Leistungsverbesserungen, behobene Probleme beim Projektimport auf Android und Änderungen am Synchronisationssystem.",
+    "fr": "Améliorations massives des performances, correction des problèmes d'importation de projets sur Android et modifications du système de synchronisation.",
+    "it": "Miglioramenti massicci delle prestazioni, risolti problemi di importazione progetti su Android e modifiche al sistema di sincronizzazione.",
+    "pt": "Melhorias massivas de desempenho, corrigidos problemas de importação de projetos no Android e alterações no sistema de sincronização."
   }
 }
