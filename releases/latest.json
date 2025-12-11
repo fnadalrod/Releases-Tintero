@@ -1,24 +1,24 @@
 {
-  "version": "0.6.3",
-  "notes": "Massive performance improvements, fixed project importing on Android, and changes to sync system.",
-  "pub_date": "2025-12-10T00:00:00.000Z",
+  "version": "0.6.4",
+  "notes": "Fixed some UI inconsistencies and improved general responsiveness.",
+  "pub_date": "2025-12-11T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpybG56a0phWnNma3lHeGVvTy9qUjE5aHZDaEdocXVnUjlwelppek9rVC82QzlpeCtTS01UblZBNjZ3bm1LTGtlZFIrRzV4dkFRM2VuTnRxT0Q4R3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzI1ODM3CWZpbGU6VGludGVyb18wLjYuM19hbWQ2NC5kZWIKUTFkb0xTVHdGL3NJMHNENjdySWNKSlR3bTFrcHhleTcxRWUvS0pBRzdrZ2phWDBFeDVPZzRnNEhpazVvRHVjY1JwN1c3MkJSSEVnR2tTMUxxY0VNRFE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.3/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhSVGI4NG8zdDRaOFdpRTF0OWQ0djlvbzRlTmtWdkNCQ05JdWRsb1FPaS83Sk02d2E5QzYyTUxwOTNDWGs5Yzg4NWtHTWNWWWp3NXlUYVZVYVNyL3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDEwMTkwCWZpbGU6VGludGVyb18wLjYuNF9hbWQ2NC5kZWIKQUJ5ejU1R0xCYUxjM2g5K3dUL0Zra3JOMUxuMW02SWt0d0NUc2tPOFZlS05SSk9wZTFZbDQreVlicCtsb1NSZkJrdStvMGRWOUppZlE4Q3JLT1Z1QUE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.4/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9HVURjSytpTGVCckw4aFgyUWdnaGJ2QVFOMTJ3TnRnblptbUR1QnREeTBmN0FUUW9jdEtuNnJ0cWRzMERyUWZIKzRLZTlJekNFYURLUkEyTkhablEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MzI2OTc5CWZpbGU6VGludGVyb18wLjYuM194NjQtc2V0dXAuZXhlCndqelorU1h2SkVKdytiZUJKSE5JZWRvdnVnUDg5eHJ0RCtNT1NRUW83UG00dmE4QW1ydkZmSmNNOTBWNE9uMGw0ajNuRzYvWUpFNm5sbGZZYjhvakRnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.3/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFQUHpWSlA3ai9jNVZtQnNsd0oxMzU3bDVqbG90YlVGNUNTbnlLbnB4Z0paRDZheWdLcGRkckx6dFZQSTFMWGxKL0hCSDZtNmlZSWhUNzQ3VlVCalFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDExMjQ5CWZpbGU6VGludGVyb18wLjYuNF94NjQtc2V0dXAuZXhlCkJqcldYb0JETVBEcVd0cURPN0tnK3dSZEE1eFB6ZDdCcFJ5WjZoUU5MT3g2cW5CRXZQazEwMjVsMnEwUXFucGFrOVNSOXBVR3hrOFhHRlpQeCs2WkJnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.4/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Massive performance improvements, fixed project importing issues on Android, and changes to sync system.",
-    "es": "Mejoras masivas de rendimiento, corregidos problemas de importación de proyectos en Android y cambios en el sistema de sincronización.",
-    "ca": "Millores massives de rendiment, corregits problemes d'importació de projectes a Android i canvis en el sistema de sincronització.",
-    "de": "Massive Leistungsverbesserungen, behobene Probleme beim Projektimport auf Android und Änderungen am Synchronisationssystem.",
-    "fr": "Améliorations massives des performances, correction des problèmes d'importation de projets sur Android et modifications du système de synchronisation.",
-    "it": "Miglioramenti massicci delle prestazioni, risolti problemi di importazione progetti su Android e modifiche al sistema di sincronizzazione.",
-    "pt": "Melhorias massivas de desempenho, corrigidos problemas de importação de projetos no Android e alterações no sistema de sincronização."
+    "en": "Fixed some UI inconsistencies. Improved general responsiveness.",
+    "es": "Se corrigieron algunas inconsistencias de la interfaz. Se mejoró la capacidad de respuesta general.",
+    "ca": "S'han corregit algunes inconsistències de la interfície. Millorada la resposta general.",
+    "de": "Einige UI-Inkonsistenzen behoben. Allgemeine Reaktionsfähigkeit verbessert.",
+    "fr": "Correction de certaines incohérences de l'interface. Amélioration de la réactivité générale.",
+    "it": "Corrette alcune incoerenze dell'interfaccia. Migliorata la reattività generale.",
+    "pt": "Corrigidas algumas inconsistências da interface. Melhorada a capacidade de resposta geral."
   }
 }
