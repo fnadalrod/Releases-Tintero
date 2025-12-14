@@ -1,24 +1,24 @@
 {
-  "version": "0.6.5",
-  "notes": "Added a smart dialog and quote system, adapted to each language. Fixed several snapshot issues and missing translations in compare. Fixed an issue where text effects were not preserved after switching tabs. Additional minor performance improvements.",
-  "pub_date": "2025-12-13T00:00:00.000Z",
+  "version": "0.6.6",
+  "notes": "Fixed missing intelligent quotes and dialogs. Made Bibisco import more robust.",
+  "pub_date": "2025-12-14T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpTUVA5eERIZFVrdDkrVExFdTNKNGttN1c2cG1XZDRiZHRNZHdYaktTUkZpZFVNYVNYdDRBaTVtaHp6anVwRzdWZUc5MGhQeEJGQU5jRkk2MzN1M0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjM2OTEyCWZpbGU6VGludGVyb18wLjYuNV9hbWQ2NC5kZWIKWEN4N05RbUhDekhBQ2Y4YWZxRGpCM09ZNmlyY1N5UUY4bjBZUW9PNUp5ckdoSWd1Qkc0c01EL1BIMjk5dThDTm1SZkZKZ2RXMXdxQm9uaWt6MXlPQkE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.5/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWo0bmFzUElaVlcwQWF6MlVscjNkNFBhZDdwdHV4czV4dWNJa3ArVHJPaGsvWm8rUHlKamttU242VFV2VVdZeWtnbldHclkvQ2hNdk9sN2hMUU4yR2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Njc1MjMwCWZpbGU6VGludGVyb18wLjYuNl9hbWQ2NC5kZWIKVGtqdXo1WDArc1diNXhmMTZnQVhXcHRwZEhNYlhhcFJEL1ZKcHRzaVJUWkRQK2JteEgrWkRBY0xEYkl5QW1Rdk9XSTJoVkFGVmFrRlVVSXZwdEdxQkE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.6/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlsc1FNSFBIWlcxaVROQWxsSnU3SWhzUlFUSjZ3NmpCa0pVNUQyQ29yRG95LzQ5VGt3eWdOT2x1VW44OG5Xb29mSmxXK056NWFkOVc3c1N4bVNod3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjM3OTk3CWZpbGU6VGludGVyb18wLjYuNV94NjQtc2V0dXAuZXhlClE4dGdZMG1NZUhVSzNPeGpPd255d2dOWmk3Z0JvbStpcHdmMC92eXBGRnRvbzRFQTR4dUlqSHBzQW82a0NCc2daSHpBTE45UVd4M2NISTg3NFRpREJ3PT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.5/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxHR0pKSFRuU0g0SThlUmFRRWJWeGdrY1lrYlVVaFBERHJJOG9PM1NXK2Roa0lIR1NnQ0NERHFIMmRXMEt6UWZnVkp4bExKS2doaFFIcGkrTjNHN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Njc2MjYyCWZpbGU6VGludGVyb18wLjYuNl94NjQtc2V0dXAuZXhlCm54TGpsU0FIblRUMW1vZnJiNzJaTldQTWlSVCs5WUsxRFk5MlBjOVdjeW5uM1FXUGU3YjZ0TlJyc0pqUE5YYlFBQXliTlpsekdvSWFFWGRGUC9YQkRnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.6/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added a smart dialog and quote system, adapted to each language\nFixed several snapshot issues and missing translations in compare\nFixed an issue where text effects were not preserved after switching tabs\nAdditional minor performance improvements",
-    "es": "Añadido un sistema inteligente de diálogos y citas, adaptado a cada idioma\nCorregidos varios problemas con snapshots y traducciones faltantes en la comparación\nCorregido un error por el cual los efectos de texto no se mantenían al cambiar de pestaña\nPequeñas mejoras adicionales de rendimiento",
-    "ca": "Afegit un sistema intel·ligent de diàlegs i cites, adaptat a cada idioma\nCorregits diversos problemes amb snapshots i traduccions que faltaven a la comparació\nCorregit un error pel qual els efectes de text no es mantenien en canviar de pestanya\nAlgunes millores menors addicionals de rendiment",
-    "de": "Ein intelligentes Dialog- und Zitatsystem hinzugefügt, angepasst an jede Sprache\nMehrere Probleme mit Snapshots sowie fehlende Übersetzungen im Vergleich behoben\nEin Problem behoben, bei dem Texteffekte nach dem Wechseln von Tabs nicht beibehalten wurden\nWeitere kleinere Leistungsverbesserungen",
-    "fr": "Ajout d’un système intelligent de dialogues et de citations, adapté à chaque langue\nCorrection de plusieurs problèmes liés aux snapshots et aux traductions manquantes dans la comparaison\nCorrection d’un problème où les effets de texte n’étaient pas conservés lors du changement d’onglet\nQuelques améliorations mineures supplémentaires des performances",
-    "it": "Aggiunto un sistema intelligente di dialoghi e citazioni, adattato a ogni lingua\nRisolti diversi problemi con gli snapshot e traduzioni mancanti nel confronto\nRisolto un problema per cui gli effetti di testo non venivano mantenuti dopo il cambio di scheda\nUlteriori piccoli miglioramenti delle prestazioni",
-    "pt": "Adicionado um sistema inteligente de diálogos e citações, adaptado a cada idioma\nCorrigidos vários problemas com snapshots e traduções em falta na comparação\nCorrigido um problema em que os efeitos de texto não eram mantidos após mudar de separador\nPequenas melhorias adicionais de desempenho"
+    "en": "Fixed missing intelligent quotes and dialogs\nMade Bibisco import more robust",
+    "es": "Corregida la ausencia de comillas y diálogos inteligentes\nSe ha hecho más robusta la importación desde Bibisco",
+    "ca": "Corregida l’absència de cometes i diàlegs intel·ligents\nS’ha fet més robusta la importació des de Bibisco",
+    "de": "Fehlende intelligente Anführungszeichen und Dialoge behoben\nDer Import aus Bibisco wurde robuster gemacht",
+    "fr": "Correction de l’absence de guillemets et de dialogues intelligents\nImportation depuis Bibisco rendue plus robuste",
+    "it": "Corretta l’assenza di virgolette e dialoghi intelligenti\nResa più robusta l’importazione da Bibisco",
+    "pt": "Corrigida a ausência de aspas e diálogos inteligentes\nA importação do Bibisco foi tornada mais robusta"
   }
 }
