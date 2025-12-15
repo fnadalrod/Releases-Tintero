@@ -1,24 +1,24 @@
 {
-  "version": "0.6.6",
-  "notes": "Fixed missing intelligent quotes and dialogs. Made Bibisco import more robust.",
+  "version": "0.6.7",
+  "notes": "Single-click a file opens it in the same tab, double-click opens in a new tab (can be disabled in preferences). Improved distraction-free mode. Fixed minor UI bugs.",
   "pub_date": "2025-12-14T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWo0bmFzUElaVlcwQWF6MlVscjNkNFBhZDdwdHV4czV4dWNJa3ArVHJPaGsvWm8rUHlKamttU242VFV2VVdZeWtnbldHclkvQ2hNdk9sN2hMUU4yR2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Njc1MjMwCWZpbGU6VGludGVyb18wLjYuNl9hbWQ2NC5kZWIKVGtqdXo1WDArc1diNXhmMTZnQVhXcHRwZEhNYlhhcFJEL1ZKcHRzaVJUWkRQK2JteEgrWkRBY0xEYkl5QW1Rdk9XSTJoVkFGVmFrRlVVSXZwdEdxQkE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.6/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZGWEZuMm9aUS9aNDY2bXVGWEM0cDh5YmJCZllsTUltT1I0bGZiV0o2eXNOcTFZUmhGcTBHNC9lU3VxTkVZd1lYS1BmL3pXSFhMMjgyOExyME9BWHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzU2MzA3CWZpbGU6VGludGVyb18wLjYuN19hbWQ2NC5kZWIKYXhKSWYvTkk2UWpjcHFKQ0RTUnB1ZjEvV09WRCsvNGtCY090TXlsVTdpWEo3UG1LSEdwTjdQTSt2b1lVcGRySkpLc2ZCTTNOb0hRL3BtT29ST3JXRFE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.7/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxHR0pKSFRuU0g0SThlUmFRRWJWeGdrY1lrYlVVaFBERHJJOG9PM1NXK2Roa0lIR1NnQ0NERHFIMmRXMEt6UWZnVkp4bExKS2doaFFIcGkrTjNHN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Njc2MjYyCWZpbGU6VGludGVyb18wLjYuNl94NjQtc2V0dXAuZXhlCm54TGpsU0FIblRUMW1vZnJiNzJaTldQTWlSVCs5WUsxRFk5MlBjOVdjeW5uM1FXUGU3YjZ0TlJyc0pqUE5YYlFBQXliTlpsekdvSWFFWGRGUC9YQkRnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.6/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdSSzJkeXJlV0EyeGVnNHFMQ2g3R3N4SGtmU0ovNUl2RmRDcVJqMjg5NWNMeWZZeHBiMzdLOUM5Q3JtamdHSUhXYjNvU0hHdVh2RDJ0b2dIbmM3K1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzU3MzI0CWZpbGU6VGludGVyb18wLjYuN194NjQtc2V0dXAuZXhlCmdaYjByN1R4VHlCN0IxWkJ2SzVSWThnTzErWHNoWXJYeXJDdlY3bFV1ZHVYN3pML2x1SG5zQTc4bXJtZkZRTTJZN2ZjT0N1MUdZQmZMSDFrY0JFcEJ3PT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.7/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Fixed missing intelligent quotes and dialogs\nMade Bibisco import more robust",
-    "es": "Corregida la ausencia de comillas y diálogos inteligentes\nSe ha hecho más robusta la importación desde Bibisco",
-    "ca": "Corregida l’absència de cometes i diàlegs intel·ligents\nS’ha fet més robusta la importació des de Bibisco",
-    "de": "Fehlende intelligente Anführungszeichen und Dialoge behoben\nDer Import aus Bibisco wurde robuster gemacht",
-    "fr": "Correction de l’absence de guillemets et de dialogues intelligents\nImportation depuis Bibisco rendue plus robuste",
-    "it": "Corretta l’assenza di virgolette e dialoghi intelligenti\nResa più robusta l’importazione da Bibisco",
-    "pt": "Corrigida a ausência de aspas e diálogos inteligentes\nA importação do Bibisco foi tornada mais robusta"
+    "en": "Single-click a file will open it in the same tab, double-click opens in a new tab (can be disabled in preferences)\nImproved distraction-free mode\nFixed minor UI bugs",
+    "es": "Un solo clic en un archivo lo abrirá en la misma pestaña, doble clic lo abre en una nueva pestaña (desactivable en preferencias)\nMejorado el modo sin distracciones\nCorregidos errores menores de la interfaz",
+    "ca": "Un sol clic en un fitxer l’obrirà a la mateixa pestanya, doble clic l’obre en una nova pestanya (es pot desactivar a les preferències)\nMillorat el mode sense distraccions\nArreglats errors menors de la interfície",
+    "de": "Einfacher Klick auf eine Datei öffnet sie im gleichen Tab, Doppelklick öffnet sie in einem neuen Tab (kann in den Einstellungen deaktiviert werden)\nVerbesserter ablenkungsfreier Modus\nKleinere UI-Fehler behoben",
+    "it": "Clic singolo su un file lo apre nella stessa scheda, doppio clic lo apre in una nuova scheda (disattivabile nelle preferenze)\nMigliorata la modalità senza distrazioni\nCorrezione di bug minori dell’interfaccia",
+    "fr": "Un clic sur un fichier l’ouvrira dans le même onglet, double-clic l’ouvre dans un nouvel onglet (désactivable dans les préférences)\nMode sans distractions amélioré\nCorrection de bugs mineurs de l’interface",
+    "pt": "Clique simples num ficheiro abre-o na mesma aba, duplo clique abre numa nova aba (desativável nas preferências)\nModo sem distrações melhorado\nCorrigidos bugs menores da interface"
   }
 }
