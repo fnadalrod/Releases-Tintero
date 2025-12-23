@@ -1,24 +1,24 @@
 {
-  "version": "0.6.9",
-  "notes": "Service for inserting document links. Fixes for unintentional smart quotes. Improvements to file autosave. The editor will restart when settings are modified. Minor bug fixes and subtle changes to some styles.",
-  "pub_date": "2025-12-21T00:00:00.000Z",
+  "version": "0.6.10",
+  "notes": "Characters and worldbuilding elements are dynamically saved as you edit them.\nEditor sidebar notes can now be previewed on the sidebar.\nDefault worldbuilding color is more visible in dark mode.\nMinor style improvements.\nChangelog added to help menu.",
+  "pub_date": "2025-12-23T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhPa1BFaDAxTzA3YWM2TlRFd0NlRGNuNFBpeUllbnZIYnJLTHFobmVidTJQbU1Yd21YazlyYnQ5M21wbHM1M1BaS3I2UjA2VUxsd2U1SnBDejNMTmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MzQ5NDY5CWZpbGU6VGludGVyb18wLjYuOV9hbWQ2NC5kZWIKaDBjWVFqc24vOXJGUGRrZ2dncGFIc20zT3ZwTmthNTBRUGtiQTdWdjJvOHF5SW9QVXVtWkZidkpoN0VHb0VFOFkrR3REQjNRaW1OZjRvL05QVm4yQkE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.9/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtyUnNVZXhVN3ZsZng0bStNMkVOZEMwaDAyV1pqeGJIby9TZUQ0V2VYN09wKzYxcnhnMEx5WmVuUlhENnY3akJVRzJFWTZRYS96WHlSQUVxMmZGNGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDQ4OTMyCWZpbGU6VGludGVyb18wLjYuMTBfYW1kNjQuZGViCklyYzVJT1NNdkJYM1JKMlErUXg2TUQzd1hNWnVPZ3JzQjg3R1FuVFIrV25FWGJQejUvMWtTVmhZZDl1bkxlUVpWS3JIanVpN2NkSitEYUwxQVFkZUJRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.10/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRLYnBOUFpRbmJSMld3dUJ1cG5BNzRRM2JCZFNlME9EOFZKdFBqQzhtVFA3ZkJGbFU1ZDJKQTBIMmhxcDZOZWxvdVV0QnIvRFExaFE0MkhDY3JqeFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MzUwNjAyCWZpbGU6VGludGVyb18wLjYuOV94NjQtc2V0dXAuZXhlCjJwdkdsbTc3MndPT2x1Y2dISm9BM3lmNDdOcERGQW0zTTl5R084SndIUU1PSlI2dk9NZy9WQmQ3T3I1RElTL3FTcW1yYmFySWF6VmNuUGk1MnNVYUR3PT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.9/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWwxOVYxM3JOM3l6M2dMN3BxOHZkUWVWcGFIdlloL0twNE9FYktveGd5anNlR0tXaUY2YldyQXFHOUlzYmF6RDhzWU5QYm9Xb3hRVzlzUFBydS9iZmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDUwMTAzCWZpbGU6VGludGVyb18wLjYuMTBfeDY0LXNldHVwLmV4ZQpKMXl5RGtyVENJTWhWL0NSVFZ3dFVuQUNKSnRQbG1LanV5RWZzTDhLeFJiMExZUnczTGlnZkFMamtCTTNLaHBGTmdSOGpUL21TTUpVaFNiWGpNbTZEUT09Cg==",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.10/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Service for inserting document links\nFixes for unintentional smart quotes\nImprovements to file autosave\nThe editor will restart when settings are modified\nMinor bug fixes and subtle changes to some styles",
-    "es": "Servicio para insertar enlaces a documentos\nCorrecciones de comillas inteligentes no intencionadas\nMejoras en el autoguardado de archivos\nEl editor se reiniciará cuando se modifiquen los ajustes\nPequeñas correcciones de errores y cambios sutiles en algunos estilos",
-    "ca": "Servei per inserir enllaços a documents\nCorreccions de cometes intel·ligents no intencionades\nMillores en l’autodesament d’arxius\nL’editor es reiniciarà quan es modifiquin els ajustos\nPetites correccions d’errors i canvis subtils en alguns estils",
-    "de": "Dienst zum Einfügen von Dokumentenlinks\nKorrekturen unbeabsichtigter typografischer Anführungszeichen\nVerbesserungen beim automatischen Speichern von Dateien\nDer Editor wird neu gestartet, wenn Einstellungen geändert werden\nKleine Fehlerbehebungen und subtile Änderungen an einigen Stilen",
-    "it": "Servizio per inserire collegamenti a documenti\nCorrezioni per virgolette intelligenti involontarie\nMiglioramenti al salvataggio automatico dei file\nL’editor si riavvierà quando le impostazioni vengono modificate\nPiccole correzioni di bug e modifiche sottili ad alcuni stili",
-    "fr": "Service pour insérer des liens vers des documents\nCorrection des guillemets intelligents involontaires\nAméliorations de la sauvegarde automatique des fichiers\nL’éditeur redémarrera lorsque les paramètres sont modifiés\nCorrections mineures de bugs et changements subtils dans certains styles",
-    "pt": "Serviço para inserir links de documentos\nCorreções de aspas inteligentes não intencionais\nMelhorias na gravação automática de arquivos\nO editor será reiniciado quando as configurações forem modificadas\nPequenas correções de bugs e alterações sutis em alguns estilos"
+    "en": "Characters and worldbuilding elements are dynamically saved as you edit them.\nEditor sidebar notes can now be previewed on the sidebar.\nDefault worldbuilding color is more visible in dark mode.\nMinor style improvements.\nChangelog added to help menu.",
+    "es": "Los personajes y los elementos de worldbuilding se guardan dinámicamente mientras los editas.\nAhora se pueden previsualizar las notas de la barra lateral del editor.\nEl color por defecto del worldbuilding es más visible en el modo oscuro.\nMejoras menores de estilo.\nSe ha añadido un registro de cambios al menú de ayuda.",
+    "ca": "Els personatges i els elements de worldbuilding es guarden dinàmicament mentre els edites.\nAra es poden previsualitzar les notes de la barra lateral de l’editor.\nEl color per defecte del worldbuilding és més visible en mode fosc.\nMillores menors d’estil.\nS’ha afegit el registre de canvis al menú d’ajuda.",
+    "de": "Charaktere und Worldbuilding-Elemente werden während der Bearbeitung dynamisch gespeichert.\nNotizen in der Editor-Seitenleiste können jetzt direkt dort in der Vorschau angezeigt werden.\nDie Standardfarbe für Worldbuilding ist im Dunkelmodus besser sichtbar.\nKleinere Stilverbesserungen.\nEin Changelog wurde dem Hilfemenü hinzugefügt.",
+    "it": "I personaggi e gli elementi di worldbuilding vengono salvati dinamicamente mentre li modifichi.\nLe note della barra laterale dell’editor ora possono essere visualizzate in anteprima direttamente nella barra laterale.\nIl colore predefinito del worldbuilding è più visibile in modalità scura.\nMiglioramenti minori allo stile.\nÈ stato aggiunto un changelog al menu di aiuto.",
+    "fr": "Les personnages et les éléments de worldbuilding sont enregistrés dynamiquement pendant leur modification.\nLes notes de la barre latérale de l’éditeur peuvent désormais être prévisualisées directement dans celle-ci.\nLa couleur par défaut du worldbuilding est plus visible en mode sombre.\nAméliorations mineures du style.\nUn journal des modifications a été ajouté au menu d’aide.",
+    "pt": "Os personagens e os elementos de worldbuilding são salvos dinamicamente enquanto você os edita.\nAs notas da barra lateral do editor agora podem ser visualizadas diretamente na própria barra lateral.\nA cor padrão do worldbuilding está mais visível no modo escuro.\nPequenas melhorias de estilo.\nUm changelog foi adicionado ao menu de ajuda."
   }
 }
