@@ -1,24 +1,24 @@
 {
-  "version": "0.6.10",
-  "notes": "Characters and worldbuilding elements are dynamically saved as you edit them.\nEditor sidebar notes can now be previewed on the sidebar.\nDefault worldbuilding color is more visible in dark mode.\nMinor style improvements.\nChangelog added to help menu.",
-  "pub_date": "2025-12-23T00:00:00.000Z",
+  "version": "0.7.0",
+  "notes": "Image support is now available to everyone.\nImproved editor stability and reliability.\nCharacters can be organized into folders with filters.\nFixed scene sync and data saving issues.\nRedesigned project import (Scrivener support).\nFixed multiple Android UI issues.\nMinor fixes and performance improvements.",
+  "pub_date": "2025-12-28T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtyUnNVZXhVN3ZsZng0bStNMkVOZEMwaDAyV1pqeGJIby9TZUQ0V2VYN09wKzYxcnhnMEx5WmVuUlhENnY3akJVRzJFWTZRYS96WHlSQUVxMmZGNGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDQ4OTMyCWZpbGU6VGludGVyb18wLjYuMTBfYW1kNjQuZGViCklyYzVJT1NNdkJYM1JKMlErUXg2TUQzd1hNWnVPZ3JzQjg3R1FuVFIrV25FWGJQejUvMWtTVmhZZDl1bkxlUVpWS3JIanVpN2NkSitEYUwxQVFkZUJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.10/Tintero.deb"
+      "signature": "",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.0/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWwxOVYxM3JOM3l6M2dMN3BxOHZkUWVWcGFIdlloL0twNE9FYktveGd5anNlR0tXaUY2YldyQXFHOUlzYmF6RDhzWU5QYm9Xb3hRVzlzUFBydS9iZmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NDUwMTAzCWZpbGU6VGludGVyb18wLjYuMTBfeDY0LXNldHVwLmV4ZQpKMXl5RGtyVENJTWhWL0NSVFZ3dFVuQUNKSnRQbG1LanV5RWZzTDhLeFJiMExZUnczTGlnZkFMamtCTTNLaHBGTmdSOGpUL21TTUpVaFNiWGpNbTZEUT09Cg==",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.10/Tintero.exe"
+      "signature": "",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.0/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Characters and worldbuilding elements are dynamically saved as you edit them.\nEditor sidebar notes can now be previewed on the sidebar.\nDefault worldbuilding color is more visible in dark mode.\nMinor style improvements.\nChangelog added to help menu.",
-    "es": "Los personajes y los elementos de worldbuilding se guardan dinámicamente mientras los editas.\nAhora se pueden previsualizar las notas de la barra lateral del editor.\nEl color por defecto del worldbuilding es más visible en el modo oscuro.\nMejoras menores de estilo.\nSe ha añadido un registro de cambios al menú de ayuda.",
-    "ca": "Els personatges i els elements de worldbuilding es guarden dinàmicament mentre els edites.\nAra es poden previsualitzar les notes de la barra lateral de l’editor.\nEl color per defecte del worldbuilding és més visible en mode fosc.\nMillores menors d’estil.\nS’ha afegit el registre de canvis al menú d’ajuda.",
-    "de": "Charaktere und Worldbuilding-Elemente werden während der Bearbeitung dynamisch gespeichert.\nNotizen in der Editor-Seitenleiste können jetzt direkt dort in der Vorschau angezeigt werden.\nDie Standardfarbe für Worldbuilding ist im Dunkelmodus besser sichtbar.\nKleinere Stilverbesserungen.\nEin Changelog wurde dem Hilfemenü hinzugefügt.",
-    "it": "I personaggi e gli elementi di worldbuilding vengono salvati dinamicamente mentre li modifichi.\nLe note della barra laterale dell’editor ora possono essere visualizzate in anteprima direttamente nella barra laterale.\nIl colore predefinito del worldbuilding è più visibile in modalità scura.\nMiglioramenti minori allo stile.\nÈ stato aggiunto un changelog al menu di aiuto.",
-    "fr": "Les personnages et les éléments de worldbuilding sont enregistrés dynamiquement pendant leur modification.\nLes notes de la barre latérale de l’éditeur peuvent désormais être prévisualisées directement dans celle-ci.\nLa couleur par défaut du worldbuilding est plus visible en mode sombre.\nAméliorations mineures du style.\nUn journal des modifications a été ajouté au menu d’aide.",
-    "pt": "Os personagens e os elementos de worldbuilding são salvos dinamicamente enquanto você os edita.\nAs notas da barra lateral do editor agora podem ser visualizadas diretamente na própria barra lateral.\nA cor padrão do worldbuilding está mais visível no modo escuro.\nPequenas melhorias de estilo.\nUm changelog foi adicionado ao menu de ajuda."
+    "en": "Image support is now available to everyone.\nImproved editor stability and reliability.\nCharacters can be organized into folders with filters.\nFixed scene sync and data saving issues.\nRedesigned project import (Scrivener support).\nFixed multiple Android UI issues.\nMinor fixes and performance improvements.",
+    "es": "Soporte de imágenes disponible para todos.\nMejoras en estabilidad y fiabilidad del editor.\nPersonajes organizables en carpetas con filtros.\nCorrecciones en sincronización de escenas y guardado.\nPantalla de importación rediseñada (Scrivener).\nSolucionados varios problemas de interfaz en Android.\nCorrecciones menores y mejoras de rendimiento.",
+    "ca": "Suport d’imatges disponible per a tothom.\nMillores en estabilitat i fiabilitat de l’editor.\nPersonatges organitzables en carpetes amb filtres.\nCorreccions en la sincronització d’escenes i el guardat.\nPantalla d’importació redissenyada (Scrivener).\nSolucionats diversos problemes de la interfície a Android.\nCorreccions menors i millores de rendiment.",
+    "de": "Bildunterstützung ist jetzt für alle verfügbar.\nVerbesserte Stabilität und Zuverlässigkeit des Editors.\nCharaktere können in Ordnern mit Filtern organisiert werden.\nKorrekturen bei Szenensynchronisierung und Speichern.\nProjektimport überarbeitet (Scrivener-Unterstützung).\nVerschiedene Android-UI-Probleme behoben.\nKleine Fehlerbehebungen und Leistungsverbesserungen.",
+    "it": "Supporto alle immagini disponibile per tutti.\nMiglioramenti alla stabilità e affidabilità dell’editor.\nPersonaggi organizzabili in cartelle con filtri.\nCorrezioni nella sincronizzazione delle scene e nel salvataggio.\nSchermata di importazione progetto ridisegnata (supporto Scrivener).\nRisolti vari problemi di interfaccia su Android.\nCorrezioni minori e miglioramenti delle prestazioni.",
+    "fr": "Support des images désormais disponible pour tous.\nAmélioration de la stabilité et de la fiabilité de l’éditeur.\nLes personnages peuvent être organisés dans des dossiers avec filtres.\nCorrection des problèmes de synchronisation des scènes et de sauvegarde.\nÉcran d’importation de projet repensé (prise en charge Scrivener).\nCorrection de plusieurs problèmes d’interface Android.\nCorrections mineures et améliorations des performances.",
+    "pt": "Suporte a imagens agora disponível para todos.\nMelhorias na estabilidade e confiabilidade do editor.\nPersonagens podem ser organizados em pastas com filtros.\nCorreção de problemas de sincronização de cenas e salvamento.\nTela de importação de projeto redesenhada (suporte Scrivener).\nCorrigidos vários problemas de interface no Android.\nPequenas correções e melhorias de desempenho."
   }
 }
