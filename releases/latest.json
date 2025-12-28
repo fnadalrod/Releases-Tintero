@@ -4,11 +4,11 @@
   "pub_date": "2025-12-28T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXQwNVRLRUEwVi9HeC9BbXdINGdpU2VadzVTSmJ4QWw0QlNRaE5sNUN1Z0dTbStTVklYRVlFYUhocGszajNXQmhzQjVFU0FQQ2xwcXozbUMzemF3RUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODkxMDI2CWZpbGU6VGludGVyb18wLjcuMF9hbWQ2NC5kZWIKZEZncW1GajhNNTBueFlnZ3dQV2orVjJWTy9rUEoveUhLV0Z3OW81S2NYYkJZTkhoOVlJWjk3OU1hUXZYbG5jODZuQThzTXh4MW5YUjc5VE9MTUdIQ2c9PQo=",
       "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.0/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdLU3R3anNGZE1EQnlDaldQNGtnRU51YW5SR2hpRFd3R3F4MGprM3o1U1FSL0pZV2xzQTdDV1pTM1B2YWxFWHN2VHNxK2lvNFlFQ2syRk9wWHBYRVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODkxOTYwCWZpbGU6VGludGVyb18wLjcuMF94NjQtc2V0dXAuZXhlCmdUa045NFdybU9lVXVPWlp3azVESGR0MWZsNCtZaHVML2hBTW5UbUM5QVgrbmhlcVIwRnV5cy9PeUl6ei9ZSGM0QWRGN3laZ1ZaTjVWYi8zYzZKK0NRPT0K",
       "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.0/Tintero.exe"
     }
   },
