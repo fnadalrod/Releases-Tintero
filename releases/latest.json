@@ -1,24 +1,24 @@
 {
-  "version": "0.7.2",
-  "notes": "Added text file (.txt) importer.\nImproved character and worldbuilding visuals.\nFixed several issues related to file imports.\nUnified application styles.\nEscape key now exits Distraction Mode.\nAdded buttons to switch between Distraction and Regular Mode.\nInternal code refactors and cleanup.",
+  "version": "0.7.3",
+  "notes": "Added text formatting shortcuts (bold, italics, lists).\nList indent and unindent support.\nImproved book generation and translations.\nAdded DOCX and HTML book export.\nModal interaction and UI fixes.\nStyle and visual consistency improvements.",
   "pub_date": "2026-01-02T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRJUStnZGEvWGRqVXV1L2ozOG5rcGxQcjN1SlZSZnFKVWJQWE84aFQyUTJlOTdFbWlpbjRtb241SnBTRVhPM2hJaEVZb0ZEbWVTMTkwd0tMbDU0eWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MzE0MTE4CWZpbGU6VGludGVyb18wLjcuMl9hbWQ2NC5kZWIKNEVHaVdKOEVqR2N4aTU3cXE0azEySnlvYUVVMWJYNWpFckdMWDZTWHpMNm54T3daSTVWZk9wTSs3R1pVOGkxTlZkR09aVDlaU1FKNUxVdEVIOGJuQ0E9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.2/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpTVVpKdmhWakozZFdhQUdjQlB0Z05RaVN0em8rTUxEaEMvV1Zsbm1XQjh6b3hod2JIUVlQRXBocFJNdTlrZFcxRE5iN0VkUG5KWkoyMHhoYVloaFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzg3OTA2CWZpbGU6VGludGVyb18wLjcuM19hbWQ2NC5kZWIKSDhZWWwwdkhvOXYxbE4zdXN3ZGtxNm1OVllGVTBLSkdWM0ZETE9BL0dXTjZmYjVmc3crdktUWWFPY2xnOWJBdlhQam5UR0tIZGMvckc2cE9VeW13RHc9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.3/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZJcDBvcVdCWlNCQXdDbGIrVFZQMDhNKzBLZU8rT2dVUC9KUHZOaWpmVWJyUlBYUC9XTWl6ZHhyT2NTYlBRT2R3WlhEallvQm43dXJpa2VYdWhQM1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MzE1MTg4CWZpbGU6VGludGVyb18wLjcuMl94NjQtc2V0dXAuZXhlCnNZVElJYk43Q29RRUpSMmhnc1ZzbHdIUDdyWG1lOGZHT1pJVFFiUG1FRHNQbmpiSzd3ZlpQOU85RzJaSUJXS3FDbEhRdytONTVlSXR6S3FvZXBFZUNBPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.2/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWoybmpBTDlvOTJPZmRQY09xVzJsOXVOUTArei9ETXRiTTB5QjRVd3FaK1hlYTZWQ1I0UDRnUEF0dms5Ty9hems0cjh2V0RkMndMUVZib1BpSHFjalFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzg5MDg1CWZpbGU6VGludGVyb18wLjcuM194NjQtc2V0dXAuZXhlCi95N3ZBRkFZWHdmc1pBQXFQenNlVXMwa0tJeGpTSE1HSm9rS2hzejRPSU5wcFY5T2ozSk1nblNtcUhPb1NsK2RRM3dYOFJXTFNjb21oNEpiajR2L0FRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.3/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added text file (.txt) importer.\nImproved character and worldbuilding visuals.\nFixed several issues related to file imports.\nUnified application styles.\nEscape key now exits Distraction Mode.\nAdded desktop buttons to switch between Distraction and Regular Mode.\nInternal code refactors and cleanup.",
-    "es": "Añadido importador de archivos de texto (.txt).\nMejora de visuales en personajes y worldbuilding.\nCorregidos varios errores en la importación de archivos.\nEstilos de la aplicación unificados.\nLa tecla Escape ahora sale del Modo Distracción.\nAñadidos botones para alternar entre Modo Distracción y Regular.\nRefactorización interna y limpieza de código.",
-    "ca": "Afegit importador de fitxers de text (.txt).\nMillora de visuals en personatges i worldbuilding.\nCorregits diversos errors en la importació de fitxers.\nEstils de l'aplicació unificats.\nLa tecla d'escapament ara surt del Mode Distracció.\nAfegits botons per alternar entre Mode Distracció i Regular.\nRefactorització interna i neteja de codi.",
-    "de": "Textdatei-Importer (.txt) hinzugefügt.\nVerbesserte Grafik für Charaktere und Worldbuilding.\nMehrere Probleme beim Dateiimport behoben.\nAnwendungsstile vereinheitlicht.\nEscape-Taste beendet nun den Ablenkungsmodus.\nDesktop-Buttons zum Wechseln zwischen Modi hinzugefügt.\nInterne Code-Refactorings und Bereinigung.",
-    "it": "Aggiunto importatore di file di testo (.txt).\nMigliorata la grafica dei personaggi e del worldbuilding.\nRisolti diversi problemi relativi all'importazione dei file.\nStili dell'applicazione unificati.\nIl tasto Esc ora esce dalla Modalità Distrazione.\nAggiunti pulsanti per passare dalla Modalità Distrazione alla Normale.\nRifattorizzazione interna e pulizia del codice.",
-    "fr": "Ajout d'un importateur de fichiers texte (.txt).\nAmélioration des visuels des personnages et du worldbuilding.\nCorrection de plusieurs problèmes liés à l'importation de fichiers.\nStyles de l'application unifiés.\nLa touche Échap permet désormais de quitter le mode Distraction.\nAjout de boutons pour basculer entre le mode Distraction et Normal.\nRefactorisation interne et nettoyage du code.",
-    "pt": "Adicionado importador de arquivos de texto (.txt).\nMelhoria do visual de personagens e worldbuilding.\nCorreção de vários erros na importação de arquivos.\nEstilos do aplicativo unificados.\nA tecla Escape agora sai do Modo Distração.\nAdicionados botões para alternar entre Modo Distração e Regular.\nRefatoração interna e limpeza de código."
+    "en": "Text formatting shortcuts (bold, italics, lists).\nList indent and unindent support.\nImproved book generation and translations.\nDOCX and HTML book export added.\nModal interaction and UI fixes.\nStyle and visual consistency improvements.",
+    "es": "Atajos de formato de texto (negrita, cursiva, listas).\nSangrado y desangrado de listas.\nMejoras en la generación de libros y traducciones.\nExportación de libros en DOCX y HTML.\nCorrecciones en modales e interfaz.\nMejoras de estilo y consistencia visual.",
+    "ca": "Dreceres de format de text (negreta, cursiva, llistes).\nSagnat i desagnat de llistes.\nMillores en la generació de llibres i traduccions.\nExportació de llibres en DOCX i HTML.\nCorreccions en modals i interfície.\nMillores de consistència visual i d’estil.",
+    "de": "Tastenkürzel für Textformatierung (Fett, Kursiv, Listen).\nEin- und Ausrücken von Listen.\nVerbesserte Buchgenerierung und Übersetzungen.\nBuch-Export als DOCX und HTML.\nVerbesserungen bei Modalen und UI.\nVerbesserte Stil- und visuelle Konsistenz.",
+    "it": "Scorciatoie di formattazione del testo (grassetto, corsivo, elenchi).\nRientro e annullamento rientro delle liste.\nMigliorata la generazione dei libri e le traduzioni.\nEsportazione dei libri in DOCX e HTML.\nCorrezioni a modali e interfaccia.\nMigliorata la coerenza visiva e dello stile.",
+    "fr": "Raccourcis de mise en forme du texte (gras, italique, listes).\nIndentation et désindentation des listes.\nAméliorations de la génération de livres et des traductions.\nExportation des livres en DOCX et HTML.\nCorrections des modales et de l’interface.\nAmélioration de la cohérence visuelle et du style.",
+    "pt": "Atalhos de formatação de texto (negrito, itálico, listas).\nRecuo e remoção de recuo em listas.\nMelhorias na geração de livros e traduções.\nExportação de livros em DOCX e HTML.\nCorreções em modais e interface.\nMelhorias de consistência visual e de estilo."
   }
 }
