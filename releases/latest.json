@@ -1,24 +1,24 @@
 {
-  "version": "0.7.3",
-  "notes": "Added text formatting shortcuts (bold, italics, lists).\nList indent and unindent support.\nImproved book generation and translations.\nAdded DOCX and HTML book export.\nModal interaction and UI fixes.\nStyle and visual consistency improvements.",
-  "pub_date": "2026-01-02T00:00:00.000Z",
+  "version": "0.7.4",
+  "notes": "Improvements for hardcore worldbuilders: documentation can now be created for characters and world elements.\nFixed issues with LM Studio API.\nUpdated incorrect translations in the EPUB/HTML book generation preview.\nMinor bug fixes.",
+  "pub_date": "2026-01-05T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpTVVpKdmhWakozZFdhQUdjQlB0Z05RaVN0em8rTUxEaEMvV1Zsbm1XQjh6b3hod2JIUVlQRXBocFJNdTlrZFcxRE5iN0VkUG5KWkoyMHhoYVloaFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzg3OTA2CWZpbGU6VGludGVyb18wLjcuM19hbWQ2NC5kZWIKSDhZWWwwdkhvOXYxbE4zdXN3ZGtxNm1OVllGVTBLSkdWM0ZETE9BL0dXTjZmYjVmc3crdktUWWFPY2xnOWJBdlhQam5UR0tIZGMvckc2cE9VeW13RHc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.3/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW85Sm8xdEVtQkZWbHJCdUpWYnhsTmwvSUs0UUhISGpwT2IvMDFMeDAzYWFuMjMxVTl2cGtzQmNJeldWaWlFMWN2Z1lRcS9TQXRkbFVQZVUrakdJeWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTc1MjcwCWZpbGU6VGludGVyb18wLjcuNF9hbWQ2NC5kZWIKUktybVhPeno3Ny9ITXZuZjlOZUI3d0JYYmtNTmpEakVBTXJ3YjF5NlArT0NnbU9WMnU3NTlYTGR0YUFCU0JYbUh1Y1FZWFQvcnNoRWYyVTA3V2JzQXc9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.4/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWoybmpBTDlvOTJPZmRQY09xVzJsOXVOUTArei9ETXRiTTB5QjRVd3FaK1hlYTZWQ1I0UDRnUEF0dms5Ty9hems0cjh2V0RkMndMUVZib1BpSHFjalFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzg5MDg1CWZpbGU6VGludGVyb18wLjcuM194NjQtc2V0dXAuZXhlCi95N3ZBRkFZWHdmc1pBQXFQenNlVXMwa0tJeGpTSE1HSm9rS2hzejRPSU5wcFY5T2ozSk1nblNtcUhPb1NsK2RRM3dYOFJXTFNjb21oNEpiajR2L0FRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.3/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW1yUXRoRG1SQ1RDSkRhbm40MHdUdDNSZ2xQVlo1VFh0TGNyZVBUQ1JiRlV4SVdBNXFySVRGZUN6TW1sMFFVM3hpeU5SVEdsUUxsd2s0M3o4ZEdJUVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTc2MTgxCWZpbGU6VGludGVyb18wLjcuNF94NjQtc2V0dXAuZXhlCkpWaFdjQVdvRmt5L1R1ZUFkcEpOL1E5NVZDL0hONWNIbmZjUEpKdmQ0WDlCRmhRL0ZPQms3TW1YY251elpuY2gxTGF0b0o4ajJWdTJVK2wxNCt4SURnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.4/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Text formatting shortcuts (bold, italics, lists).\nList indent and unindent support.\nImproved book generation and translations.\nDOCX and HTML book export added.\nModal interaction and UI fixes.\nStyle and visual consistency improvements.",
-    "es": "Atajos de formato de texto (negrita, cursiva, listas).\nSangrado y desangrado de listas.\nMejoras en la generación de libros y traducciones.\nExportación de libros en DOCX y HTML.\nCorrecciones en modales e interfaz.\nMejoras de estilo y consistencia visual.",
-    "ca": "Dreceres de format de text (negreta, cursiva, llistes).\nSagnat i desagnat de llistes.\nMillores en la generació de llibres i traduccions.\nExportació de llibres en DOCX i HTML.\nCorreccions en modals i interfície.\nMillores de consistència visual i d’estil.",
-    "de": "Tastenkürzel für Textformatierung (Fett, Kursiv, Listen).\nEin- und Ausrücken von Listen.\nVerbesserte Buchgenerierung und Übersetzungen.\nBuch-Export als DOCX und HTML.\nVerbesserungen bei Modalen und UI.\nVerbesserte Stil- und visuelle Konsistenz.",
-    "it": "Scorciatoie di formattazione del testo (grassetto, corsivo, elenchi).\nRientro e annullamento rientro delle liste.\nMigliorata la generazione dei libri e le traduzioni.\nEsportazione dei libri in DOCX e HTML.\nCorrezioni a modali e interfaccia.\nMigliorata la coerenza visiva e dello stile.",
-    "fr": "Raccourcis de mise en forme du texte (gras, italique, listes).\nIndentation et désindentation des listes.\nAméliorations de la génération de livres et des traductions.\nExportation des livres en DOCX et HTML.\nCorrections des modales et de l’interface.\nAmélioration de la cohérence visuelle et du style.",
-    "pt": "Atalhos de formatação de texto (negrito, itálico, listas).\nRecuo e remoção de recuo em listas.\nMelhorias na geração de livros e traduções.\nExportação de livros em DOCX e HTML.\nCorreções em modais e interface.\nMelhorias de consistência visual e de estilo."
+    "en": "Improvements for hardcore worldbuilders: documentation can now be created for characters and world elements.\nFixed issues with LM Studio API.\nUpdated incorrect translations in the EPUB/HTML book generation preview.\nMinor bug fixes.",
+    "es": "Mejoras para worldbuilders avanzados: ahora se puede crear documentación asociada a personajes y elementos del mundo.\nCorrección de problemas con la API de LM Studio.\nActualización de traducciones incorrectas en la vista previa de generación de libros EPUB/HTML.\nCorrecciones de errores menores.",
+    "ca": "Millores per a worldbuilders avançats: ara es pot crear documentació associada a personatges i elements del món.\nCorrecció de problemes amb l’API de LM Studio.\nActualització de traduccions incorrectes a la previsualització de generació de llibres EPUB/HTML.\nCorreccions d’errors menors.",
+    "de": "Verbesserungen für Hardcore-Worldbuilder: Dokumentationen für Charaktere und Weltelemente können jetzt erstellt werden.\nBehebung von Problemen mit der LM Studio API.\nKorrektur fehlerhafter Übersetzungen in der EPUB/HTML-Buchvorschau.\nKleinere Fehlerbehebungen.",
+    "it": "Miglioramenti per i worldbuilder avanzati: ora è possibile creare documentazione associata a personaggi ed elementi del mondo.\nRisolti problemi con l’API di LM Studio.\nCorrette traduzioni errate nell’anteprima di generazione dei libri EPUB/HTML.\nCorrezioni di bug minori.",
+    "fr": "Améliorations pour les worldbuilders avancés : il est désormais possible de créer de la documentation associée aux personnages et aux éléments du monde.\nCorrection de problèmes avec l’API de LM Studio.\nCorrection de traductions incorrectes dans l’aperçu de génération des livres EPUB/HTML.\nCorrections de bugs mineurs.",
+    "pt": "Melhorias para worldbuilders avançados: agora é possível criar documentação associada a personagens e elementos do mundo.\nCorreção de problemas com a API do LM Studio.\nAtualização de traduções incorretas na pré-visualização da geração de livros EPUB/HTML.\nCorreções de bugs menores."
   }
 }
