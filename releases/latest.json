@@ -1,24 +1,24 @@
 {
-  "version": "0.7.5",
-  "notes": "Bug fixes and stability improvements.\nImproved character and worldbuilding responsiveness.\nFixed drag & drop issues on Android and desktop.\nAdded option to enable or disable chapter order.\nUpdated and added missing translations.",
+  "version": "0.7.6",
+  "notes": "Added share functionality.\nMinor quality-of-life improvements.\nRemoved duplicated bold button from the toolbar.",
   "pub_date": "2026-01-05T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxDaUxjNjhLcVJQVHRtTW40RDczNlRQcVFNb2tHbHBVaFVGa2ZNRm1BUGdTbGVjMEZFZ3ErTVFxU1E5ZktzZVBKRVJwMTIrSDM2Vjc2LzlsRStZdlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzQzNDYxCWZpbGU6VGludGVyb18wLjcuNV9hbWQ2NC5kZWIKblIrckNBN0k1clBxSEVXd0s0VUZWV2tDU252RzI2em5zMm5OUGZuOU9xcCtuaU9LTEV1YWliTTRvZEw5STFYeGpLZ1lDN1M4T0VBSGI4NkdnZG9xQXc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.5/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhHRnNjd3FkYUdRME56YVp3UHZQQ3BENjd6WXFEV0lYSm44a1p2a2xXNjBZRlJBVS9vUjNITHI2a0JNNGlRTHRZU2RWZys1OFd1RGJhWTY0N2xHNHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDEzNjE3CWZpbGU6VGludGVyb18wLjcuNl9hbWQ2NC5kZWIKb0pxMTFTUExEM2NtUk5mdGJFUWJLWEdHUFh6VWlIdmR6SERPNnRZWHBLdStFWElvMm9JRVgzVDcxZ3FEcmpLa1haNU1BM3EwWkcwWk1UdHREQlM2Q3c9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.6/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW41WFByL2lHWUFLV0c4SThCbnh2SlV5bmtSWWtMeWtuZ0VaYTJkTkpYOUNkS2xMSjEycW9WaVdxdTRHdkVVWm1VZHhCNS9JODR5L1lScDBYTWdoMHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NzQ0NDM2CWZpbGU6VGludGVyb18wLjcuNV94NjQtc2V0dXAuZXhlCmJhdVNBWTh6TUE1MW9OeWluSmlrYit1eEw2QVpxcUlUZ1JlWGgzcTlwU0xxTHdrcXRIMGpvdk5uRUM3SXZxaXJYUkxHdDV3NFBSR1pnWDZ5dE8waEFRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.5/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZKNFV4eHh2Q01iKzZYMGVFT0lMc09rQjhMSEV6bTEzT1pYM1pvVDhrdlFObHJicjRZK3BOcDA4aTRKQ294R3l5TkYrbkJFSVZFakdoZElVYndPV3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDE0NTI4CWZpbGU6VGludGVyb18wLjcuNl94NjQtc2V0dXAuZXhlCjQyK0FMMy9EV05EZW00MWhVZE9uQnJtOTJHZVp1a2ZuYXJwSmNUMFhsdThNVE11cWY5UEI3bVR6aWY0angyMVNqM3B1L1ZsNG03V0JKNnZhaG93SkJ3PT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.7.6/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Bug fixes and stability improvements.\nImproved character and worldbuilding responsiveness.\nFixed drag & drop issues on Android and desktop.\nAdded option to enable or disable chapter order.\nUpdated and added missing translations.",
-    "es": "Corrección de errores y mejoras de estabilidad.\nMejora de la respuesta en personajes y worldbuilding.\nCorrección de problemas de arrastrar y soltar en Android y escritorio.\nNueva opción para activar o desactivar el orden de capítulos.\nActualización y añadido de traducciones faltantes.",
-    "ca": "Correcció d’errors i millores d’estabilitat.\nMillora de la resposta en personatges i worldbuilding.\nCorrecció de problemes d’arrossegar i deixar anar a Android i escriptori.\nNova opció per activar o desactivar l’ordre dels capítols.\nActualització i afegit de traduccions que faltaven.",
-    "de": "Fehlerbehebungen und Stabilitätsverbesserungen.\nVerbesserte Reaktionsfähigkeit für Charaktere und Worldbuilding.\nBehebung von Drag-and-Drop-Problemen auf Android und Desktop.\nNeue Option zum Aktivieren oder Deaktivieren der Kapitelreihenfolge.\nAktualisierte und fehlende Übersetzungen hinzugefügt.",
-    "it": "Correzioni di bug e miglioramenti della stabilità.\nMigliorata la reattività di personaggi e worldbuilding.\nRisolti problemi di drag & drop su Android e desktop.\nAggiunta opzione per abilitare o disabilitare l’ordine dei capitoli.\nAggiornate e aggiunte traduzioni mancanti.",
-    "fr": "Corrections de bugs et améliorations de la stabilité.\nAmélioration de la réactivité des personnages et du worldbuilding.\nProblèmes de glisser-déposer corrigés sur Android et desktop.\nNouvelle option pour activer ou désactiver l’ordre des chapitres.\nMise à jour et ajout de traductions manquantes.",
-    "pt": "Correções de erros e melhorias de estabilidade.\nMelhorias na responsividade de personagens e worldbuilding.\nCorreção de problemas de arrastar e soltar no Android e desktop.\nNova opção para ativar ou desativar a ordem dos capítulos.\nAtualização e adição de traduções em falta."
+    "en": "Added share functionality.\nMinor quality-of-life improvements.\nRemoved duplicated bold button from the toolbar.",
+    "es": "Se añadió la funcionalidad de compartir.\nPequeñas mejoras de calidad de vida.\nSe eliminó el botón de negrita duplicado de la barra de herramientas.",
+    "ca": "S'ha afegit la funcionalitat de compartir.\nPetites millores de qualitat de vida.\nS'ha eliminat el botó de negreta duplicat de la barra d'eines.",
+    "de": "Freigabefunktion hinzugefügt.\nKleine Verbesserungen der Benutzerfreundlichkeit.\nDoppelte Fettschaltfläche aus der Symbolleiste entfernt.",
+    "it": "Aggiunta la funzionalità di condivisione.\nPiccoli miglioramenti alla qualità della vita.\nRimosso il pulsante del grassetto duplicato dalla barra degli strumenti.",
+    "fr": "Ajout de la fonctionnalité de partage.\nAméliorations mineures de la qualité de vie.\nSuppression du bouton gras dupliqué dans la barre d’outils.",
+    "pt": "Funcionalidade de partilha adicionada.\nPequenas melhorias de qualidade de vida.\nBotão de negrito duplicado removido da barra de ferramentas."
   }
 }
