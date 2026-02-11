@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "themes": [
+    {
+      "id": "base-tintero-community",
+      "repository": "https://github.com/fnadalrod/Base-Tintero-Theme"
+    }
+  ]
+}
