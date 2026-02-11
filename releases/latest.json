@@ -1,24 +1,24 @@
 {
-  "version": "0.6.6",
-  "notes": "Fixed missing intelligent quotes and dialogs. Made Bibisco import more robust.",
-  "pub_date": "2025-12-14T00:00:00.000Z",
+  "version": "0.8.1",
+  "notes": "Project import quick fix.\nImproved newer tablet support.",
+  "pub_date": "2026-02-09T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWo0bmFzUElaVlcwQWF6MlVscjNkNFBhZDdwdHV4czV4dWNJa3ArVHJPaGsvWm8rUHlKamttU242VFV2VVdZeWtnbldHclkvQ2hNdk9sN2hMUU4yR2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Njc1MjMwCWZpbGU6VGludGVyb18wLjYuNl9hbWQ2NC5kZWIKVGtqdXo1WDArc1diNXhmMTZnQVhXcHRwZEhNYlhhcFJEL1ZKcHRzaVJUWkRQK2JteEgrWkRBY0xEYkl5QW1Rdk9XSTJoVkFGVmFrRlVVSXZwdEdxQkE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.6/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFJZDBMdDVqeUVSL01oZVY3eGZaWmlYQXZqN1FBNzFianZMWk5xbUNud3l2VWJJemdveFhhRElveEpXSVN1Qks1NzFnV1JLTjNUdCtUOU1DTjZ0TUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg5NTU3CWZpbGU6VGludGVyb18wLjguMV9hbWQ2NC5kZWIKek9VKzBzQlorQThINVYycVhWRk91MHhUd1lqMWVGN01uMmg2QUhrMnZJb2VPYWNJdmRuSkV3cjEvWmNRdFQ2Yzdwa0xZS1VKTldwSWJJZHJFcVhNQ0E9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.1/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxHR0pKSFRuU0g0SThlUmFRRWJWeGdrY1lrYlVVaFBERHJJOG9PM1NXK2Roa0lIR1NnQ0NERHFIMmRXMEt6UWZnVkp4bExKS2doaFFIcGkrTjNHN1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Njc2MjYyCWZpbGU6VGludGVyb18wLjYuNl94NjQtc2V0dXAuZXhlCm54TGpsU0FIblRUMW1vZnJiNzJaTldQTWlSVCs5WUsxRFk5MlBjOVdjeW5uM1FXUGU3YjZ0TlJyc0pqUE5YYlFBQXliTlpsekdvSWFFWGRGUC9YQkRnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.6.6/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXMyZXZ4MUhidkxhaFRkZGU0eGgrOEJKS1ZlMjhHUVFTSkVXK3B5Q3RycGtyZGZpcHIvTWdlRy91Q2ZCZ3R1YmhneGZBcWVPU3Z6L2xISUt1Y1hJM0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTkwNjgwCWZpbGU6VGludGVyb18wLjguMV94NjQtc2V0dXAuZXhlClhIajQ0eUNUd3hWM0E3VjM2NE5HVHdEY0dPRmxUNGVVemdUOWUrK1Mvc2luR0piOXhJT2IwOUVrOXNyZTEvcGlpM0tTMDJ5RzlDYVpFY0RLYW5LbUN3PT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.1/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Fixed missing intelligent quotes and dialogs\nMade Bibisco import more robust",
-    "es": "Corregida la ausencia de comillas y diálogos inteligentes\nSe ha hecho más robusta la importación desde Bibisco",
-    "ca": "Corregida l’absència de cometes i diàlegs intel·ligents\nS’ha fet més robusta la importació des de Bibisco",
-    "de": "Fehlende intelligente Anführungszeichen und Dialoge behoben\nDer Import aus Bibisco wurde robuster gemacht",
-    "fr": "Correction de l’absence de guillemets et de dialogues intelligents\nImportation depuis Bibisco rendue plus robuste",
-    "it": "Corretta l’assenza di virgolette e dialoghi intelligenti\nResa più robusta l’importazione da Bibisco",
-    "pt": "Corrigida a ausência de aspas e diálogos inteligentes\nA importação do Bibisco foi tornada mais robusta"
+    "en": "Project import quick fix.\nImproved newer tablet support.",
+    "es": "Corrección rápida de importación de proyectos.\nMejor soporte para tablets más recientes.",
+    "ca": "Correció ràpida de la importació de projectes.\nMillor suport per a tauletes més recents.",
+    "de": "Schnelle Korrektur des Projektimports.\nVerbesserte Unterstützung für neuere Tablets.",
+    "it": "Correzione rapida dell'importazione dei progetti.\nMiglior supporto per i tablet più recenti.",
+    "fr": "Correction rapide de l'importation de projets.\nMeilleur support pour les tablettes récentes.",
+    "pt": "Correção rápida de importação de projetos.\nMelhor suporte para tablets mais recentes."
   }
 }
