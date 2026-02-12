@@ -3,7 +3,9 @@
   "themes": [
     {
       "id": "base-tintero-community",
-      "repository": "https://github.com/fnadalrod/Base-Tintero-Theme"
+      "repository": "https://github.com/fnadalrod/Base-Tintero-Theme",
+      "hash": "6f089154fa2a3ce8c44c26293fcd222334ee6164ff9cd9eade1ef7a44c689869",
+      "version": "1.0.0"
     }
   ]
 }
