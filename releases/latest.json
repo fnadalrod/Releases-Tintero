@@ -1,24 +1,24 @@
 {
-  "version": "0.8.1",
-  "notes": "Project import quick fix.\nImproved newer tablet support.",
-  "pub_date": "2026-02-09T00:00:00.000Z",
+  "version": "0.8.3",
+  "notes": "Project import quick fix.\nImproved newer tablet support.\nAdded support for local and community themes.\nBug fixes and minor style improvements.\nAdded a community theme creation tutorial.\nAdded PlotGrid support.",
+  "pub_date": "2026-02-13T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXFJZDBMdDVqeUVSL01oZVY3eGZaWmlYQXZqN1FBNzFianZMWk5xbUNud3l2VWJJemdveFhhRElveEpXSVN1Qks1NzFnV1JLTjNUdCtUOU1DTjZ0TUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg5NTU3CWZpbGU6VGludGVyb18wLjguMV9hbWQ2NC5kZWIKek9VKzBzQlorQThINVYycVhWRk91MHhUd1lqMWVGN01uMmg2QUhrMnZJb2VPYWNJdmRuSkV3cjEvWmNRdFQ2Yzdwa0xZS1VKTldwSWJJZHJFcVhNQ0E9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.1/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdJaHFTZnJZSnRVRk5LN1VtSkl3ZFViNVIrUHEzSlFFRHZSamV3QXBNejA2dHg3dU1ZOWNqQUsyYzNoRjBZZys1SXZRS0I3Wm9hYlRGOUhyK2M3bUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTk1MTA2CWZpbGU6VGludGVyb18wLjguM19hbWQ2NC5kZWIKV0JrWit2bTNoalJkeWNYN3JDRVRieFZqdGxuVEwxeER2d1dKR2RRUW9Md1c3RlJTcHNqZkQ5akVqMUZHYk0vaUtXMEtZVTRsVFlPQlNoK0FESldNQWc9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.3/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXMyZXZ4MUhidkxhaFRkZGU0eGgrOEJKS1ZlMjhHUVFTSkVXK3B5Q3RycGtyZGZpcHIvTWdlRy91Q2ZCZ3R1YmhneGZBcWVPU3Z6L2xISUt1Y1hJM0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTkwNjgwCWZpbGU6VGludGVyb18wLjguMV94NjQtc2V0dXAuZXhlClhIajQ0eUNUd3hWM0E3VjM2NE5HVHdEY0dPRmxUNGVVemdUOWUrK1Mvc2luR0piOXhJT2IwOUVrOXNyZTEvcGlpM0tTMDJ5RzlDYVpFY0RLYW5LbUN3PT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.1/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9reXRIcVVBeFlWR1lHZzRVSzlseXA0T251c1N4QVVtMkYwSXBST3lhckxJQVdhTVJFd2llRW1VV2JmMURlK0o2NTMrbFRvUGo3VXB2WkplV2M2RGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTcwMTk4CWZpbGU6VGludGVyb18wLjguM194NjQtc2V0dXAuZXhlCmUyRjd5TDMzRU1wZitYODFSLzZ1UXZYUFV3UEFzRGxzT0dtdFdJZXA5d2JPOG51R3ZnZ0kyaWNRRS9VanRxbDVEaWxZcXFVRXc0NkJjdnhvMktoOURRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.3/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Project import quick fix.\nImproved newer tablet support.",
-    "es": "Corrección rápida de importación de proyectos.\nMejor soporte para tablets más recientes.",
-    "ca": "Correció ràpida de la importació de projectes.\nMillor suport per a tauletes més recents.",
-    "de": "Schnelle Korrektur des Projektimports.\nVerbesserte Unterstützung für neuere Tablets.",
-    "it": "Correzione rapida dell'importazione dei progetti.\nMiglior supporto per i tablet più recenti.",
-    "fr": "Correction rapide de l'importation de projets.\nMeilleur support pour les tablettes récentes.",
-    "pt": "Correção rápida de importação de projetos.\nMelhor suporte para tablets mais recentes."
+    "en": "Project import quick fix.\nImproved newer tablet support.\nAdded support for local and community themes.\nBug fixes and minor style improvements.\nAdded a community theme creation tutorial.\nAdded PlotGrid support.",
+    "es": "Corrección rápida de importación de proyectos.\nMejor soporte para tablets más recientes.\nAñadido soporte para temas locales y de la comunidad.\nCorrección de errores y pequeños ajustes de estilo.\nAñadido un tutorial para la creación de temas de la comunidad.\nAñadido soporte para PlotGrid.",
+    "ca": "Correció ràpida de la importació de projectes.\nMillor suport per a tauletes més recents.\nS’ha afegit suport per a temes locals i de la comunitat.\nCorrecció d’errors i petites millores d’estil.\nAfegit un tutorial per a la creació de temes de la comunitat.\nAfegit suport per a PlotGrid.",
+    "de": "Schnelle Korrektur des Projektimports.\nVerbesserte Unterstützung für neuere Tablets.\nUnterstützung für lokale und Community-Themes hinzugefügt.\nFehlerbehebungen und kleinere Designverbesserungen.\nTutorial zur Erstellung von Community-Themes hinzugefügt.\nUnterstützung für PlotGrid hinzugefügt.",
+    "it": "Correzione rapida dell'importazione dei progetti.\nMiglior supporto per i tablet più recenti.\nAggiunto il supporto per temi locali e della community.\nCorrezioni di bug e piccoli miglioramenti allo stile.\nAggiunto un tutorial per la creazione di temi della community.\nAggiunto il supporto per PlotGrid.",
+    "fr": "Correction rapide de l'importation de projets.\nMeilleur support pour les tablettes récentes.\nAjout du support des thèmes locaux et communautaires.\nCorrections de bugs et améliorations mineures du style.\nAjout d’un tutoriel de création de thèmes communautaires.\nAjout du support de PlotGrid.",
+    "pt": "Correção rápida de importação de projetos.\nMelhor suporte para tablets mais recentes.\nAdicionado suporte para temas locais e da comunidade.\nCorreções de erros e pequenos ajustes de estilo.\nAdicionado um tutorial para a criação de temas da comunidade.\nAdicionado suporte ao PlotGrid."
   }
 }
