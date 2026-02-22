@@ -60,5 +60,27 @@
       "convert.format"
     ],
     "featured": true
+  },
+  {
+    "id": "com.tintero.dev-console",
+    "name": "Dev Console",
+    "repository": "https://github.com/fnadalrod/Dev-mode---Tintero-plugin",
+    "description": "Developer console for viewing plugin and application logs in real-time.",
+    "author": "Tintero Team",
+    "version": "0.0.1",
+    "type": "app",
+    "tags": [
+      "development", "console", "debug"
+    ],
+    "publishedAt": "2026-02-22",
+    "updatedAt": "2026-02-22",
+    "license": "MIT",
+    "scopes": [
+      "ui.sidebar",
+      "ui.dialog",
+      "ui.notification",
+      "debug.console"
+    ],
+    "featured": true
   }
 ]
