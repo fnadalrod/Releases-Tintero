@@ -26,7 +26,8 @@
       "ui.sidebar",
       "convert.format",
       "fs.write",
-      "project.write.files"
+      "project.write.files",
+      "fs.platform"
     ],
     "featured": true
   },
