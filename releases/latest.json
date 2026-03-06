@@ -1,24 +1,24 @@
 {
-  "version": "0.8.3",
+  "version": "0.9.0",
   "notes": "Project import quick fix.\nImproved newer tablet support.\nAdded support for local and community themes.\nBug fixes and minor style improvements.\nAdded a community theme creation tutorial.\nAdded PlotGrid support.",
-  "pub_date": "2026-02-13T00:00:00.000Z",
+  "pub_date": "2026-03-06T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdJaHFTZnJZSnRVRk5LN1VtSkl3ZFViNVIrUHEzSlFFRHZSamV3QXBNejA2dHg3dU1ZOWNqQUsyYzNoRjBZZys1SXZRS0I3Wm9hYlRGOUhyK2M3bUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTk1MTA2CWZpbGU6VGludGVyb18wLjguM19hbWQ2NC5kZWIKV0JrWit2bTNoalJkeWNYN3JDRVRieFZqdGxuVEwxeER2d1dKR2RRUW9Md1c3RlJTcHNqZkQ5akVqMUZHYk0vaUtXMEtZVTRsVFlPQlNoK0FESldNQWc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.3/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXVPWUc1UUZZUmQ3cVhMdVoxbVllUVNUVWxVTmY0dUR6Qkd0NHdZV25XM2FDRXFkUkcvRHNKRUJSWTBCNnRLQjhYdDYyaHZISGZiZ2ZGYmt6K2x0Q0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODEwOTQzCWZpbGU6VGludGVyb18wLjkuMF9hbWQ2NC5kZWIKdTN1WDR3QmRPUUpYMEpvSUpEL3cwTm83M2lTOEoyeFppcEE2Uk42b1A0aFZBd2VOKzJ4RG9RWVFIdmIxRE04UTBjbDZEYUJDUm9ib1JUMzlLWUFWQWc9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.0/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9reXRIcVVBeFlWR1lHZzRVSzlseXA0T251c1N4QVVtMkYwSXBST3lhckxJQVdhTVJFd2llRW1VV2JmMURlK0o2NTMrbFRvUGo3VXB2WkplV2M2RGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTcwMTk4CWZpbGU6VGludGVyb18wLjguM194NjQtc2V0dXAuZXhlCmUyRjd5TDMzRU1wZitYODFSLzZ1UXZYUFV3UEFzRGxzT0dtdFdJZXA5d2JPOG51R3ZnZ0kyaWNRRS9VanRxbDVEaWxZcXFVRXc0NkJjdnhvMktoOURRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.8.3/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXVZOGVpbkptV0NrUjBzbDM3L0hxM2NKL1MvTHl3UER5aXEzdG9MamswZnkzc0pvRUtjTEJJZVgzcnhYY0dXRzhHRkZBYjRvODNPeTYxUnZaYWxWbmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODEyNTE3CWZpbGU6VGludGVyb18wLjkuMF94NjQtc2V0dXAuZXhlCnVldmROeDg2aDlOc1VGR0dLdVh2SFZzVk1JRXdYR0xIZ1NEY2pEVWM1NG1FUzhnVUk4WHNrYmUrcDUzN0k5OW02NDZwWGczTUo5MEFUU1lnOW9aRUFnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.0/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Project import quick fix.\nImproved newer tablet support.\nAdded support for local and community themes.\nBug fixes and minor style improvements.\nAdded a community theme creation tutorial.\nAdded PlotGrid support.",
-    "es": "Corrección rápida de importación de proyectos.\nMejor soporte para tablets más recientes.\nAñadido soporte para temas locales y de la comunidad.\nCorrección de errores y pequeños ajustes de estilo.\nAñadido un tutorial para la creación de temas de la comunidad.\nAñadido soporte para PlotGrid.",
-    "ca": "Correció ràpida de la importació de projectes.\nMillor suport per a tauletes més recents.\nS’ha afegit suport per a temes locals i de la comunitat.\nCorrecció d’errors i petites millores d’estil.\nAfegit un tutorial per a la creació de temes de la comunitat.\nAfegit suport per a PlotGrid.",
-    "de": "Schnelle Korrektur des Projektimports.\nVerbesserte Unterstützung für neuere Tablets.\nUnterstützung für lokale und Community-Themes hinzugefügt.\nFehlerbehebungen und kleinere Designverbesserungen.\nTutorial zur Erstellung von Community-Themes hinzugefügt.\nUnterstützung für PlotGrid hinzugefügt.",
-    "it": "Correzione rapida dell'importazione dei progetti.\nMiglior supporto per i tablet più recenti.\nAggiunto il supporto per temi locali e della community.\nCorrezioni di bug e piccoli miglioramenti allo stile.\nAggiunto un tutorial per la creazione di temi della community.\nAggiunto il supporto per PlotGrid.",
-    "fr": "Correction rapide de l'importation de projets.\nMeilleur support pour les tablettes récentes.\nAjout du support des thèmes locaux et communautaires.\nCorrections de bugs et améliorations mineures du style.\nAjout d’un tutoriel de création de thèmes communautaires.\nAjout du support de PlotGrid.",
-    "pt": "Correção rápida de importação de projetos.\nMelhor suporte para tablets mais recentes.\nAdicionado suporte para temas locais e da comunidade.\nCorreções de erros e pequenos ajustes de estilo.\nAdicionado um tutorial para a criação de temas da comunidade.\nAdicionado suporte ao PlotGrid."
+    "en": "Plugin system released with open source plugins.\nTintero Nexus community launched.\nAndroid landscape improvements and new native clipboard.\nBetter file tree and menu reorganization.\nMore panel layouts and Google Drive sync restored.\nPerformance improvements (Linux optimized) and bug fixes.",
+    "es": "Nuevo sistema de plugins con plugins open source.\nLanzamiento de la comunidad Tintero Nexus.\nMejoras en modo horizontal de Android y nuevo portapapeles nativo.\nMejor árbol de archivos y reorganización del menú.\nMás layouts de panel y vuelve la sincronización con Google Drive.\nMejoras de rendimiento y correcciones.",
+    "ca": "Nou sistema de plugins amb plugins open source.\nLlançament de la comunitat Tintero Nexus.\nMillores en mode horitzontal Android i nou porta-retalls natiu.\nMillor arbre de fitxers i reorganització del menú.\nMés dissenys de panell i torna la sincronització amb Google Drive.\nMillores de rendiment i correccions.",
+    "de": "Pluginsystem mit Open-Source-Plugins veröffentlicht.\nTintero Nexus Community gestartet.\nVerbesserungen im Android-Querformat und neue native Zwischenablage.\nBesserer Dateibaum und Menü-Neuordnung.\nMehr Panel-Layouts und Google-Drive-Sync zurück.\nPerformance-Verbesserungen und Bugfixes.",
+    "it": "Nuovo sistema di plugin con plugin open source.\nLanciata la community Tintero Nexus.\nMigliorie alla modalità orizzontale Android e nuova clipboard nativa.\nMigliore albero file e menu riorganizzato.\nPiù layout dei pannelli e ritorno della sincronizzazione Google Drive.\nMigliorie di prestazioni e bugfix.",
+    "fr": "Nouveau système de plugins avec plugins open source.\nLancement de la communauté Tintero Nexus.\nAméliorations du mode paysage Android et nouveau presse-papiers natif.\nMeilleur arbre de fichiers et menu réorganisé.\nPlus de dispositions de panneaux et retour de la synchronisation Google Drive.\nAméliorations de performance et correctifs.",
+    "pt": "Novo sistema de plugins com plugins open source.\nLançamento da comunidade Tintero Nexus.\nMelhorias no modo paisagem Android e nova área de transferência nativa.\nMelhor árvore de arquivos e reorganização do menu.\nMais layouts de painel e sincronização com Google Drive de volta.\nMelhorias de desempenho e correções."
   }
 }
