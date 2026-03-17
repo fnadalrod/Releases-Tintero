@@ -1,24 +1,24 @@
 {
-  "version": "0.9.1",
-  "notes": "Editor improvements and fixes.\nAdded underline formatting to the editor toolbar.\nAdded font size control.\nAdded text color support.\nImproved table styling and functionality.\nLogin screen tweaks and improvements.\nFixed several worldbuilding issues.\nSelect fields are now editable with custom options.",
-  "pub_date": "2026-03-13T00:00:00.000Z",
+  "version": "0.9.2",
+  "notes": "Added Russian, Romanian, and Turkish languages.",
+  "pub_date": "2026-03-18T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhQeE44QUdQaU15VmU2YW9DaDVneFpaWWdZVkJib2Y0SWQ5dTdrQ1oxcEEwWHNKeTdpaDB5MGJpcEJaSDFlSGFjZlRXaXJ4bEFLY0JQUFZIVlZkRndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzY0MDA2CWZpbGU6VGludGVyb18wLjkuMV9hbWQ2NC5kZWIKb2h6ZVJrK2hJWUM1SXpaL3JBeWxtUGFHUzdSWlNhUmsydkIrRlhVK1EzQzR0aGlWMGVNNlN5dGhpUUs5Sm1Kek4zejVFbHVqdTUwQ2FpRlZCNE4vQlE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.1/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWluNitaNTdZeHFYbmZWaGdxUE9HdHVuUzZuUFdtTVFwbS9xekwxWG4wNjg4RlFmVDdRV2RBU3BiR3plcEVRTGNGSGkzOGsrK2tVQ1pZS2NVdTlhSndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzg5MDA5CWZpbGU6VGludGVyb18wLjkuMl9hbWQ2NC5kZWIKa3kvZGVNTG5odGtaeEdaOGlsQWtrVWZhQW9ubXZLcFpjQkQ4Q2NHMmxIUDdGSnd3Qmg3VWdHQUZxVVIxOVZPODZ2NVZSd1V0ZzVwZmFFYzMzL3RzREE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.2/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXIyVlp1cVBJcjBONlBCd2FtWUdFcER5d2JYQWt3S0phWnd2NklZTU5xdG1uUlU4dVZBSTRPMGhYcWI2aGhaU0lPOU91QWVPVUV2YXllZWpWSWlwUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzY1MTgxCWZpbGU6VGludGVyb18wLjkuMV94NjQtc2V0dXAuZXhlCk4yRm5qSXlGRzRSL3BuQmlYbytmb0NSdnM4bC9FcTBqakYySENiOGdsU2R6WWhxS3FnbnN1Mk8wSjUzQU95R25wSWhMZkpxWHliVjVJTUVkbkZEdkJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.1/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpUODArd1N0cTBtaFZCVGdlM0ZGeDFnVmNPLzRqekhqbnM0MTdQMjNHQWxhcWhQTmgwYUh0b1B4YWtWUTZZaDJ0cTF1bkN6MGlOK0YxVExiWWZ0WGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzkwNzI5CWZpbGU6VGludGVyb18wLjkuMl94NjQtc2V0dXAuZXhlCm5UZGZ3d0RkejJabnJiTHN0TFNORzR5bE9pZGFOKzQyMkJZKzRZdk5RZy9GZWc4a2RWejkzKy8wZEdseGNqRHpuM0wrYmFzSkhtVi8rYXVOUklXZURBPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.2/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added underline formatting to the editor toolbar.\nAdded font size control.\nAdded text color support.\nImproved table styling and functionality.\nLogin screen tweaks and improvements.\nFixed several worldbuilding issues.\nSelect fields are now editable and support custom options.",
-    "es": "Se añadió formato de subrayado a la barra del editor.\nSe añadió control de tamaño de fuente.\nSoporte para color de texto.\nMejoras en el estilo y funcionamiento de las tablas.\nAjustes y mejoras en la pantalla de inicio de sesión.\nCorregidos varios problemas del sistema de worldbuilding.\nLos campos select ahora son editables y permiten opciones personalizadas.",
-    "ca": "S'ha afegit el format de subratllat a la barra de l'editor.\nS'ha afegit control de mida de font.\nSuport per a color de text.\nMillores en l'estil i funcionament de les taules.\nAjustos i millores a la pantalla d'inici de sessió.\nCorrecció de diversos problemes de worldbuilding.\nEls camps select ara són editables i permeten opcions personalitzades.",
-    "de": "Unterstreichungsformat zur Editor-Toolbar hinzugefügt.\nSchriftgrößensteuerung hinzugefügt.\nUnterstützung für Textfarben hinzugefügt.\nVerbesserte Tabellenstile und -funktionen.\nAnpassungen und Verbesserungen am Login-Bildschirm.\nMehrere Worldbuilding-Probleme behoben.\nSelect-Felder sind jetzt editierbar und unterstützen benutzerdefinierte Optionen.",
-    "it": "Aggiunta la formattazione sottolineata alla barra dell'editor.\nAggiunto controllo della dimensione del font.\nSupporto per il colore del testo.\nMigliorato lo stile e la funzionalità delle tabelle.\nMigliorie e ritocchi alla schermata di login.\nRisolti diversi problemi di worldbuilding.\nI campi select ora sono modificabili e supportano opzioni personalizzate.",
-    "fr": "Ajout du format souligné dans la barre de l'éditeur.\nAjout du contrôle de la taille de police.\nSupport pour la couleur du texte.\nAmélioration du style et du fonctionnement des tableaux.\nAjustements et améliorations de l'écran de connexion.\nCorrection de plusieurs problèmes de worldbuilding.\nLes champs select sont désormais éditables avec des options personnalisées.",
-    "pt": "Adicionado formatação de sublinhado à barra do editor.\nAdicionado controle de tamanho da fonte.\nSuporte para cor de texto.\nMelhorias no estilo e funcionamento das tabelas.\nAjustes e melhorias na tela de login.\nCorrigidos vários problemas de worldbuilding.\nCampos select agora são editáveis e suportam opções personalizadas."
+    "en": "Added Russian, Romanian, and Turkish languages.",
+    "es": "Añadidos los idiomas ruso, rumano y turco.",
+    "ca": "S'han afegit els idiomes rus, romanès i turc.",
+    "de": "Russische, rumänische und türkische Sprache hinzugefügt.",
+    "it": "Aggiunte le lingue russa, rumena e turca.",
+    "fr": "Ajout des langues russe, roumaine et turque.",
+    "pt": "Adicionados os idiomas russo, romeno e turco."
   }
 }
