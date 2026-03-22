@@ -1,24 +1,24 @@
 {
-  "version": "0.9.0",
-  "notes": "Project import quick fix.\nImproved newer tablet support.\nAdded support for local and community themes.\nBug fixes and minor style improvements.\nAdded a community theme creation tutorial.\nAdded PlotGrid support.",
-  "pub_date": "2026-03-06T00:00:00.000Z",
+  "version": "0.9.3",
+  "notes": "OneDrive (WIP) and Dropbox integration added. Improved scene management. Various bug fixes. Usability improvements on small screens. Rename buttons added for Cardboard and Plotgrid.",
+  "pub_date": "2026-03-22T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXVPWUc1UUZZUmQ3cVhMdVoxbVllUVNUVWxVTmY0dUR6Qkd0NHdZV25XM2FDRXFkUkcvRHNKRUJSWTBCNnRLQjhYdDYyaHZISGZiZ2ZGYmt6K2x0Q0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODEwOTQzCWZpbGU6VGludGVyb18wLjkuMF9hbWQ2NC5kZWIKdTN1WDR3QmRPUUpYMEpvSUpEL3cwTm83M2lTOEoyeFppcEE2Uk42b1A0aFZBd2VOKzJ4RG9RWVFIdmIxRE04UTBjbDZEYUJDUm9ib1JUMzlLWUFWQWc9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.0/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWw2Zlk0OW5xaU1LUWRkbXJ6WGRTdnpSZ1MrdkJlNzgxa0o2ak43VVl0dlE5MUluN3hRa0wwTDNZcHNyeTRmeWQ3UzBnNzFzeUloUTZJTFFKYTgzeXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMxNzcwCWZpbGU6VGludGVyb18wLjkuM19hbWQ2NC5kZWIKNDhtUFE4T3p1ZkNLY2dlOEFhTklhUFVhVG1pdmk4QmhhcXh3WWV3MUtNM25NNGxVQ2I3R1ErTXZhTkNYdEVpa2dCOGFYWjRUUGl6d2hlU2VobDJEQVE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXVZOGVpbkptV0NrUjBzbDM3L0hxM2NKL1MvTHl3UER5aXEzdG9MamswZnkzc0pvRUtjTEJJZVgzcnhYY0dXRzhHRkZBYjRvODNPeTYxUnZaYWxWbmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODEyNTE3CWZpbGU6VGludGVyb18wLjkuMF94NjQtc2V0dXAuZXhlCnVldmROeDg2aDlOc1VGR0dLdVh2SFZzVk1JRXdYR0xIZ1NEY2pEVWM1NG1FUzhnVUk4WHNrYmUrcDUzN0k5OW02NDZwWGczTUo5MEFUU1lnOW9aRUFnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.0/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlEMmFGdEFPY0JkMnZhN0ljT0VoYnNHRVlZQzlJZVFCTEF2RXRTYjlMSHVVYkhoTDY2WGwxdkFwUXFwdmVFMzd2T2JlVS9PTkhDWjBaY0k2L0swYUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMzMjc3CWZpbGU6VGludGVyb18wLjkuM194NjQtc2V0dXAuZXhlCkdoR21RNXNIeWlORUV2MTY2eWU2U1FDS2Q5WmxhU1l2RVlNTjZzU2pLbmZhTG5HVmlSeEVpZE41MTJoV3FqeFc4WVp0QU9QMGlZUHRFSklGMmVuMUJnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Plugin system released with open source plugins.\nTintero Nexus community launched.\nAndroid landscape improvements and new native clipboard.\nBetter file tree and menu reorganization.\nMore panel layouts and Google Drive sync restored.\nPerformance improvements (Linux optimized) and bug fixes.",
-    "es": "Nuevo sistema de plugins con plugins open source.\nLanzamiento de la comunidad Tintero Nexus.\nMejoras en modo horizontal de Android y nuevo portapapeles nativo.\nMejor árbol de archivos y reorganización del menú.\nMás layouts de panel y vuelve la sincronización con Google Drive.\nMejoras de rendimiento y correcciones.",
-    "ca": "Nou sistema de plugins amb plugins open source.\nLlançament de la comunitat Tintero Nexus.\nMillores en mode horitzontal Android i nou porta-retalls natiu.\nMillor arbre de fitxers i reorganització del menú.\nMés dissenys de panell i torna la sincronització amb Google Drive.\nMillores de rendiment i correccions.",
-    "de": "Pluginsystem mit Open-Source-Plugins veröffentlicht.\nTintero Nexus Community gestartet.\nVerbesserungen im Android-Querformat und neue native Zwischenablage.\nBesserer Dateibaum und Menü-Neuordnung.\nMehr Panel-Layouts und Google-Drive-Sync zurück.\nPerformance-Verbesserungen und Bugfixes.",
-    "it": "Nuovo sistema di plugin con plugin open source.\nLanciata la community Tintero Nexus.\nMigliorie alla modalità orizzontale Android e nuova clipboard nativa.\nMigliore albero file e menu riorganizzato.\nPiù layout dei pannelli e ritorno della sincronizzazione Google Drive.\nMigliorie di prestazioni e bugfix.",
-    "fr": "Nouveau système de plugins avec plugins open source.\nLancement de la communauté Tintero Nexus.\nAméliorations du mode paysage Android et nouveau presse-papiers natif.\nMeilleur arbre de fichiers et menu réorganisé.\nPlus de dispositions de panneaux et retour de la synchronisation Google Drive.\nAméliorations de performance et correctifs.",
-    "pt": "Novo sistema de plugins com plugins open source.\nLançamento da comunidade Tintero Nexus.\nMelhorias no modo paisagem Android e nova área de transferência nativa.\nMelhor árvore de arquivos e reorganização do menu.\nMais layouts de painel e sincronização com Google Drive de volta.\nMelhorias de desempenho e correções."
+    "en": "OneDrive (WIP) and Dropbox integration added\nImproved scene management\nVarious bug fixes\nUsability improvements on small screens\nRename buttons added for Cardboard and Plotgrid",
+    "es": "Se ha añadido la integración con OneDrive (WIP) y Dropbox\nMejora en la gestión de escenas\nVarias correcciones de errores\nMejoras de usabilidad en pantallas pequeñas\nSe han añadido botones para renombrar Cardboard y Plotgrid",
+    "ca": "S'ha afegit la integració amb OneDrive (WIP) i Dropbox\nMillora de la gestió d'escenes\nDiverses correccions d'errors\nMillores d'usabilitat en pantalles petites\nS'han afegit botons per canviar el nom de Cardboard i Plotgrid",
+    "de": "OneDrive (WIP)- und Dropbox-Integration hinzugefügt\nVerbesserte Szenenverwaltung\nVerschiedene Fehlerbehebungen\nVerbesserte Benutzerfreundlichkeit auf kleinen Bildschirmen\nUmbenennungs-Buttons für Cardboard und Plotgrid hinzugefügt",
+    "it": "Aggiunta integrazione con OneDrive (WIP) e Dropbox\nMigliorata la gestione delle scene\nVarie correzioni di bug\nMiglioramenti di usabilità su schermi piccoli\nAggiunti pulsanti di rinomina per Cardboard e Plotgrid",
+    "fr": "Ajout de l’intégration OneDrive (WIP) et Dropbox\nAmélioration de la gestion des scènes\nDivers correctifs de bugs\nAméliorations de l’ergonomie sur petits écrans\nAjout de boutons de renommage pour Cardboard et Plotgrid",
+    "pt": "Adicionada integração com OneDrive (WIP) e Dropbox\nMelhoria na gestão de cenas\nVárias correções de bugs\nMelhorias de usabilidade em ecrãs pequenos\nBotões de renomeação adicionados para Cardboard e Plotgrid"
   }
 }
