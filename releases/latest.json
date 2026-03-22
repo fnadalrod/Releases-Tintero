@@ -1,24 +1,24 @@
 {
-  "version": "0.9.1",
-  "notes": "Editor improvements and fixes.\nAdded underline formatting to the editor toolbar.\nAdded font size control.\nAdded text color support.\nImproved table styling and functionality.\nLogin screen tweaks and improvements.\nFixed several worldbuilding issues.\nSelect fields are now editable with custom options.",
-  "pub_date": "2026-03-13T00:00:00.000Z",
+  "version": "0.9.3",
+  "notes": "OneDrive (WIP) and Dropbox integration added. Improved scene management. Various bug fixes. Usability improvements on small screens. Rename buttons added for Cardboard and Plotgrid.",
+  "pub_date": "2026-03-22T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWhQeE44QUdQaU15VmU2YW9DaDVneFpaWWdZVkJib2Y0SWQ5dTdrQ1oxcEEwWHNKeTdpaDB5MGJpcEJaSDFlSGFjZlRXaXJ4bEFLY0JQUFZIVlZkRndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzY0MDA2CWZpbGU6VGludGVyb18wLjkuMV9hbWQ2NC5kZWIKb2h6ZVJrK2hJWUM1SXpaL3JBeWxtUGFHUzdSWlNhUmsydkIrRlhVK1EzQzR0aGlWMGVNNlN5dGhpUUs5Sm1Kek4zejVFbHVqdTUwQ2FpRlZCNE4vQlE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.1/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWw2Zlk0OW5xaU1LUWRkbXJ6WGRTdnpSZ1MrdkJlNzgxa0o2ak43VVl0dlE5MUluN3hRa0wwTDNZcHNyeTRmeWQ3UzBnNzFzeUloUTZJTFFKYTgzeXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMxNzcwCWZpbGU6VGludGVyb18wLjkuM19hbWQ2NC5kZWIKNDhtUFE4T3p1ZkNLY2dlOEFhTklhUFVhVG1pdmk4QmhhcXh3WWV3MUtNM25NNGxVQ2I3R1ErTXZhTkNYdEVpa2dCOGFYWjRUUGl6d2hlU2VobDJEQVE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXIyVlp1cVBJcjBONlBCd2FtWUdFcER5d2JYQWt3S0phWnd2NklZTU5xdG1uUlU4dVZBSTRPMGhYcWI2aGhaU0lPOU91QWVPVUV2YXllZWpWSWlwUXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzY1MTgxCWZpbGU6VGludGVyb18wLjkuMV94NjQtc2V0dXAuZXhlCk4yRm5qSXlGRzRSL3BuQmlYbytmb0NSdnM4bC9FcTBqakYySENiOGdsU2R6WWhxS3FnbnN1Mk8wSjUzQU95R25wSWhMZkpxWHliVjVJTUVkbkZEdkJRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.1/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlEMmFGdEFPY0JkMnZhN0ljT0VoYnNHRVlZQzlJZVFCTEF2RXRTYjlMSHVVYkhoTDY2WGwxdkFwUXFwdmVFMzd2T2JlVS9PTkhDWjBaY0k2L0swYUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMzMjc3CWZpbGU6VGludGVyb18wLjkuM194NjQtc2V0dXAuZXhlCkdoR21RNXNIeWlORUV2MTY2eWU2U1FDS2Q5WmxhU1l2RVlNTjZzU2pLbmZhTG5HVmlSeEVpZE41MTJoV3FqeFc4WVp0QU9QMGlZUHRFSklGMmVuMUJnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added underline formatting to the editor toolbar.\nAdded font size control.\nAdded text color support.\nImproved table styling and functionality.\nLogin screen tweaks and improvements.\nFixed several worldbuilding issues.\nSelect fields are now editable and support custom options.",
-    "es": "Se añadió formato de subrayado a la barra del editor.\nSe añadió control de tamaño de fuente.\nSoporte para color de texto.\nMejoras en el estilo y funcionamiento de las tablas.\nAjustes y mejoras en la pantalla de inicio de sesión.\nCorregidos varios problemas del sistema de worldbuilding.\nLos campos select ahora son editables y permiten opciones personalizadas.",
-    "ca": "S'ha afegit el format de subratllat a la barra de l'editor.\nS'ha afegit control de mida de font.\nSuport per a color de text.\nMillores en l'estil i funcionament de les taules.\nAjustos i millores a la pantalla d'inici de sessió.\nCorrecció de diversos problemes de worldbuilding.\nEls camps select ara són editables i permeten opcions personalitzades.",
-    "de": "Unterstreichungsformat zur Editor-Toolbar hinzugefügt.\nSchriftgrößensteuerung hinzugefügt.\nUnterstützung für Textfarben hinzugefügt.\nVerbesserte Tabellenstile und -funktionen.\nAnpassungen und Verbesserungen am Login-Bildschirm.\nMehrere Worldbuilding-Probleme behoben.\nSelect-Felder sind jetzt editierbar und unterstützen benutzerdefinierte Optionen.",
-    "it": "Aggiunta la formattazione sottolineata alla barra dell'editor.\nAggiunto controllo della dimensione del font.\nSupporto per il colore del testo.\nMigliorato lo stile e la funzionalità delle tabelle.\nMigliorie e ritocchi alla schermata di login.\nRisolti diversi problemi di worldbuilding.\nI campi select ora sono modificabili e supportano opzioni personalizzate.",
-    "fr": "Ajout du format souligné dans la barre de l'éditeur.\nAjout du contrôle de la taille de police.\nSupport pour la couleur du texte.\nAmélioration du style et du fonctionnement des tableaux.\nAjustements et améliorations de l'écran de connexion.\nCorrection de plusieurs problèmes de worldbuilding.\nLes champs select sont désormais éditables avec des options personnalisées.",
-    "pt": "Adicionado formatação de sublinhado à barra do editor.\nAdicionado controle de tamanho da fonte.\nSuporte para cor de texto.\nMelhorias no estilo e funcionamento das tabelas.\nAjustes e melhorias na tela de login.\nCorrigidos vários problemas de worldbuilding.\nCampos select agora são editáveis e suportam opções personalizadas."
+    "en": "OneDrive (WIP) and Dropbox integration added\nImproved scene management\nVarious bug fixes\nUsability improvements on small screens\nRename buttons added for Cardboard and Plotgrid",
+    "es": "Se ha añadido la integración con OneDrive (WIP) y Dropbox\nMejora en la gestión de escenas\nVarias correcciones de errores\nMejoras de usabilidad en pantallas pequeñas\nSe han añadido botones para renombrar Cardboard y Plotgrid",
+    "ca": "S'ha afegit la integració amb OneDrive (WIP) i Dropbox\nMillora de la gestió d'escenes\nDiverses correccions d'errors\nMillores d'usabilitat en pantalles petites\nS'han afegit botons per canviar el nom de Cardboard i Plotgrid",
+    "de": "OneDrive (WIP)- und Dropbox-Integration hinzugefügt\nVerbesserte Szenenverwaltung\nVerschiedene Fehlerbehebungen\nVerbesserte Benutzerfreundlichkeit auf kleinen Bildschirmen\nUmbenennungs-Buttons für Cardboard und Plotgrid hinzugefügt",
+    "it": "Aggiunta integrazione con OneDrive (WIP) e Dropbox\nMigliorata la gestione delle scene\nVarie correzioni di bug\nMiglioramenti di usabilità su schermi piccoli\nAggiunti pulsanti di rinomina per Cardboard e Plotgrid",
+    "fr": "Ajout de l’intégration OneDrive (WIP) et Dropbox\nAmélioration de la gestion des scènes\nDivers correctifs de bugs\nAméliorations de l’ergonomie sur petits écrans\nAjout de boutons de renommage pour Cardboard et Plotgrid",
+    "pt": "Adicionada integração com OneDrive (WIP) e Dropbox\nMelhoria na gestão de cenas\nVárias correções de bugs\nMelhorias de usabilidade em ecrãs pequenos\nBotões de renomeação adicionados para Cardboard e Plotgrid"
   }
 }
