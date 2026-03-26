@@ -1,24 +1,24 @@
 {
-  "version": "0.9.3",
-  "notes": "OneDrive (WIP) and Dropbox integration added. Improved scene management. Various bug fixes. Usability improvements on small screens. Rename buttons added for Cardboard and Plotgrid.",
-  "pub_date": "2026-03-22T00:00:00.000Z",
+  "version": "0.9.4",
+  "notes": "Refactored the file tree to remove deprecated code and improve stability. Improved the spell-check suggestion algorithm. Added dictionary downloads support in the Flatpak version. Fixed issues with the editor context menu.",
+  "pub_date": "2026-03-26T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWw2Zlk0OW5xaU1LUWRkbXJ6WGRTdnpSZ1MrdkJlNzgxa0o2ak43VVl0dlE5MUluN3hRa0wwTDNZcHNyeTRmeWQ3UzBnNzFzeUloUTZJTFFKYTgzeXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMxNzcwCWZpbGU6VGludGVyb18wLjkuM19hbWQ2NC5kZWIKNDhtUFE4T3p1ZkNLY2dlOEFhTklhUFVhVG1pdmk4QmhhcXh3WWV3MUtNM25NNGxVQ2I3R1ErTXZhTkNYdEVpa2dCOGFYWjRUUGl6d2hlU2VobDJEQVE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXJyVjBmNWhLS04raEJWZDRCcXRSRUo5amZlTThDM0NwQlNVUDBOSmVBQjVvUm41UGxyWWtKblBvREZBYjB2bjZIUGNieFhPNmNvNDc4aG5ka3lxMGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUyODg5CWZpbGU6VGludGVyb18wLjkuNF9hbWQ2NC5kZWIKMmhjMWsrVmFDamtLZ0pOK0ZDWEwzRkdXZngwUEF3MGJ1UFQzdVhheENRWHo5REpLbWt4dkhXYm9Yc1pPaFhiVEpId0I2OEhDQVlSRGVTdlpUNUZnQ2c9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.4/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlEMmFGdEFPY0JkMnZhN0ljT0VoYnNHRVlZQzlJZVFCTEF2RXRTYjlMSHVVYkhoTDY2WGwxdkFwUXFwdmVFMzd2T2JlVS9PTkhDWjBaY0k2L0swYUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMzMjc3CWZpbGU6VGludGVyb18wLjkuM194NjQtc2V0dXAuZXhlCkdoR21RNXNIeWlORUV2MTY2eWU2U1FDS2Q5WmxhU1l2RVlNTjZzU2pLbmZhTG5HVmlSeEVpZE41MTJoV3FqeFc4WVp0QU9QMGlZUHRFSklGMmVuMUJnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWh1d1k3UW40cEJQMk9iQVJmbjg1NWsvaVE5RE1UQkdLTEtnQXRkd0xpUEZHeVkydnNVSStuZ0U3cThmd3RNMnJubmhYaEpncHdSa3RUaWxmUUVRWVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTU0Mjc4CWZpbGU6VGludGVyb18wLjkuNF94NjQtc2V0dXAuZXhlCnBmdXMvR2tURUEzbW15Nk44N3g5OGhNVGorRXU4cnJFQldWb2lBekhjZCtubUhKekRXUm5Zamhpek1hWmxQNzRYaEVua1RYRjh6emJNZlhXak9DeURBPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.4/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "OneDrive (WIP) and Dropbox integration added\nImproved scene management\nVarious bug fixes\nUsability improvements on small screens\nRename buttons added for Cardboard and Plotgrid",
-    "es": "Se ha añadido la integración con OneDrive (WIP) y Dropbox\nMejora en la gestión de escenas\nVarias correcciones de errores\nMejoras de usabilidad en pantallas pequeñas\nSe han añadido botones para renombrar Cardboard y Plotgrid",
-    "ca": "S'ha afegit la integració amb OneDrive (WIP) i Dropbox\nMillora de la gestió d'escenes\nDiverses correccions d'errors\nMillores d'usabilitat en pantalles petites\nS'han afegit botons per canviar el nom de Cardboard i Plotgrid",
-    "de": "OneDrive (WIP)- und Dropbox-Integration hinzugefügt\nVerbesserte Szenenverwaltung\nVerschiedene Fehlerbehebungen\nVerbesserte Benutzerfreundlichkeit auf kleinen Bildschirmen\nUmbenennungs-Buttons für Cardboard und Plotgrid hinzugefügt",
-    "it": "Aggiunta integrazione con OneDrive (WIP) e Dropbox\nMigliorata la gestione delle scene\nVarie correzioni di bug\nMiglioramenti di usabilità su schermi piccoli\nAggiunti pulsanti di rinomina per Cardboard e Plotgrid",
-    "fr": "Ajout de l’intégration OneDrive (WIP) et Dropbox\nAmélioration de la gestion des scènes\nDivers correctifs de bugs\nAméliorations de l’ergonomie sur petits écrans\nAjout de boutons de renommage pour Cardboard et Plotgrid",
-    "pt": "Adicionada integração com OneDrive (WIP) e Dropbox\nMelhoria na gestão de cenas\nVárias correções de bugs\nMelhorias de usabilidade em ecrãs pequenos\nBotões de renomeação adicionados para Cardboard e Plotgrid"
+    "en": "Refactored the file tree to remove deprecated code and improve stability\nImproved the spell-check suggestion algorithm\nAdded dictionary downloads support in the Flatpak version\nFixed issues with the editor context menu",
+    "es": "Se ha refactorizado el árbol de archivos para eliminar código obsoleto y mejorar la estabilidad\nSe ha mejorado el algoritmo de sugerencias del corrector ortográfico\nSe ha añadido soporte de descarga de diccionarios en la versión Flatpak\nSe han corregido problemas en el menú contextual del editor",
+    "ca": "S'ha refactoritzat l'arbre de fitxers per eliminar codi obsolet i millorar l'estabilitat\nS'ha millorat l'algoritme de suggeriments del corrector ortogràfic\nS'ha afegit suport de descàrrega de diccionaris a la versió Flatpak\nS'han corregit problemes al menú contextual de l'editor",
+    "de": "Dateibaum refaktoriert, um veralteten Code zu entfernen und die Stabilität zu verbessern\nAlgorithmus für Rechtschreibvorschläge verbessert\nUnterstützung für Wörterbuch-Downloads in der Flatpak-Version hinzugefügt\nProbleme mit dem Kontextmenü des Editors behoben",
+    "it": "Refactoring dell'albero dei file per rimuovere codice deprecato e migliorare la stabilità\nMigliorato l'algoritmo dei suggerimenti del correttore ortografico\nAggiunto supporto per il download dei dizionari nella versione Flatpak\nRisolti problemi con il menu contestuale dell'editor",
+    "fr": "Refonte de l’arborescence des fichiers pour supprimer du code obsolète et améliorer la stabilité\nAmélioration de l’algorithme de suggestions du correcteur orthographique\nAjout du support de téléchargement de dictionnaires dans la version Flatpak\nCorrection de problèmes liés au menu contextuel de l’éditeur",
+    "pt": "Refatoração da árvore de ficheiros para remover código obsoleto e melhorar a estabilidade\nMelhoria no algoritmo de sugestões do corretor ortográfico\nAdicionado suporte para download de dicionários na versão Flatpak\nCorrigidos problemas no menu de contexto do editor"
   }
 }
