@@ -1,24 +1,24 @@
 {
-  "version": "0.9.3",
-  "notes": "OneDrive (WIP) and Dropbox integration added. Improved scene management. Various bug fixes. Usability improvements on small screens. Rename buttons added for Cardboard and Plotgrid.",
-  "pub_date": "2026-03-22T00:00:00.000Z",
+  "version": "0.9.5",
+  "notes": "Minor bug fixes, quality of life improvements and general performance enhancements.",
+  "pub_date": "2026-04-06T23:59:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWw2Zlk0OW5xaU1LUWRkbXJ6WGRTdnpSZ1MrdkJlNzgxa0o2ak43VVl0dlE5MUluN3hRa0wwTDNZcHNyeTRmeWQ3UzBnNzFzeUloUTZJTFFKYTgzeXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMxNzcwCWZpbGU6VGludGVyb18wLjkuM19hbWQ2NC5kZWIKNDhtUFE4T3p1ZkNLY2dlOEFhTklhUFVhVG1pdmk4QmhhcXh3WWV3MUtNM25NNGxVQ2I3R1ErTXZhTkNYdEVpa2dCOGFYWjRUUGl6d2hlU2VobDJEQVE9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW82cmVHeC9SM2NNRC85OEptTXNLVnJPWG53VFV1UytMNFhMTkpwUk9qNFkzdjB2NmlhdnZSTlRrQzFWQXRoQndxdEx6dGdBMTdRTmMzVkxRdmFkcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA1OTE1CWZpbGU6VGludGVyb18wLjkuNV9hbWQ2NC5kZWIKckhOODhKL21yT3hnTGs5eVdma0JMcTZsblBwK3hSaDJ2WHVJanZNUCsxRVV3alRJK3pEQVJ4ZGVTMWZNcmVqNjB5OVVjMitub2FWdFdoMmM2Y0FEQ2c9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.5/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlEMmFGdEFPY0JkMnZhN0ljT0VoYnNHRVlZQzlJZVFCTEF2RXRTYjlMSHVVYkhoTDY2WGwxdkFwUXFwdmVFMzd2T2JlVS9PTkhDWjBaY0k2L0swYUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTMzMjc3CWZpbGU6VGludGVyb18wLjkuM194NjQtc2V0dXAuZXhlCkdoR21RNXNIeWlORUV2MTY2eWU2U1FDS2Q5WmxhU1l2RVlNTjZzU2pLbmZhTG5HVmlSeEVpZE41MTJoV3FqeFc4WVp0QU9QMGlZUHRFSklGMmVuMUJnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.3/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXI1ZDNrYU4rYnRDMllrYW5DS2JkVjM4NlV6UTlsUTh0aFF1YmgzcWYySGZsSThCY3llSmFraW1xZzZyQ0tqK0k5Yy9VdUhsSkRCOWNnOUl2cmE2YkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA3MzEwCWZpbGU6VGludGVyb18wLjkuNV94NjQtc2V0dXAuZXhlCks5bzFOdWxnelBtQVpWWFlHREZRSzlRcloyaHozbzk4R0ZlTWwyNm80YjU4ZW1MQXozTWppZThqUzNPTzZ0aUtRNjFJa1owcG01U0ZHT3dYL1F1NkNnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.5/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "OneDrive (WIP) and Dropbox integration added\nImproved scene management\nVarious bug fixes\nUsability improvements on small screens\nRename buttons added for Cardboard and Plotgrid",
-    "es": "Se ha añadido la integración con OneDrive (WIP) y Dropbox\nMejora en la gestión de escenas\nVarias correcciones de errores\nMejoras de usabilidad en pantallas pequeñas\nSe han añadido botones para renombrar Cardboard y Plotgrid",
-    "ca": "S'ha afegit la integració amb OneDrive (WIP) i Dropbox\nMillora de la gestió d'escenes\nDiverses correccions d'errors\nMillores d'usabilitat en pantalles petites\nS'han afegit botons per canviar el nom de Cardboard i Plotgrid",
-    "de": "OneDrive (WIP)- und Dropbox-Integration hinzugefügt\nVerbesserte Szenenverwaltung\nVerschiedene Fehlerbehebungen\nVerbesserte Benutzerfreundlichkeit auf kleinen Bildschirmen\nUmbenennungs-Buttons für Cardboard und Plotgrid hinzugefügt",
-    "it": "Aggiunta integrazione con OneDrive (WIP) e Dropbox\nMigliorata la gestione delle scene\nVarie correzioni di bug\nMiglioramenti di usabilità su schermi piccoli\nAggiunti pulsanti di rinomina per Cardboard e Plotgrid",
-    "fr": "Ajout de l’intégration OneDrive (WIP) et Dropbox\nAmélioration de la gestion des scènes\nDivers correctifs de bugs\nAméliorations de l’ergonomie sur petits écrans\nAjout de boutons de renommage pour Cardboard et Plotgrid",
-    "pt": "Adicionada integração com OneDrive (WIP) e Dropbox\nMelhoria na gestão de cenas\nVárias correções de bugs\nMelhorias de usabilidade em ecrãs pequenos\nBotões de renomeação adicionados para Cardboard e Plotgrid"
+    "en": "Minor bug fixes, quality of life improvements and general performance enhancements.",
+    "es": "Pequeñas correcciones de errores, mejoras de calidad de vida y optimizaciones generales de rendimiento.",
+    "ca": "Petites correccions d'errors, millores de qualitat de vida i optimitzacions generals de rendiment.",
+    "de": "Kleinere Fehlerbehebungen, Verbesserungen der Benutzerfreundlichkeit und allgemeine Leistungsoptimierungen.",
+    "it": "Piccole correzioni di bug, miglioramenti della qualità della vita e ottimizzazioni generali delle prestazioni.",
+    "fr": "Corrections mineures de bugs, améliorations de confort d’utilisation et optimisations générales des performances.",
+    "pt": "Pequenas correções de bugs, melhorias de qualidade de vida e otimizações gerais de desempenho."
   }
 }
