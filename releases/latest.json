@@ -1,24 +1,24 @@
 {
-  "version": "0.9.4",
-  "notes": "Refactored the file tree to remove deprecated code and improve stability. Improved the spell-check suggestion algorithm. Added dictionary downloads support in the Flatpak version. Fixed issues with the editor context menu.",
-  "pub_date": "2026-03-26T00:00:00.000Z",
+  "version": "0.9.5",
+  "notes": "Minor bug fixes, quality of life improvements and general performance enhancements.",
+  "pub_date": "2026-04-06T23:59:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXJyVjBmNWhLS04raEJWZDRCcXRSRUo5amZlTThDM0NwQlNVUDBOSmVBQjVvUm41UGxyWWtKblBvREZBYjB2bjZIUGNieFhPNmNvNDc4aG5ka3lxMGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUyODg5CWZpbGU6VGludGVyb18wLjkuNF9hbWQ2NC5kZWIKMmhjMWsrVmFDamtLZ0pOK0ZDWEwzRkdXZngwUEF3MGJ1UFQzdVhheENRWHo5REpLbWt4dkhXYm9Yc1pPaFhiVEpId0I2OEhDQVlSRGVTdlpUNUZnQ2c9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.4/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW82cmVHeC9SM2NNRC85OEptTXNLVnJPWG53VFV1UytMNFhMTkpwUk9qNFkzdjB2NmlhdnZSTlRrQzFWQXRoQndxdEx6dGdBMTdRTmMzVkxRdmFkcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA1OTE1CWZpbGU6VGludGVyb18wLjkuNV9hbWQ2NC5kZWIKckhOODhKL21yT3hnTGs5eVdma0JMcTZsblBwK3hSaDJ2WHVJanZNUCsxRVV3alRJK3pEQVJ4ZGVTMWZNcmVqNjB5OVVjMitub2FWdFdoMmM2Y0FEQ2c9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.5/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWh1d1k3UW40cEJQMk9iQVJmbjg1NWsvaVE5RE1UQkdLTEtnQXRkd0xpUEZHeVkydnNVSStuZ0U3cThmd3RNMnJubmhYaEpncHdSa3RUaWxmUUVRWVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTU0Mjc4CWZpbGU6VGludGVyb18wLjkuNF94NjQtc2V0dXAuZXhlCnBmdXMvR2tURUEzbW15Nk44N3g5OGhNVGorRXU4cnJFQldWb2lBekhjZCtubUhKekRXUm5Zamhpek1hWmxQNzRYaEVua1RYRjh6emJNZlhXak9DeURBPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.4/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXI1ZDNrYU4rYnRDMllrYW5DS2JkVjM4NlV6UTlsUTh0aFF1YmgzcWYySGZsSThCY3llSmFraW1xZzZyQ0tqK0k5Yy9VdUhsSkRCOWNnOUl2cmE2YkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA3MzEwCWZpbGU6VGludGVyb18wLjkuNV94NjQtc2V0dXAuZXhlCks5bzFOdWxnelBtQVpWWFlHREZRSzlRcloyaHozbzk4R0ZlTWwyNm80YjU4ZW1MQXozTWppZThqUzNPTzZ0aUtRNjFJa1owcG01U0ZHT3dYL1F1NkNnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.5/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Refactored the file tree to remove deprecated code and improve stability\nImproved the spell-check suggestion algorithm\nAdded dictionary downloads support in the Flatpak version\nFixed issues with the editor context menu",
-    "es": "Se ha refactorizado el árbol de archivos para eliminar código obsoleto y mejorar la estabilidad\nSe ha mejorado el algoritmo de sugerencias del corrector ortográfico\nSe ha añadido soporte de descarga de diccionarios en la versión Flatpak\nSe han corregido problemas en el menú contextual del editor",
-    "ca": "S'ha refactoritzat l'arbre de fitxers per eliminar codi obsolet i millorar l'estabilitat\nS'ha millorat l'algoritme de suggeriments del corrector ortogràfic\nS'ha afegit suport de descàrrega de diccionaris a la versió Flatpak\nS'han corregit problemes al menú contextual de l'editor",
-    "de": "Dateibaum refaktoriert, um veralteten Code zu entfernen und die Stabilität zu verbessern\nAlgorithmus für Rechtschreibvorschläge verbessert\nUnterstützung für Wörterbuch-Downloads in der Flatpak-Version hinzugefügt\nProbleme mit dem Kontextmenü des Editors behoben",
-    "it": "Refactoring dell'albero dei file per rimuovere codice deprecato e migliorare la stabilità\nMigliorato l'algoritmo dei suggerimenti del correttore ortografico\nAggiunto supporto per il download dei dizionari nella versione Flatpak\nRisolti problemi con il menu contestuale dell'editor",
-    "fr": "Refonte de l’arborescence des fichiers pour supprimer du code obsolète et améliorer la stabilité\nAmélioration de l’algorithme de suggestions du correcteur orthographique\nAjout du support de téléchargement de dictionnaires dans la version Flatpak\nCorrection de problèmes liés au menu contextuel de l’éditeur",
-    "pt": "Refatoração da árvore de ficheiros para remover código obsoleto e melhorar a estabilidade\nMelhoria no algoritmo de sugestões do corretor ortográfico\nAdicionado suporte para download de dicionários na versão Flatpak\nCorrigidos problemas no menu de contexto do editor"
+    "en": "Minor bug fixes, quality of life improvements and general performance enhancements.",
+    "es": "Pequeñas correcciones de errores, mejoras de calidad de vida y optimizaciones generales de rendimiento.",
+    "ca": "Petites correccions d'errors, millores de qualitat de vida i optimitzacions generals de rendiment.",
+    "de": "Kleinere Fehlerbehebungen, Verbesserungen der Benutzerfreundlichkeit und allgemeine Leistungsoptimierungen.",
+    "it": "Piccole correzioni di bug, miglioramenti della qualità della vita e ottimizzazioni generali delle prestazioni.",
+    "fr": "Corrections mineures de bugs, améliorations de confort d’utilisation et optimisations générales des performances.",
+    "pt": "Pequenas correções de bugs, melhorias de qualidade de vida e otimizações gerais de desempenho."
   }
 }
