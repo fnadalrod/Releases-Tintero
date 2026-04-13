@@ -1,24 +1,24 @@
 {
-  "version": "0.9.5",
-  "notes": "Minor bug fixes, quality of life improvements and general performance enhancements.",
-  "pub_date": "2026-04-06T23:59:00.000Z",
+  "version": "0.9.7",
+  "notes": "Bug fixes related to the user panel, scene management, export, and full book generation.",
+  "pub_date": "2026-04-13T23:59:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW82cmVHeC9SM2NNRC85OEptTXNLVnJPWG53VFV1UytMNFhMTkpwUk9qNFkzdjB2NmlhdnZSTlRrQzFWQXRoQndxdEx6dGdBMTdRTmMzVkxRdmFkcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA1OTE1CWZpbGU6VGludGVyb18wLjkuNV9hbWQ2NC5kZWIKckhOODhKL21yT3hnTGs5eVdma0JMcTZsblBwK3hSaDJ2WHVJanZNUCsxRVV3alRJK3pEQVJ4ZGVTMWZNcmVqNjB5OVVjMitub2FWdFdoMmM2Y0FEQ2c9PQo=",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.5/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlvUlFnWGFUcXlzRHI3VGNacVFDRitlNHlIY0pycm1SZUNkeWFnZEd1aTdHN2hpUFE1QnRMbkxlaisyOUlvNnhkdGZUcFBpT2ZiK2tKOEVCQnJBTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQwNzI1CWZpbGU6VGludGVyb18wLjkuN19hbWQ2NC5kZWIKNUJtKzZpVkN4MjUxZTlPNFlWWUxWd1RNRkpKMVVRTUg5VTdxY042RGVGYms4OEkraDYzT0hhWk82WUdaTDQxbWxEeHZlNFBYZW80NWFBR20zR3pKQkE9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.7/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXI1ZDNrYU4rYnRDMllrYW5DS2JkVjM4NlV6UTlsUTh0aFF1YmgzcWYySGZsSThCY3llSmFraW1xZzZyQ0tqK0k5Yy9VdUhsSkRCOWNnOUl2cmE2YkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA3MzEwCWZpbGU6VGludGVyb18wLjkuNV94NjQtc2V0dXAuZXhlCks5bzFOdWxnelBtQVpWWFlHREZRSzlRcloyaHozbzk4R0ZlTWwyNm80YjU4ZW1MQXozTWppZThqUzNPTzZ0aUtRNjFJa1owcG01U0ZHT3dYL1F1NkNnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.5/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXVHZmlqWGhmMEY1anNJTXVBejg0VTRPYVZmWWY5TTRnMWo4YkY4ZEZxYm4zMGpPdDdrN0E2RXdNSTkxVGo4Rlp4VnFkb3NDOFpFSk00UndnRSszRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQyMDczCWZpbGU6VGludGVyb18wLjkuN194NjQtc2V0dXAuZXhlCkVaUjZGb21FNW9rVXgxTVBIVTJLNlF5TjJmWng3OThDWHY2cHBueXNEaHRGaTNDTWU3Szk1VThFNVNGS2k2by9MQ3JSNFZLVnZORGppNWFpbUl2N0JRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.7/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Minor bug fixes, quality of life improvements and general performance enhancements.",
-    "es": "Pequeñas correcciones de errores, mejoras de calidad de vida y optimizaciones generales de rendimiento.",
-    "ca": "Petites correccions d'errors, millores de qualitat de vida i optimitzacions generals de rendiment.",
-    "de": "Kleinere Fehlerbehebungen, Verbesserungen der Benutzerfreundlichkeit und allgemeine Leistungsoptimierungen.",
-    "it": "Piccole correzioni di bug, miglioramenti della qualità della vita e ottimizzazioni generali delle prestazioni.",
-    "fr": "Corrections mineures de bugs, améliorations de confort d’utilisation et optimisations générales des performances.",
-    "pt": "Pequenas correções de bugs, melhorias de qualidade de vida e otimizações gerais de desempenho."
+    "en": "Bug fixes in the user panel, scene management, export, and full book generation.",
+    "es": "Corregidos errores en el panel de usuario, la gestión de escenas, la exportación y la generación completa del libro.",
+    "ca": "Corregits errors al panell d’usuari, la gestió d’escenes, l’exportació i la generació completa del llibre.",
+    "de": "Fehlerbehebungen im Benutzerpanel, der Szenenverwaltung, dem Export und der vollständigen Buchgenerierung.",
+    "it": "Corretti errori nel pannello utente, nella gestione delle scene, nell’esportazione e nella generazione completa del libro.",
+    "fr": "Corrections de bugs dans le panneau utilisateur, la gestion des scènes, l’exportation et la génération complète du livre.",
+    "pt": "Erros corrigidos no painel do utilizador, na gestão de cenas, na exportação e na geração completa do livro."
   }
 }
