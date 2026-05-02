@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+
+  --bg-primary: var(--dark-bg, #000000);
+  --bg-secondary: var(--dark-secondary, #111111);
+  --bg-tertiary: var(--dark-tertiary, #222222);
+
+  --text-main: var(--text-primary, rgba(255, 255, 255, 0.87));
+  --text-muted: var(--text-secondary, #a98e6b);
+  --text-dim: var(--text-tertiary, #a19591);
+
+  --accent: var(--accent-color, #c98a48);
+  --accent-hover: var(--accent-color-hover, #e1a66b);
+
+  --border-dim: var(--border-color, #2d2d2d);
+  --btn-hover: var(--button-hover, #1e1e1e);
+
+  color: var(--text-main);
+  background-color: var(--bg-primary);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--bg-primary);
+}
+
+#root,
+#plugin-root {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,25 @@
+{
+  "id": "com.tintero.dev-console",
+  "name": "Dev Console",
+  "version": "0.0.1",
+  "description": "Developer console for viewing plugin and application logs in real-time.",
+  "author": {
+    "name": "Tintero Team",
+    "url": "https://tintero.app"
+  },
+  "type": "app",
+  "main": "plugin.js",
+  "icon": "icon.svg",
+  "scopes": [
+    "ui.sidebar",
+    "ui.dialog",
+    "ui.notification",
+    "debug.console"
+  ],
+  "ui": {
+    "sidebar": {
+      "label": "Dev Console",
+      "tooltip": "Developer Console"
+    }
+  }
+}

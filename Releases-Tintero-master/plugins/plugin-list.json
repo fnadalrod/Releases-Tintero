@@ -1,0 +1,121 @@
+[
+  {
+    "id": "com.tintero.full-focus-mode",
+    "name": "Full Focus Mode",
+    "repository": "https://github.com/fnadalrod/Full-focus-mode---Tintero-plugin",
+    "description": "Full focus. No distraction. No turning back. Begin a session and write until the timer stops.",
+    "author": "Tintero Team",
+    "version": "0.0.1",
+    "type": "app",
+    "tags": [
+      "statistics",
+      "writing",
+      "productivity",
+      "goals"
+    ],
+    "publishedAt": "2026-02-18",
+    "updatedAt": "2026-02-18",
+    "license": "MIT",
+    "scopes": [
+      "project.read.files",
+      "project.read.fileContent",
+      "project.write.fileContent",
+      "storage",
+      "ui.notification",
+      "ui.window",
+      "ui.sidebar",
+      "convert.format",
+      "fs.write",
+      "project.write.files",
+      "fs.platform"
+    ],
+    "featured": true
+  },
+  {
+    "id": "com.tintero.world-codex",
+    "name": "World Codex Wiki",
+    "repository": "https://github.com/fnadalrod/World-Codex---Tintero-plugin",
+    "description": "Your world comes to life. Auto-generated navigable wiki from your project's characters, worldbuilding, and manuscript.",
+    "author": "Tintero Team",
+    "version": "0.0.1",
+    "type": "app",
+    "tags": [
+      "wiki"
+    ],
+    "publishedAt": "2026-02-22",
+    "updatedAt": "2026-02-22",
+    "license": "MIT",
+    "scopes": [
+      "project.read",
+      "project.read.characters",
+      "project.read.worldbuilding",
+      "project.read.files",
+      "project.read.docs",
+      "project.read.fileContent",
+      "project.read.notes",
+      "project.read.tags",
+      "project.read.images",
+      "storage",
+      "ui.sidebar",
+      "ui.notification",
+      "convert.format"
+    ],
+    "featured": true
+  },
+  {
+    "id": "com.tintero.dev-console",
+    "name": "Dev Console",
+    "repository": "https://github.com/fnadalrod/Dev-mode---Tintero-plugin",
+    "description": "Developer console for viewing plugin and application logs in real-time.",
+    "author": "Tintero Team",
+    "version": "0.0.1",
+    "type": "app",
+    "tags": [
+      "development", "console", "debug"
+    ],
+    "publishedAt": "2026-02-22",
+    "updatedAt": "2026-02-22",
+    "license": "MIT",
+    "scopes": [
+      "ui.sidebar",
+      "ui.dialog",
+      "ui.notification",
+      "debug.console"
+    ],
+    "featured": true
+  },
+  {
+    "id": "com.tintero.sample.project-inspector",
+    "name": "Project Inspector",
+    "repository": "https://github.com/fnadalrod/Project-Inspector---Tintero-plugin",
+    "description": "Inspects the inner data of your project.",
+    "author": "Tintero Team",
+    "version": "0.0.1",
+    "type": "sidebar",
+    "tags": [
+      "development", "project"
+    ],
+    "publishedAt": "2026-02-26",
+    "updatedAt": "2026-02-26",
+    "license": "MIT",
+    "scopes": [
+      "ui.sidebar",
+      "ui.notification",
+      "ui.dialog",
+      "project.read",
+      "project.read.files",
+      "project.read.fileContent",
+      "project.read.characters",
+      "project.read.worldbuilding",
+      "project.read.notes",
+      "project.read.docs",
+      "project.read.plotgrid",
+      "project.read.cardboards",
+      "project.read.collections",
+      "project.read.tags",
+      "project.read.images",
+      "app.settings.read"
+    ],
+    "featured": true
+  }
+]

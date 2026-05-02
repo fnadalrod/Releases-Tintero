@@ -1,0 +1,56 @@
+[
+    {
+        "id": "file-1",
+        "name": "Chapter 1: The Return of the King",
+        "title": "The Return of the King",
+        "location": "/manuscript",
+        "treePath": "Manuscript/Part 1",
+        "order": 1,
+        "status": "draft",
+        "createdAt": 1640000000000,
+        "lastModified": 1640100000000,
+        "wordNumber": 1523,
+        "writingMode": "prose",
+        "content": "<p>Aragorn stood at the gates of Minas Tirith, the White City gleaming in the morning sun. Behind him, the armies of the West gathered, their banners streaming in the wind. Gandalf rode beside him on Shadowfax, his white robes brilliant against the grey stone.</p><p>\"The time has come,\" Gandalf said quietly. \"Gondor calls for aid, and Rohan will answer. But it is you, Aragorn son of Arathorn, who must claim your birthright.\"</p><p>Aragorn's hand moved to the hilt of Andúril, the sword reforged from the shards of Narsil. He thought of Arwen in Rivendell, waiting for news. He thought of the Shire, peaceful and green. All of Middle-earth depended on what happened in the days to come.</p><p>\"I am ready,\" he said. \"Let us ride to Minas Tirith and face whatever darkness Sauron sends against us. The Rangers of the North have protected these lands in shadow for too long. Now we fight in the light.\"</p>"
+    },
+    {
+        "id": "file-2",
+        "name": "Chapter 2: The Council of Elrond",
+        "title": "The Council of Elrond",
+        "location": "/manuscript",
+        "treePath": "Manuscript/Part 1",
+        "order": 2,
+        "status": "draft",
+        "createdAt": 1640000000000,
+        "lastModified": 1640100000000,
+        "wordNumber": 982,
+        "writingMode": "prose",
+        "content": "<p>In Rivendell, the Fellowship gathered around the ancient stone table. Gandalf spoke of the One Ring and the peril it represented. Aragorn, still known to some as Strider, sat quietly, his grey eyes watchful.</p><p>Arwen stood in the shadows of the hall, her heart heavy. She knew what lay ahead for Aragorn, the dangers he would face. Yet she also knew her choice was made—mortality with him, rather than immortality without.</p><p>\"The Ring must be destroyed,\" Elrond declared. \"And there is only one place where that can be done—in the fires of Mount Doom where it was forged.\"</p><p>The White Council had debated this for hours. Now the decision fell to those willing to bear the burden. Nine companions would set out: four Hobbits, two Men, an Elf, a Dwarf, and a Wizard.</p>"
+    },
+    {
+        "id": "file-3",
+        "name": "Chapter 3: The Paths of the Dead",
+        "title": "The Paths of the Dead",
+        "location": "/manuscript",
+        "treePath": "Manuscript/Part 2",
+        "order": 3,
+        "status": "review",
+        "createdAt": 1640000000000,
+        "lastModified": 1640100000000,
+        "wordNumber": 1245,
+        "writingMode": "prose",
+        "content": "<p>Aragorn led the Grey Company into the darkness beneath the mountains. The Paths of the Dead were forbidden to living men, but he was the heir of Isildur, and the oath-breakers would answer to him or to no one.</p><p>\"They who broke their oath shall fulfill it at last,\" he said, his voice echoing in the stone passages. \"I am Isildur's heir. I call upon you to fight for Gondor!\"</p><p>Shadows stirred in the darkness. The dead had waited long for this moment, cursed to linger until their king returned. Now Elessar had come, and their time of redemption was at hand.</p>"
+    },
+    {
+        "id": "doc-1",
+        "name": "Character Notes: Aragorn",
+        "title": "Aragorn - Character Development",
+        "location": "/notes",
+        "treePath": "Notes/Characters",
+        "createdAt": 1640000000000,
+        "lastModified": 1640100000000,
+        "wordNumber": 456,
+        "writingMode": "prose",
+        "content": "<h2>Character Arc</h2><p>Aragorn's journey is one of accepting his destiny. He begins as Strider, a ranger hiding from his heritage, and becomes King Elessar.</p><h2>Key Relationships</h2><ul><li>Arwen: His love and motivation</li><li>Gandalf: His mentor and guide</li><li>The Fellowship: His brothers in arms</li></ul><h2>Symbolism</h2><p>The sword Andúril represents his acceptance of kingship. The Rangers of the North represent his past. Minas Tirith represents his future.</p>"
+    }
+]

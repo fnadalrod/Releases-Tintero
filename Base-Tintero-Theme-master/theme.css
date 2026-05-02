@@ -1,0 +1,177 @@
+/**
+ * Tintero Theme Template
+ *
+ * This is a complete theme template with all available CSS variables.
+ * Customize the values below to create your own Tintero theme.
+ *
+ * You can also add custom CSS rules at the bottom of this file.
+ */
+
+:root {
+  /* ========================================
+     FONTS
+     ======================================== */
+
+  /* Interface font (UI elements, menus, buttons) */
+  --interface-font: 'Inter Variable', sans-serif;
+
+  /* Tab font (document tabs) */
+  --tab-font: 'Inter Variable', sans-serif;
+
+  /* Editor font (main writing area) */
+  --editor-font: 'EB Garamond', serif;
+
+  /* Help text font */
+  --font-help: 'Source Sans Variable', sans-serif;
+
+  /* ========================================
+     FONT SIZES
+     ======================================== */
+
+  --base-font-size: 14px;
+  --heading-font-size: 18px;
+  --small-font-size: 12px;
+  --label-font-size: 13px;
+  --button-font-size: 14px;
+
+  /* ========================================
+     BASE COLORS
+     ======================================== */
+
+  /* Main background colors */
+  --dark-menu: #1e1e1e;
+  --dark-bg: #121212;
+  --dark-secondary: #181818;
+  --dark-tertiary: #222222;
+  --dark-quaternary: #2d2d2d;
+
+  /* Text colors */
+  --text-primary: #e6d7c2;
+  --text-secondary: #a98e6b;
+  --text-tertiary: #a19591;
+
+  /* Accent colors */
+  --accent-color: #c98a48;
+  --accent-color-hover: #e1a66b;
+
+  /* Border and button colors */
+  --border-color: #2d2d2d;
+  --button-hover: #1e1e1e;
+
+  /* ========================================
+     BUTTON STYLES
+     ======================================== */
+
+  /* Primary buttons */
+  --button-primary-first-color: var(--accent-color);
+  --button-primary-text: var(--dark-bg);
+  --button-primary-second-color: var(--accent-color-hover);
+  --button-primary-background: linear-gradient(135deg, var(--button-primary-first-color), var(--button-primary-second-color));
+
+  /* Secondary buttons */
+  --button-secondary-first-color: var(--dark-tertiary);
+  --button-secondary-text: var(--text-primary);
+  --button-secondary-second-color: var(--dark-quaternary);
+
+  /* ========================================
+     MENU STYLES
+     ======================================== */
+
+  /* Submenu items */
+  --submenu-item-text: var(--text-primary);
+  --submenu-item-text-shortcut: var(--text-secondary);
+  --submenu-item-text-icons: var(--accent-color-hover);
+  --submenu-item-checked: var(--accent-color);
+  --submenu-item-checked-hover: var(--accent-color-hover);
+
+  /* Menu bar gradient */
+  --menu-bar-background-first-color: var(--dark-quaternary);
+  --menu-bar-background-second-color: var(--dark-menu);
+  --menu-bar-background: linear-gradient(180deg, var(--menu-bar-background-first-color) 0%, var(--menu-bar-background-second-color) 100%);
+
+  /* ========================================
+     SIDEBAR STYLES
+     ======================================== */
+
+  /* Sidebar gradient */
+  --sidebar-background-first-color: var(--dark-tertiary);
+  --sidebar-background-second-color: var(--dark-quaternary);
+  --sidebar-background: linear-gradient(180deg, var(--sidebar-background-first-color) 0%, var(--sidebar-background-second-color) 100%);
+
+  /* Sidebar buttons */
+  --sidebar-button-color: var(--accent-color);
+  --sidebar-button-padding: 12px;
+  --sidebar-button-size: 14px;
+
+  /* Sidebar containers */
+  --sidebar-container-background: var(--dark-bg);
+  --sidebar-file-section-container-background: var(--dark-secondary);
+  --sidebar-section-header-background: linear-gradient(135deg, var(--dark-secondary), var(--dark-tertiary));
+
+  /* Default gradient */
+  --default-gradient: linear-gradient(135deg, var(--dark-secondary) 0%, var(--dark-tertiary) 100%);
+
+  /* ========================================
+     EDITOR STYLES
+     ======================================== */
+
+  /* Editor zoom level */
+  --editor-zoom: 120%;
+
+  /* Editor colors */
+  --color-bg: #373E40;
+  --color-toolbar-background: #2f2f2f;
+  --color-toolbar-submenu-background: #2f2f2f;
+  --color-sidebar-background: #2f2f2f;
+  --color-sidebar-buttons-background: #2f2f2f;
+  --color-editor-background: #121212;
+  --color-editor-color: #e6d7c2;
+  --color-editor-toolbar-background: #2f2f2f;
+  --color-editor-toolbar-buttons-background: #2f2f2f;
+  --color-editor-subbar-background: #2f2f2f;
+  --color-editor-subbar-color: #a98e6b;
+
+  /* ========================================
+     DATEPICKER
+     ======================================== */
+
+  --mat-datepicker-calendar-date-text-color: var(--text-primary);
+  --mat-datepicker-calendar-date-outline-color: var(--border-color);
+}
+
+/* ========================================
+   CUSTOM CSS RULES
+   ========================================
+
+   You can add any custom CSS below this line.
+   Examples:
+
+   - Change font sizes globally
+   - Adjust scrollbar styles
+   - Add custom animations
+   - Override specific element styles
+*/
+
+/* Example: Increase all font sizes by 1.5%
+html,
+html *:not(i),
+html *:not(i)::before,
+html *:not(i)::after {
+  font-size: 101.5% !important;
+}
+*/
+
+/* Example: Custom scrollbar
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--dark-secondary);
+}
+*/

@@ -1,0 +1,220 @@
+[
+    {
+        "id": "char-1",
+        "name": "Aragorn",
+        "firstName": "Aragorn",
+        "lastName": "Elessar",
+        "aka": [
+            "Strider",
+            "Elessar",
+            "Thorongil"
+        ],
+        "age": "87",
+        "gender": "Male",
+        "pronouns": [
+            "he",
+            "him"
+        ],
+        "avatar": "char-1",
+        "birthplace": "Rivendell",
+        "physicalDescription": "Tall, dark-haired ranger with grey eyes. Weathered face showing years of travel.",
+        "psychologicalDescription": "Noble, wise, and patient. Carries the weight of his lineage with humility.",
+        "backstory": "Heir of Isildur, raised in Rivendell under the name Estel. Spent years as a ranger protecting the Shire.",
+        "color": "#4a7c59",
+        "traits": [
+            "brave",
+            "wise",
+            "humble",
+            "determined"
+        ],
+        "goals": [
+            "Reclaim the throne of Gondor",
+            "Defeat Sauron",
+            "Protect Middle-earth"
+        ],
+        "fears": [
+            "Failing his people",
+            "Succumbing to the Ring's corruption"
+        ],
+        "createdAt": 1640000000000,
+        "updatedAt": 1640100000000,
+        "relationships": [
+            {
+                "characterId": "char-2",
+                "type": "loves",
+                "description": "Deep romantic love",
+                "isBidirectional": true,
+                "inverseType": "loves"
+            },
+            {
+                "characterId": "char-3",
+                "type": "friend",
+                "description": "Loyal companion",
+                "isBidirectional": true,
+                "inverseType": "friend"
+            }
+        ],
+        "variants": [
+            {
+                "id": "var-1",
+                "name": "Young Aragorn (Estel)",
+                "description": "Before learning his true identity",
+                "position": 0,
+                "overrides": {
+                    "age": "20",
+                    "aka": [
+                        "Estel"
+                    ]
+                },
+                "createdAt": 1640000000000
+            },
+            {
+                "id": "var-2",
+                "name": "King Elessar",
+                "description": "After being crowned King of Gondor",
+                "position": 1,
+                "overrides": {
+                    "age": "88",
+                    "physicalDescription": "Regal bearing, crowned and robed in the raiment of kings"
+                },
+                "createdAt": 1640000000000
+            }
+        ],
+        "worldbuilding": {
+            "species": [
+                "human"
+            ],
+            "factions": [
+                "rangers-of-the-north",
+                "fellowship"
+            ],
+            "locations": [
+                "rivendell",
+                "minas-tirith",
+                "shire"
+            ],
+            "groupLeader": [
+                "fellowship"
+            ]
+        }
+    },
+    {
+        "id": "char-2",
+        "name": "Arwen",
+        "firstName": "Arwen",
+        "lastName": "Undómiel",
+        "aka": [
+            "Evenstar"
+        ],
+        "age": "2901",
+        "gender": "Female",
+        "pronouns": [
+            "she",
+            "her"
+        ],
+        "avatar": "char-3",
+        "physicalDescription": "Dark hair, grey eyes, and the beauty of the Eldar. Often wears silver and white.",
+        "psychologicalDescription": "Wise, compassionate, and resolute. Willing to sacrifice immortality for love.",
+        "backstory": "Daughter of Elrond, fell in love with Aragorn and chose mortality to be with him.",
+        "color": "#7c4a9e",
+        "traits": [
+            "wise",
+            "compassionate",
+            "resolute",
+            "loving"
+        ],
+        "goals": [
+            "Be with Aragorn",
+            "Support the fight against Sauron"
+        ],
+        "createdAt": 1640000000000,
+        "relationships": [
+            {
+                "characterId": "char-1",
+                "type": "loves",
+                "description": "Deep romantic love",
+                "isBidirectional": true,
+                "inverseType": "loves"
+            }
+        ],
+        "worldbuilding": {
+            "species": [
+                "elf"
+            ],
+            "factions": [
+                "rivendell"
+            ],
+            "locations": [
+                "rivendell",
+                "lothlorien"
+            ]
+        }
+    },
+    {
+        "id": "char-3",
+        "name": "Gandalf",
+        "firstName": "Gandalf",
+        "aka": [
+            "Mithrandir",
+            "The Grey",
+            "The White",
+            "Olórin"
+        ],
+        "age": "Unknown (Immortal)",
+        "gender": "Male",
+        "pronouns": [
+            "he",
+            "him"
+        ],
+        "avatar": "char-3",
+        "physicalDescription": "An old man with a long grey beard and piercing eyes. Wears grey robes and a pointed hat. Carries a staff.",
+        "psychologicalDescription": "Wise, patient, and powerful. Uses wisdom over force when possible.",
+        "backstory": "One of the Istari sent to Middle-earth to aid in the fight against Sauron.",
+        "color": "#9e9e9e",
+        "traits": [
+            "wise",
+            "powerful",
+            "patient",
+            "mysterious"
+        ],
+        "goals": [
+            "Defeat Sauron",
+            "Guide the Free Peoples",
+            "Protect Middle-earth"
+        ],
+        "createdAt": 1640000000000,
+        "relationships": [
+            {
+                "characterId": "char-1",
+                "type": "mentor",
+                "description": "Guides and advises",
+                "isBidirectional": false
+            },
+            {
+                "characterId": "char-3",
+                "type": "friend",
+                "description": "Loyal companion",
+                "isBidirectional": true,
+                "inverseType": "friend"
+            }
+        ],
+        "worldbuilding": {
+            "species": [
+                "maiar"
+            ],
+            "factions": [
+                "fellowship",
+                "white-council"
+            ],
+            "locations": [
+                "rivendell",
+                "minas-tirith",
+                "shire"
+            ],
+            "groupMember": [
+                "fellowship",
+                "white-council"
+            ]
+        }
+    }
+]

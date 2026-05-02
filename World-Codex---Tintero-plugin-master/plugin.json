@@ -1,0 +1,29 @@
+{
+  "id": "com.tintero.world-codex",
+  "name": "World Codex Wiki",
+  "version": "0.0.1",
+  "description": "Your world comes to life. Auto-generated navigable wiki from your project's characters, worldbuilding, and manuscript",
+  "author": {
+    "name": "Tintero Team",
+    "url": "https://tintero.app"
+  },
+  "license": "MIT",
+  "type": "app",
+  "main": "plugin.js",
+  "icon": "icon.svg",
+  "scopes": [
+    "project.read",
+    "project.read.characters",
+    "project.read.worldbuilding",
+    "project.read.files",
+    "project.read.docs",
+    "project.read.fileContent",
+    "project.read.notes",
+    "project.read.tags",
+    "project.read.images",
+    "storage",
+    "ui.sidebar",
+    "ui.notification",
+    "convert.format"
+  ]
+}

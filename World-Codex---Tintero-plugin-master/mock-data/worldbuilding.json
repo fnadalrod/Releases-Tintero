@@ -1,0 +1,142 @@
+[
+    {
+        "id": "rangers-of-the-north",
+        "name": "Rangers of the North",
+        "type": "faction",
+        "description": "Descendants of the Dúnedain of Arnor who protect the northern lands, especially the Shire.",
+        "color": "#2d5a3d",
+        "tags": [
+            "military",
+            "noble"
+        ],
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "fellowship",
+        "name": "Fellowship of the Ring",
+        "type": "group",
+        "description": "Nine companions who set out to destroy the One Ring.",
+        "color": "#c98a48",
+        "tags": [
+            "alliance",
+            "quest"
+        ],
+        "avatar": "wb-1",
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "rivendell",
+        "name": "Rivendell",
+        "type": "location",
+        "description": "The Last Homely House, an elven refuge in the valley of Imladris.",
+        "color": "#4a7c9e",
+        "tags": [
+            "elven",
+            "safe-haven"
+        ],
+        "avatar": "rivendell",
+        "notes": "Founded by Elrond in the Second Age",
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "minas-tirith",
+        "name": "Minas Tirith",
+        "type": "location",
+        "description": "The great city of Gondor, built on seven levels into the side of Mount Mindolluin.",
+        "color": "#e6e6e6",
+        "tags": [
+            "city",
+            "fortress"
+        ],
+        "notes": "Capital of Gondor, the White City",
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "mordor",
+        "name": "Mordor",
+        "type": "location",
+        "avatar": "wb-2",
+        "description": "The dark realm of Sauron, where the One Ring was forged.",
+        "color": "#333333",
+        "tags": [
+            "evil",
+            "volcanic",
+            "fortress"
+        ],
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "shire",
+        "name": "The Shire",
+        "type": "location",
+        "description": "Peaceful homeland of the Hobbits in the northwest of Middle-earth.",
+        "color": "#7cb342",
+        "tags": [
+            "peaceful",
+            "rural"
+        ],
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "human",
+        "name": "Men (Humans)",
+        "type": "species",
+        "description": "Mortal race of Middle-earth, diverse and adaptable.",
+        "color": "#8d6e63",
+        "tags": [
+            "mortal"
+        ],
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "elf",
+        "name": "Elves",
+        "type": "species",
+        "description": "Immortal and wise firstborn children of Ilúvatar.",
+        "color": "#9c27b0",
+        "tags": [
+            "immortal",
+            "wise"
+        ],
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "maiar",
+        "name": "Maiar",
+        "type": "species",
+        "description": "Angelic spirits who serve the Valar. Gandalf and Sauron are Maiar.",
+        "color": "#ffd700",
+        "tags": [
+            "divine",
+            "powerful"
+        ],
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "one-ring",
+        "name": "The One Ring",
+        "type": "item",
+        "avatar": "wb-4",
+        "description": "The master ring forged by Sauron to control all other Rings of Power.",
+        "color": "#ffd700",
+        "tags": [
+            "artifact",
+            "evil",
+            "powerful"
+        ],
+        "notes": "Inscribed with the Black Speech: 'One Ring to rule them all'",
+        "createdAt": 1640000000000
+    },
+    {
+        "id": "white-council",
+        "name": "White Council",
+        "type": "group",
+        "description": "Council of the Wise formed to oppose Sauron, led by Saruman and including Gandalf, Elrond, and Galadriel.",
+        "color": "#e0e0e0",
+        "tags": [
+            "alliance",
+            "magical"
+        ],
+        "createdAt": 1640000000000
+    }
+]

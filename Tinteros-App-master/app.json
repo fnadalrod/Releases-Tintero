@@ -1,0 +1,12 @@
+{
+  "name": "tintero",
+  "displayName": "tintero",
+  "expo": {
+    "name": "tintero",
+    "slug": "tintero",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

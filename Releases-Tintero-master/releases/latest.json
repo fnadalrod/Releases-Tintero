@@ -1,0 +1,24 @@
+{
+  "version": "0.9.8",
+  "notes": "Scene display fixes, added outline viewer tool, Android minor fixes, Empty projects display buttons to create directly, Added folder inspector when clicking a folder on the project",
+  "pub_date": "2026-04-14T23:59:00.000Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW95TWdrY01FMkRyMVdnYWNRWXF5RFVZcS8yTjRUOUFDU2ozRHpYOC8vem9ta2k5THdiZWFyTXB3WWNIN1pzWWppMEdnUnM0MHZPTHBnMmxRZjcveXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTIxMjEyCWZpbGU6VGludGVyb18wLjkuOF9hbWQ2NC5kZWIKZzNqemMyNEpKY25ReVpQQTYvdlZuY3AySzZ2UlBHWUl1T0RJSEtkS0FNd0RUZkQwdlJrQ2tKZGtsWkh2YkJmbXEvMDFWMExGVFY4V21qS2psZXVtQ0E9PQo=",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.8/Tintero.deb"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZBNVI2YzE3NEdDdWRwK21WcU9NWDhVUDlWK1htdW5tejRSL1JYOFlkZWhBRmUvVklLcWxSTGRtWkl6dVN3SnBXRjhUb3B3a214QnhCMWtiT0NicGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTIyMzYxCWZpbGU6VGludGVyb18wLjkuOF94NjQtc2V0dXAuZXhlCm1Zb1U4eGpCUzhmVFJVb1I5S1Nsem5BL3ZUZmxxRXJSZWZycldXaXBZdHlwbjU3ZWFGTm9BeTZyZ2tmcWF5ZTJiY3BnNkRNMks0WmpRYklXWlJDd0RRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.8/Tintero.exe"
+    }
+  },
+  "release_notes": {
+    "en": "Scene display fixes, added outline viewer tool, Android minor fixes, Empty projects display buttons to create directly, Added folder inspector when clicking a folder on the project",
+    "es": "Correcciones en la visualización de escenas, añadida la herramienta de visualización del esquema, correcciones menores en Android, los proyectos vacíos muestran botones para crear directamente, añadido el inspector de carpetas al hacer clic en una carpeta del proyecto",
+    "ca": "Correccions en la visualització d’escenes, afegida l’eina de visualització de l’esquema, correccions menors a Android, els projectes buits mostren botons per crear directament, afegit l’inspector de carpetes en fer clic sobre una carpeta del projecte",
+    "de": "Korrekturen bei der Szenenansicht, Gliederungsanzeige-Werkzeug hinzugefügt, kleinere Android-Korrekturen, leere Projekte zeigen Schaltflächen zum direkten Erstellen, Ordner-Inspektor beim Klicken auf einen Ordner im Projekt hinzugefügt",
+    "it": "Correzioni alla visualizzazione delle scene, aggiunto lo strumento di visualizzazione della struttura, correzioni minori su Android, i progetti vuoti mostrano pulsanti per creare direttamente, aggiunto l’inspector delle cartelle cliccando su una cartella del progetto",
+    "fr": "Corrections de l’affichage des scènes, ajout de l’outil de visualisation du plan, corrections mineures Android, les projets vides affichent des boutons pour créer directement, ajout de l’inspecteur de dossiers en cliquant sur un dossier du projet",
+    "pt": "Correções na visualização de cenas, adicionada a ferramenta de visualização do esboço, correções menores no Android, projetos vazios mostram botões para criar diretamente, adicionado o inspetor de pastas ao clicar numa pasta do projeto"
+  }
+}

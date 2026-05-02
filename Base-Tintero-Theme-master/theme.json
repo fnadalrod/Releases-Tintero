@@ -1,0 +1,20 @@
+{
+  "name": "My Custom Theme",
+  "id": "my-custom-theme",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "A beautiful custom theme for Tintero",
+  "repository": "https://github.com/yourusername/tintero-theme-name",
+  "preview": "preview.png",
+  "license": "MIT",
+  "tags": [
+    "dark",
+    "warm",
+    "minimal"
+  ],
+  "colors": {
+    "primary": "#c98a48",
+    "background": "#121212",
+    "text": "#e6d7c2"
+  }
+}

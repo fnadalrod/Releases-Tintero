@@ -1,0 +1,34 @@
+{
+  "id": "com.tintero.full-focus-mode",
+  "name": "Full Focus Mode",
+  "version": "0.0.1",
+  "description": "Full focus. No distraction. No turning back. Begin a session and write until the timer stops.",
+  "author": {
+    "name": "Tintero",
+    "url": "https://tintero.app"
+  },
+  "license": "MIT",
+  "type": "app",
+  "icon": "icon.svg",
+  "main": "plugin.js",
+  "scopes": [
+    "project.read.files",
+    "project.read.fileContent",
+    "project.write.fileContent",
+    "storage",
+    "ui.notification",
+    "ui.window",
+    "ui.sidebar",
+    "convert.format",
+    "fs.write",
+    "project.write.files",
+    "fs.platform"
+  ],
+  "ui": {
+    "sidebar": {
+      "panel": "index.html",
+      "label": "Full focus",
+      "tooltip": "Enter full focus mode"
+    }
+  }
+}
