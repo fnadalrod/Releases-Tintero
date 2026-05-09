@@ -1,24 +1,24 @@
 {
-  "version": "0.9.10",
-  "notes": "Improved and refined Outline / Folder Inspector features. Enhanced and refined the Snapshot feature. General performance improvements. Major performance improvements on Android. Various minor bug fixes. Spell checking can now be disabled in Settings. The editor’s default font can now be changed in Settings (visual change only, for now).",
-  "pub_date": "2026-05-01T13:59:00.000Z",
+  "version": "0.9.13",
+  "notes": "Windows hotfix",
+  "pub_date": "2026-05-09T13:59:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXNZZXk3TTBOOTYyY3BXeWNhL2pWaGJHMnU5VTB0MzZQejhpckd0NnU5Q0t3KzJyYW9YazZjR2NaRU1Cbm8xQUFtc28rV3MxMWZkMkg1c1FEaHJWVFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjMyMDYwCWZpbGU6VGludGVyb18wLjkuMTBfYW1kNjQuZGViCnBMS1dtem4wMFFoWStSZ0J5cjRkZ1hCUTc0d1NON3ZhRHF6ZjczdStoZHZHTHRRcGo3QzhWRGJ4aHhmRUJoRVNJMm1RVjd4a0JFR1JKTm41YTdiQUR3PT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.10/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWh4VWpiVjZqWER6akVxNGlvc1JoeXZuNURUZU5OWTE4SkdmQUwyejkzYUJQNzRCQlV3ZmlrREF6Qi9xVHJGZFR5TVVLVzBwanpPQzA1VzJMYTM4UVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI5MjYwCWZpbGU6VGludGVyb18wLjkuMTNfYW1kNjQuZGViCkdZeUZadHNXczUzb0hKeG12RnJPVTV1VFMzaG8xR29FVHcvYXlYOFlWMGpyVzF3emJjU2JaZVFGMitUZ1JkT1plYmpjVU0xYlJOanRUTGxDdzFFL0JRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.13/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxtM2ZyNVVUcnJRRzNwV2FWQUYrWFlSRzFnaXkxTzRTemY4cXVOM0JaQ3hldUk5ZTlPQ1d1MlJKYUo0dzl2QmovOUpXcjd0WHBJdmQ0Y0lnT2gwMWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjMzMzg4CWZpbGU6VGludGVyb18wLjkuMTBfeDY0LXNldHVwLmV4ZQpqR3pRMjZFM29sdUhpUVZHM2pJYlJUSEhoREFUUnhvOGdpTGhPZmw1NU52Vy9VYldOZzZheXE3a1dxNHRXbTVSODRzU2RvTmV0djZocitkMWNzTldCdz09Cg==",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.10/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtpMHZXcndRSWoyMkpTbWg0VndONGZSS3JVR3g2elJLWUxTeUo0M1ovak5uUGtHZ2hCNkZVNzVvTk1DRUJFTlBHZjJRdE9YTW1VdUlURFhsREV6bkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMwNzkxCWZpbGU6VGludGVyb18wLjkuMTNfeDY0LXNldHVwLmV4ZQpJK2c1L1V4S2JVajFJenhNNTJZcDVTK0o5d0t0UUpaYW1CZFRJUXVZT3Y3dDQ4bkg3NnZQSGVOcnkrbkp6dnR5TEY2elBtd25hTzhBckY1Q1I3SXVDdz09Cg==",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.13/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Improved and refined Outline / Folder Inspector features.\nEnhanced and refined the Snapshot feature.\nGeneral performance improvements.\nMajor performance improvements on Android.\nVarious minor bug fixes.\nSpell checking can now be disabled in Settings.\nThe editor’s default font can now be changed in Settings (visual change only, for now).",
-    "es": "Se han mejorado y refinado las funciones de Esquema / Inspector de carpetas.\nSe ha mejorado y refinado la función de Snapshot.\nMejoras generales de rendimiento.\nGrandes mejoras de rendimiento en Android.\nVarias correcciones de errores menores.\nAhora se puede desactivar la corrección ortográfica en Ajustes.\nAhora se puede cambiar la fuente predeterminada del editor en Ajustes (por ahora solo cambio visual).",
-    "ca": "S’han millorat i refinat les funcions d’Esquema / Inspector de carpetes.\nS’ha millorat i refinat la funció de Snapshot.\nMillores generals de rendiment.\nGrans millores de rendiment a Android.\nDiverses correccions d’errors menors.\nAra es pot desactivar la correcció ortogràfica a Configuració.\nAra es pot canviar la font predeterminada de l’editor a Configuració (només canvi visual, de moment).",
-    "de": "Verbesserte und verfeinerte Funktionen für Gliederung / Ordnerinspektor.\nVerbesserte und verfeinerte Snapshot-Funktion.\nAllgemeine Leistungsverbesserungen.\nDeutliche Leistungsverbesserungen auf Android.\nVerschiedene kleinere Fehlerbehebungen.\nDie Rechtschreibprüfung kann nun in den Einstellungen deaktiviert werden.\nDie Standardschriftart des Editors kann nun in den Einstellungen geändert werden (vorerst nur visuelle Änderung).",
-    "it": "Migliorate e perfezionate le funzionalità Outline / Ispettore cartelle.\nMigliorata e perfezionata la funzionalità Snapshot.\nMiglioramenti generali delle prestazioni.\nMiglioramenti significativi delle prestazioni su Android.\nVarie correzioni di bug minori.\nIl controllo ortografico può ora essere disattivato nelle impostazioni.\nIl font predefinito dell’editor può ora essere modificato nelle impostazioni (per ora solo modifica visiva).",
-    "fr": "Amélioration et optimisation des fonctionnalités Plan / Inspecteur de dossiers.\nAmélioration et optimisation de la fonctionnalité Snapshot.\nAméliorations générales des performances.\nAméliorations majeures des performances sur Android.\nDivers correctifs mineurs.\nLa vérification orthographique peut désormais être désactivée dans les paramètres.\nLa police par défaut de l’éditeur peut désormais être modifiée dans les paramètres (changement visuel uniquement pour le moment).",
-    "pt": "Melhorias e refinamentos nas funcionalidades de Estrutura / Inspetor de pastas.\nMelhorias e refinamentos na funcionalidade de Snapshot.\nMelhorias gerais de desempenho.\nGrandes melhorias de desempenho no Android.\nVárias correções de erros menores.\nA verificação ortográfica pode agora ser desativada nas definições.\nA fonte predefinida do editor pode agora ser alterada nas definições (por enquanto apenas alteração visual)."
+    "en": "Windows hotfix.",
+    "es": "Hotfix para Windows.",
+    "ca": "Hotfix per a Windows.",
+    "de": "Windows-Hotfix.",
+    "it": "Hotfix per Windows.",
+    "fr": "Correctif Windows.",
+    "pt": "Hotfix para Windows."
   }
 }
