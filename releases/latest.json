@@ -1,24 +1,24 @@
 {
-  "version": "0.9.13",
-  "notes": "Windows hotfix",
-  "pub_date": "2026-05-09T13:59:00.000Z",
+  "version": "0.9.14",
+  "notes": "UI improvements, Standalone mode, DOCX support",
+  "pub_date": "2026-05-19T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWh4VWpiVjZqWER6akVxNGlvc1JoeXZuNURUZU5OWTE4SkdmQUwyejkzYUJQNzRCQlV3ZmlrREF6Qi9xVHJGZFR5TVVLVzBwanpPQzA1VzJMYTM4UVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI5MjYwCWZpbGU6VGludGVyb18wLjkuMTNfYW1kNjQuZGViCkdZeUZadHNXczUzb0hKeG12RnJPVTV1VFMzaG8xR29FVHcvYXlYOFlWMGpyVzF3emJjU2JaZVFGMitUZ1JkT1plYmpjVU0xYlJOanRUTGxDdzFFL0JRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.13/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdJdktpR1BaKzRXS1d4VG1zVDluVzMyN1FLcXJqK1pqUjN1ZEUvclJiRnNHTGdwNVFsN1k1NUR6Z0QrZ3hHajUyRFMrbGs3RXRkWnlhU3BiaGNobEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ0MTQ0CWZpbGU6VGludGVyb18wLjkuMTRfYW1kNjQuZGViCkhaWnhjeGdPSFRzZkFPU2pvT2NzN2ZWRGV1aVJBMXZ0cC9sTzAweS9Ua2xqUFZLWHFKbzBpY1l4b2lrVUIrVWNNWkhDVy9yNXF3RzFEZkNyQ1pQVkFRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.14/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtpMHZXcndRSWoyMkpTbWg0VndONGZSS3JVR3g2elJLWUxTeUo0M1ovak5uUGtHZ2hCNkZVNzVvTk1DRUJFTlBHZjJRdE9YTW1VdUlURFhsREV6bkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMwNzkxCWZpbGU6VGludGVyb18wLjkuMTNfeDY0LXNldHVwLmV4ZQpJK2c1L1V4S2JVajFJenhNNTJZcDVTK0o5d0t0UUpaYW1CZFRJUXVZT3Y3dDQ4bkg3NnZQSGVOcnkrbkp6dnR5TEY2elBtd25hTzhBckY1Q1I3SXVDdz09Cg==",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.13/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlpR2FNVkpsYk12Q2w4YVY4am8wVlVmbTJzQ3QxVDluMGNvQTZBeDQzUjRPUUhBdnFQajljeGhlRTloSENPUDBla2xOM0M2UlhoR3ROZW9IYzJ3N3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ1NjUyCWZpbGU6VGludGVyb18wLjkuMTRfeDY0LXNldHVwLmV4ZQoyek9YME84bThvSXk4R1F2ZWNaZ3RBampJTmtMUm5qaTJubjBDTEg5c25TZUtsMzZYQXZ2Z3Y5ZGFBTk03N0M4L3UraHltZkJyMmU0QlI3MGREZlBBZz09Cg==",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.14/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Windows hotfix.",
-    "es": "Hotfix para Windows.",
-    "ca": "Hotfix per a Windows.",
-    "de": "Windows-Hotfix.",
-    "it": "Hotfix per Windows.",
-    "fr": "Correctif Windows.",
-    "pt": "Hotfix para Windows."
+    "en": "UI improvements (file tree, menus, toolbar). New Standalone mode and monochromatic themes. DOCX import/export improvements and drag & drop support. Translation improvements and bug fixes.",
+    "es": "Mejoras de interfaz (árbol de archivos, menús, barra de herramientas). Nuevo modo Standalone y temas monocromáticos. Mejoras en importación/exportación DOCX y soporte de arrastrar y soltar. Traducciones mejoradas y corrección de errores.",
+    "ca": "Millores d'interfície (arbre de fitxers, menús, barra d'eines). Nou mode Standalone i temes monocromàtics. Millores en importació/exportació DOCX i suport d'arrossegar i deixar anar. Traduccions millorades i correcció d'errors.",
+    "de": "UI-Verbesserungen (Dateibaum, Menüs, Toolbar). Neuer Standalone-Modus und monochrome Themes. Verbesserter DOCX-Import/Export und Drag & Drop-Unterstützung. Verbesserte Übersetzungen und Bugfixes.",
+    "it": "Miglioramenti UI (albero file, menu, toolbar). Nuova modalità Standalone e temi monocromatici. Miglioramenti import/export DOCX e supporto drag & drop. Traduzioni migliorate e bug risolti.",
+    "fr": "Améliorations de l'interface (arborescence, menus, barre d'outils). Nouveau mode Standalone et thèmes monochromes. Améliorations import/export DOCX et support du glisser-déposer. Traductions améliorées et corrections de bugs.",
+    "pt": "Melhorias na interface (árvore de arquivos, menus, barra de ferramentas). Novo modo Standalone e temas monocromáticos. Melhorias no import/export DOCX e suporte a arrastar e soltar. Traduções melhoradas e correções de bugs."
   }
 }
