@@ -1,24 +1,24 @@
 {
-  "version": "0.9.14",
-  "notes": "UI improvements, Standalone mode, DOCX support",
-  "pub_date": "2026-05-19T00:00:00.000Z",
+  "version": "0.9.15",
+  "notes": "Character inspector, editor improvements, RTF importer fixes",
+  "pub_date": "2026-05-23T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdJdktpR1BaKzRXS1d4VG1zVDluVzMyN1FLcXJqK1pqUjN1ZEUvclJiRnNHTGdwNVFsN1k1NUR6Z0QrZ3hHajUyRFMrbGs3RXRkWnlhU3BiaGNobEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ0MTQ0CWZpbGU6VGludGVyb18wLjkuMTRfYW1kNjQuZGViCkhaWnhjeGdPSFRzZkFPU2pvT2NzN2ZWRGV1aVJBMXZ0cC9sTzAweS9Ua2xqUFZLWHFKbzBpY1l4b2lrVUIrVWNNWkhDVy9yNXF3RzFEZkNyQ1pQVkFRPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.14/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXRoYTBVaTZzcmZIUmQvYVNXYXNsdEZEU2lWRU04NXQxQUwrdGJwNENvWGRaa1hPMmhNWklWajBtUDJDdEswZWFOWjNFNlNLbjNiVUE4K3VjblhzWmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDk0NDUyCWZpbGU6VGludGVyb18wLjkuMTVfYW1kNjQuZGViCkZGODNzSDEyWktqd05QYkUwbUhldWMwVll0ejRJNG93bll3RWNRU2I5aUp6cktlbTJSR1NRSUF1OTQyRUY1U1M5MldoRWQ5dEY4WTJJL2h3MXNEakRRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.15/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWlpR2FNVkpsYk12Q2w4YVY4am8wVlVmbTJzQ3QxVDluMGNvQTZBeDQzUjRPUUhBdnFQajljeGhlRTloSENPUDBla2xOM0M2UlhoR3ROZW9IYzJ3N3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ1NjUyCWZpbGU6VGludGVyb18wLjkuMTRfeDY0LXNldHVwLmV4ZQoyek9YME84bThvSXk4R1F2ZWNaZ3RBampJTmtMUm5qaTJubjBDTEg5c25TZUtsMzZYQXZ2Z3Y5ZGFBTk03N0M4L3UraHltZkJyMmU0QlI3MGREZlBBZz09Cg==",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.14/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWxmZi9mSE1LZkdHMWUxL3BXNVF4RmV6ZkprTjR3b2MvcFh4R2VzVWRhcnA0QzMwdVNkZ2hhQkxGNkF5VzZrMm5UQ2RSWk1XVFZ3SkJPMXArWHFNYmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDk2MDcxCWZpbGU6VGludGVyb18wLjkuMTVfeDY0LXNldHVwLmV4ZQpkcVpsd214NGRIRmVMQXlxb3djMmtqV0EvN1lKZWxkODNkWllJcG40cnJPV202Wk95YXR5UmtlRjVoNERXV25KRlJDUlZ5QlAwdGErbnhjU3BjbjJBUT09Cg==",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.15/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "UI improvements (file tree, menus, toolbar). New Standalone mode and monochromatic themes. DOCX import/export improvements and drag & drop support. Translation improvements and bug fixes.",
-    "es": "Mejoras de interfaz (árbol de archivos, menús, barra de herramientas). Nuevo modo Standalone y temas monocromáticos. Mejoras en importación/exportación DOCX y soporte de arrastrar y soltar. Traducciones mejoradas y corrección de errores.",
-    "ca": "Millores d'interfície (arbre de fitxers, menús, barra d'eines). Nou mode Standalone i temes monocromàtics. Millores en importació/exportació DOCX i suport d'arrossegar i deixar anar. Traduccions millorades i correcció d'errors.",
-    "de": "UI-Verbesserungen (Dateibaum, Menüs, Toolbar). Neuer Standalone-Modus und monochrome Themes. Verbesserter DOCX-Import/Export und Drag & Drop-Unterstützung. Verbesserte Übersetzungen und Bugfixes.",
-    "it": "Miglioramenti UI (albero file, menu, toolbar). Nuova modalità Standalone e temi monocromatici. Miglioramenti import/export DOCX e supporto drag & drop. Traduzioni migliorate e bug risolti.",
-    "fr": "Améliorations de l'interface (arborescence, menus, barre d'outils). Nouveau mode Standalone et thèmes monochromes. Améliorations import/export DOCX et support du glisser-déposer. Traductions améliorées et corrections de bugs.",
-    "pt": "Melhorias na interface (árvore de arquivos, menus, barra de ferramentas). Novo modo Standalone e temas monocromáticos. Melhorias no import/export DOCX e suporte a arrastar e soltar. Traduções melhoradas e correções de bugs."
+    "en": "Added a character and worldbuilding inspector. Added editor performance improvements across all platforms. Improved Undo/Redo behavior in the editor. Improved the RTF importer, which should also improve Scrivener project imports (still not final). Fixed scrolling issues in notes. Fixed issues when renaming folders.",
+    "es": "Añadido un inspector de personajes y elementos de ambientación. Añadidas mejoras de rendimiento al editor en todas las plataformas. Mejorado el comportamiento de Deshacer/Rehacer en el editor. Mejorado el importador RTF, lo que también debería mejorar las importaciones de proyectos Scrivener (aún no definitivo). Corregidos problemas de desplazamiento en las notas. Corregidos problemas al renombrar carpetas.",
+    "ca": "Afegit un inspector de personatges i elements d’ambientació. Afegides millores de rendiment a l’editor en totes les plataformes. Millorat el comportament de Desfer/Refer a l’editor. Millorat l’importador RTF, cosa que també hauria de millorar les importacions de projectes de Scrivener (encara no definitiu). Corregits problemes de desplaçament a les notes. Corregits problemes en reanomenar carpetes.",
+    "de": "Ein Inspektor für Charaktere und Weltenbau wurde hinzugefügt. Leistungsverbesserungen für den Editor auf allen Plattformen hinzugefügt. Das Rückgängig-/Wiederholen-Verhalten im Editor wurde verbessert. Der RTF-Importer wurde verbessert, was auch die Importe von Scrivener-Projekten verbessern sollte (noch nicht endgültig). Scrollprobleme in den Notizen wurden behoben. Probleme beim Umbenennen von Ordnern wurden behoben.",
+    "it": "Aggiunto un ispettore per personaggi ed elementi di worldbuilding. Aggiunti miglioramenti delle prestazioni dell’editor su tutte le piattaforme. Migliorato il comportamento Annulla/Ripristina nell’editor. Migliorato l’importatore RTF, che dovrebbe anche migliorare le importazioni dei progetti Scrivener (non ancora definitivo). Corretti problemi di scorrimento nelle note. Corretti problemi durante la rinomina delle cartelle.",
+    "fr": "Ajout d’un inspecteur de personnages et d’éléments d’univers. Ajout d’améliorations de performance de l’éditeur sur toutes les plateformes. Amélioration du comportement Annuler/Rétablir dans l’éditeur. Amélioration de l’importateur RTF, ce qui devrait aussi améliorer les importations de projets Scrivener (toujours pas définitif). Correction de problèmes de défilement dans les notes. Correction de problèmes lors du renommage des dossiers.",
+    "pt": "Adicionado um inspetor de personagens e elementos de ambientação. Adicionadas melhorias de desempenho no editor em todas as plataformas. Melhorado o comportamento de Desfazer/Refazer no editor. Melhorado o importador RTF, o que também deve melhorar as importações de projetos do Scrivener (ainda não definitivo). Corrigidos problemas de rolagem nas notas. Corrigidos problemas ao renomear pastas."
   }
 }
