@@ -1,24 +1,24 @@
 {
-  "version": "0.9.16",
-  "notes": "Local AI chat, Android improvements, page mode, screenplay updates",
-  "pub_date": "2026-05-29T00:00:00.000Z",
+  "version": "0.9.17",
+  "notes": "Tour Catalog, notes from editor, performance improvements, mobile updates",
+  "pub_date": "2026-06-08T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXM3TU53SmJTT3BrU25hUUt6NzBaOEQvNXNMdkpPVUhDZFduT0U1VHl4WWNDalBDT01HMHIzWG82NWpPa3BDRW1UdnN5MS8xeGNVY2dqQUdiMHg4WFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAwMTQ4CWZpbGU6VGludGVyb18wLjkuMTZfYW1kNjQuZGViClc3ZTR5eTUxaUJER2VMQmpIL25oVmkybGUwWlNtTzZBTFBXOWllMVVLZzBXbGtQVHBJNVg0WTFyQ0Z0dUZkcFVyeWMrZTFXaGo3OHlFM2U4Y3UvSERnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.16/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXBWR2R1aVFPMVU0RWlEYjZhcWtwQ3FOZnhMNHJCYUJqUVJBcXZsTFk5Sk5SOVVyR0lMMm5tVXZSL0dvUkd3TldmYm0rdFFmSTUrbGJIRjJ3amVMemcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODcyODEzCWZpbGU6VGludGVyb18wLjkuMTdfYW1kNjQuZGViClZab09GQ0hrOXhHemZFTEQ3aUYvS2JIRGw1YmcyUFJEWFV2MjNFWEFCQ0xJZ0xveGMrWVQ0NS9qRW5SdVVieHljd1phTjExWmFYdk9Wd3g5V2pSTERBPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.17/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWdpTURDMWRFRzJFQk9SRVBKczdlWUJ2VTFEZlFvQVBmSm9OTDBpOTlwTEtTTUhyaVNRUDlodlFaRThEeHJFOWx4V0NJakFhU3lmTytsYXJFQTRaTEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAxMzQxCWZpbGU6VGludGVyb18wLjkuMTZfeDY0LXNldHVwLmV4ZQoveE5selVRQmZhdE0wY2M5YTdHdzZuR1VYek5aaHVxd0ZtZHdkSHVaSWJNZzcybHM5UjdSb1l0Y2daaExwYi8yMW1BTXhXMGZQbkpGRDU1bEdKQndEdz09Cg==",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.16/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtSdGZiMFBmS2RVd1UrbXMvWmZ3SlQ3S3N4OHRJZHV6OGZac3RLS1cyc1AwaHRDc093SzJqWFA3SVhJUkVlNjYydW95K251U3V3ZTRZTWZoMFRnV0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODc0NjQxCWZpbGU6VGludGVyb18wLjkuMTdfeDY0LXNldHVwLmV4ZQplZjV5RTlkaHhScmVnY3cyZ1lDYVNiMmhmOHoyTmUyZFdIRzNoQTdTQTNNbXA1NnVvTXZQbVpzOG96V0w5bkV4cDUvemZ5dG55M2p3M0tCWFowb0VEUT09Cg==",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.17/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Added a local AI chat mode in the sidebar. Improved the bubble menu on Android. Improved and fixed the autocomplete system. Added a page mode with margin control. Improved Screenplay mode and added new node types. Added new project templates.",
-    "es": "Añadido un modo de chat con IA local en la barra lateral. Mejorado el menú flotante en Android. Mejorado y corregido el sistema de autocompletado. Añadido un modo de página con control de márgenes. Mejorado el modo Guion y añadidos nuevos tipos de nodos. Añadidas nuevas plantillas de proyecto.",
-    "ca": "Afegit un mode de xat amb IA local a la barra lateral. Millorat el menú flotant a Android. Millorat i corregit el sistema d'autocompletat. Afegit un mode de pàgina amb control de marges. Millorat el mode Guió i afegits nous tipus de nodes. Afegides noves plantilles de projecte.",
-    "de": "Lokaler KI-Chat-Modus in der Seitenleiste hinzugefügt. Das Blasenmenü auf Android wurde verbessert. Das Autovervollständigungssystem wurde verbessert und Fehler wurden behoben. Ein Seitenmodus mit Randsteuerung wurde hinzugefügt. Der Drehbuchmodus wurde verbessert und neue Knotentypen wurden hinzugefügt. Neue Projektvorlagen wurden hinzugefügt.",
-    "it": "Aggiunta una modalità chat AI locale nella barra laterale. Migliorato il menu a comparsa su Android. Migliorato e corretto il sistema di completamento automatico. Aggiunta una modalità pagina con controllo dei margini. Migliorata la modalità Sceneggiatura e aggiunti nuovi tipi di nodo. Aggiunti nuovi modelli di progetto.",
-    "fr": "Ajout d’un mode de chat IA local dans la barre latérale. Amélioration du menu contextuel sur Android. Amélioration et correction du système d’autocomplétion. Ajout d’un mode page avec contrôle des marges. Amélioration du mode Scénario et ajout de nouveaux types de nœuds. Ajout de nouveaux modèles de projet.",
-    "pt": "Adicionado um modo de chat com IA local na barra lateral. Melhorado o menu flutuante no Android. Melhorado e corrigido o sistema de preenchimento automático. Adicionado um modo de página com controlo de margens. Melhorado o modo Guião/Roteiro e adicionados novos tipos de nós. Adicionados novos modelos de projeto."
+    "en": "Added a Tour Catalog to browse and replay guided tours. Create notes directly from the editor menu. Major performance improvements for large projects. Improved mobile Writing Mode and editor tooltips. Search & Replace improvements. Stability fixes, translation updates, and bug fixes.",
+    "es": "Añadido un Catálogo de Recorridos para explorar y repetir recorridos guiados. Ahora puedes crear notas directamente desde el menú del editor. Grandes mejoras de rendimiento en proyectos grandes. Mejorado el modo Escritura y los tooltips en móvil. Mejoras en Buscar y Reemplazar. Correcciones de estabilidad, traducciones y errores.",
+    "ca": "Afegit un Catàleg de Tours per explorar i repetir tours guiats. Ara pots crear notes directament des del menú de l'editor. Grans millores de rendiment en projectes grans. Millorat el mode d'Escriptura i les ajudes emergents en mòbil. Millores a Cerca i Substitució. Correccions d'estabilitat, traduccions i errors.",
+    "de": "Ein Tour-Katalog zum Durchsuchen und Wiederholen geführter Touren wurde hinzugefügt. Notizen können jetzt direkt über das Editor-Menü erstellt werden. Deutliche Leistungsverbesserungen für große Projekte. Verbesserter Schreibmodus und Tooltips auf Mobilgeräten. Verbesserungen bei Suchen & Ersetzen. Stabilitäts-, Übersetzungs- und Fehlerbehebungen.",
+    "it": "Aggiunto un Catalogo Tour per esplorare e ripetere i tour guidati. Ora è possibile creare note direttamente dal menu dell'editor. Notevoli miglioramenti delle prestazioni nei progetti di grandi dimensioni. Migliorata la modalità Scrittura e i tooltip su mobile. Miglioramenti a Cerca e Sostituisci. Correzioni di stabilità, traduzioni e bug.",
+    "fr": "Ajout d’un catalogue de visites pour parcourir et rejouer les visites guidées. Création de notes directement depuis le menu de l’éditeur. Importantes améliorations de performances pour les grands projets. Amélioration du mode Écriture et des infobulles sur mobile. Améliorations de Rechercher et Remplacer. Corrections de stabilité, traductions et bogues.",
+    "pt": "Adicionado um Catálogo de Tours para explorar e repetir tours guiados. Agora é possível criar notas diretamente pelo menu do editor. Grandes melhorias de desempenho em projetos grandes. Melhorado o modo de Escrita e as dicas no telemóvel. Melhorias em Localizar e Substituir. Correções de estabilidade, traduções e erros."
   }
 }
