@@ -1,24 +1,24 @@
 {
-  "version": "0.9.18",
-  "notes": "Worldbuilding autosave improvements, new project dialog enhancements, PlotGrid fixes, UI and theming updates, hardware acceleration setup option, translation updates.",
-  "pub_date": "2026-06-10T00:00:00.000Z",
+  "version": "0.9.19",
+  "notes": "Advanced themes, optional animations, redesigned reading simulator, character variant improvements, free-text birth dates",
+  "pub_date": "2026-06-17T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpwVElMRG8vYnJrRlpHL2tQcFpXaEFodEUrZkRpYy9BZlZrS2FFRkhTZk5KMllXUmxqK2FldUtaVCticGRnL0R4Y1BJWU9xM2xybXgzRWFsNnhqbWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDQzNzczCWZpbGU6VGludGVyb18wLjkuMThfYW1kNjQuZGViClh1YjZZK1I5OGhLMGJmME9Eb1hsZEdaeEpUMzJkODBWRUpTRUZESCtWOGRleEU1VlhPZjVPMDhFVk9ETG1tOVI0MnZ6WTZVckthSTA2UVc1UGZrRUNnPT0K",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.18/Tintero.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWs0STRIY0ZHaDF2YnBZQk4xR0ZGQ2NaQkNhdTZiNGQxTGovczV6OS9mK3lNcWNQMURnZjJ6eVBOd0k0bFhmODQ1VWpFRURVNW9Ncmtob0ZmTklJVkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjU3MjUxCWZpbGU6VGludGVyb18wLjkuMTlfeDY0LXNldHVwLmV4ZQpHZXVGSzNIdkRreDJwWEdUNy9TaHBRWjk5OXpRb1pBTFoxLzUrSldwRmo0QkIxVS9SakpTNG9QVUFaL3ZyM3FYM3lMYXF3QVIwL1R0eVFLUTZJUVNDdz09Cg==",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.19/Tintero.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWpPenFHdXdXS2svMHdsYzlnN3g3R3NOR3ZWL0lqRERSb1N3SzVONVZjN3RRNFNUNFlVREZlTU4vemFPWjBMK0lDbFZaRXhqbnBZL3dlOE9VMkpUYncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDQ1MjMxCWZpbGU6VGludGVyb18wLjkuMThfeDY0LXNldHVwLmV4ZQoxaXhndGZoeC9Zdml6K2RENjV6bnBqVWFsc05qN01QZzJvdGNEWkRoZGtKOFlQMVNmVVhqRklmNTlCM3FHeXNxZjNwM3pWUmlVelVyUlJjbXRlakVDZz09Cg==",
-      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.18/Tintero.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TWtWczE0eHNWUE4yemtBRzQya212QzVQbFkyYWNWQUxQYnlocWxIN2NwbHBzb0NpUFFFUENMR3QwUUNjTlpQTXNXc3hoS3hDM3dvZ2VUWndUWW85bFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjU1ODYyCWZpbGU6VGludGVyb18wLjkuMTlfYW1kNjQuZGViCmhFK2dTbm1jVUxKb1B0RWxBekk5MWNGOE5kZGplSkI0ZSsvZ2MyNGN6K3lLSlJLWXVHVmFLbE5ueHRqNWtKV2FKRVhNejU1bHdmODFINzNyTUZ2WEJnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.9.19/Tintero.exe"
     }
   },
   "release_notes": {
-    "en": "Improved reliability of the Worldbuilding autosave system. Added Ctrl + Enter support in the new project creation dialog. Fixed types related to PlotGrid. Added a hardware acceleration question during initial setup. Visual and behavioral adjustments in theming and the UI resizer. Updated and completed Hungarian translation.",
-    "es": "Mejorada la fiabilidad del sistema de autoguardado de Worldbuilding. Añadido soporte para Ctrl + Enter en el diálogo de creación de nuevos proyectos. Corregidos los tipos relacionados con PlotGrid. Añadida una pregunta sobre aceleración por hardware durante la configuración inicial. Ajustes visuales y de comportamiento en los temas y el redimensionador de la interfaz. Actualizada y completada la traducción al húngaro.",
-    "ca": "Millorada la fiabilitat del sistema d'autodesament de Worldbuilding. Afegit suport per a Ctrl + Enter al diàleg de creació de projectes nous. Corregits els tipus relacionats amb PlotGrid. Afegida una pregunta sobre l'acceleració per maquinari durant la configuració inicial. Ajustos visuals i de comportament en els temes i el redimensionador de la interfície. Traducció a l'hongarès actualitzada i completada.",
-    "de": "Die Zuverlässigkeit des automatischen Speichersystems für Worldbuilding wurde verbessert. Unterstützung für Strg + Eingabetaste im Dialog zur Erstellung neuer Projekte hinzugefügt. Typen im Zusammenhang mit PlotGrid korrigiert. Eine Frage zur Hardwarebeschleunigung während der Ersteinrichtung hinzugefügt. Visuelle und funktionale Anpassungen an Designs und dem UI-Größenänderungswerkzeug vorgenommen. Ungarische Übersetzung aktualisiert und vervollständigt.",
-    "it": "Migliorata l'affidabilità del sistema di salvataggio automatico di Worldbuilding. Aggiunto il supporto per Ctrl + Invio nella finestra di creazione di un nuovo progetto. Corretti i tipi relativi a PlotGrid. Aggiunta una domanda sull'accelerazione hardware durante la configurazione iniziale. Apportate modifiche visive e comportamentali ai temi e al ridimensionatore dell'interfaccia. Traduzione ungherese aggiornata e completata.",
-    "fr": "Fiabilité améliorée du système de sauvegarde automatique de Worldbuilding. Ajout de la prise en charge de Ctrl + Entrée dans la boîte de dialogue de création de projet. Correction des types liés à PlotGrid. Ajout d’une question sur l’accélération matérielle lors de la configuration initiale. Ajustements visuels et comportementaux des thèmes et du redimensionneur de l’interface. Traduction hongroise mise à jour et complétée.",
-    "pt": "Melhorada a fiabilidade do sistema de gravação automática do Worldbuilding. Adicionado suporte para Ctrl + Enter na janela de criação de novos projetos. Corrigidos os tipos relacionados com o PlotGrid. Adicionada uma pergunta sobre aceleração por hardware durante a configuração inicial. Ajustes visuais e comportamentais nos temas e no redimensionador da interface. Tradução para húngaro atualizada e concluída."
+    "en": "Added advanced themes. Added an option to disable animations. Redesigned the reading simulator. Improved character variants comparison. Added support for free-text birth dates.",
+    "es": "Añadidos temas avanzados. Añadida opción para desactivar animaciones. Rediseñado el simulador de lectura. Mejoradas las variantes de personaje. Añadido soporte para fechas de nacimiento en texto libre.",
+    "ca": "Afegits temes avançats. Afegida una opció per desactivar les animacions. Redissenyat el simulador de lectura. Millorades les variants de personatge. Afegit suport per a dates de naixement en text lliure.",
+    "de": "Erweiterte Themen hinzugefügt. Option zum Deaktivieren von Animationen hinzugefügt. Lesesimulator überarbeitet. Charaktervarianten verbessert. Unterstützung für Geburtsdaten als Freitext hinzugefügt.",
+    "it": "Aggiunti temi avanzati. Aggiunta l'opzione per disattivare le animazioni. Simulatore di lettura riprogettato. Migliorate le varianti del personaggio. Aggiunto il supporto per le date di nascita come testo libero.",
+    "fr": "Ajout de thèmes avancés. Ajout d’une option pour désactiver les animations. Refonte du simulateur de lecture. Amélioration des variantes de personnage. Ajout de la prise en charge des dates de naissance en texte libre.",
+    "pt": "Adicionados temas avançados. Adicionada opção para desativar animações. Simulador de leitura renovado. Melhorias nas variantes de personagem. Suporte para datas de nascimento em texto livre."
   }
 }
