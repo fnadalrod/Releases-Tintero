@@ -12,6 +12,12 @@
       "repository": "https://github.com/johnsageeek/tintero-theme-slate-pure-white",
       "hash": "0200f77ac7af08d004c287f132758b8cd1b7972cb4a8fe2afe1b756213f2728f",
       "version": "1.0.0"
+    },
+    {
+      "id": "antique-paper",
+      "repository": "https://github.com/johnsageeek/tintero-theme-antique-paper",
+      "hash": "1da2af7a076e0a2e73aec910dfe48d81348c15208aabdc809b319bdb308d797f",
+      "version": "1.0.0"
     }
   ]
 }
