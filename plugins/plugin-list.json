@@ -117,5 +117,39 @@
       "app.settings.read"
     ],
     "featured": true
+  },
+  {
+    "id": "io.github.yloopez.graph-view",
+    "name": "Graph View",
+    "repository": "https://github.com/yloopez/GraphViewForTintero",
+    "description": "An Obsidian-style interactive graph: characters, worldbuilding, files, scenes, timelines and the links between them. Read-only.",
+    "author": "yloopez & Datguy",
+    "version": "1.2.0",
+    "type": "app",
+    "tags": [
+      "visualization", "worldbuilding", "characters", "graph"
+    ],
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "license": "MIT",
+    "scopes": [
+      "project.read",
+      "project.read.files",
+      "project.read.docs",
+      "project.read.characters",
+      "project.read.worldbuilding",
+      "project.read.templates",
+      "project.read.notes",
+      "project.read.collections",
+      "project.read.tags",
+      "project.read.timelines",
+      "project.read.flowmaps",
+      "project.read.plotgrid",
+      "project.read.cardboards",
+      "project.read.scenes",
+      "project.read.images",
+      "ui.notification",
+      "storage"
+    ]
   }
 ]
