@@ -14,6 +14,14 @@
     "linux-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZrRXlTeDZvTW5XT21rMjFNSGIrbkdhZjJCMGxrSElKSldkalFKWG5ieEZYSzFWSmZVSmt2aC8rSlQyelRoeHgyWDFtSW8xT2IzS1YvejNHS3o0TGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODczMzEwCWZpbGU6VGludGVyb18wLjEwLjEwX2FybTY0LmRlYgl2ZXJzaW9uOjAuMTAuMTAKMDdwZVc3QjM4UjR6bDBiaW5oR2lxblg1UVIyOU1GQ2FKQUxkS3ZrQUkxYU1uRHp5cUZoK0UrbnNGK0NINFJjb1Rrd0VGaWlYL0lraUx4cDhNTDlRRGc9PQo=",
       "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.10.10/Tintero-arm64.deb"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXJ1ZDBoTy9QN3VRQWgyRUN1TkJnMWt3TW5IMmdFbllSVUEwNXdjTkpLbW93RlJ5RzJoOHZrd0FzVE0rYXMvVUNGR1pJYUpSd1RhUGhmR2o1dHprdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUxMjU5CWZpbGU6VGludGVyby5hcHAudGFyLmd6CnVVajg5TTZVVjE1S0tpTjBEemtxUGxCditxUTRuTEhQSDF2bzk2eElVc3FQcmk2eDNsK0RIVXB2QjJsN0ladjNzb1Z5V0FtN0hqdDFQVEw0dlZvMUJRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.10.10-macos-beta/Tintero.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXJ1ZDBoTy9QN3VRQWgyRUN1TkJnMWt3TW5IMmdFbllSVUEwNXdjTkpLbW93RlJ5RzJoOHZrd0FzVE0rYXMvVUNGR1pJYUpSd1RhUGhmR2o1dHprdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUxMjU5CWZpbGU6VGludGVyby5hcHAudGFyLmd6CnVVajg5TTZVVjE1S0tpTjBEemtxUGxCditxUTRuTEhQSDF2bzk2eElVc3FQcmk2eDNsK0RIVXB2QjJsN0ladjNzb1Z5V0FtN0hqdDFQVEw0dlZvMUJRPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.10.10-macos-beta/Tintero.app.tar.gz"
     }
   },
   "release_notes": {
