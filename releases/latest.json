@@ -14,6 +14,14 @@
     "linux-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TW9weHd1ckpJbFM1dDNpa0NTaTRhSkF4ei9xZ09YRzBIK1k0enVJWW1pYVVJWEZxbHQ0ZVZaSTVVbFdWMm1ncTUyODNURnJ6Q2xqcWF3bVpVYWtjQmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIyMDM2CWZpbGU6VGludGVyb18wLjEwLjExX2FybTY0LmRlYgl2ZXJzaW9uOjAuMTAuMTEKVW9Zd0NOUGwxYmdPREFlQ3RaQkt2dmlXRzM1bTFuTVhIRFRpb2dIYVh5ZC84MkhzK0VWakZXZnlyWjkyTWFXbU1yczcrdGFES3BjM09VOWdEdG9ORFE9PQo=",
       "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.10.11/Tintero-arm64.deb"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZzT1J4cDlJN2JKOFR0MzJJOTZ2L0lzdzM3VVQ0TFBTTkdrN0RUWmdBVWRvSHJBdjdWSmpMOFRPditVQ3hKWTgwZjlWQVZ1b1phdURUS0lIK0w2dXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIzOTgzCWZpbGU6VGludGVyby5hcHAudGFyLmd6CmNONW12TGVYVVlSRU8wR1V6aHZzRitxbVBEM2tpclhUYzdRV0VYaERIaEhHcGZWZXhnR0l3YjkxTzVRQXBJMkp5TktDdXVBOFpvVlEyV1VWMHRXQkNnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.10.11/Tintero.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN09ocnZBRkR2TXZzT1J4cDlJN2JKOFR0MzJJOTZ2L0lzdzM3VVQ0TFBTTkdrN0RUWmdBVWRvSHJBdjdWSmpMOFRPditVQ3hKWTgwZjlWQVZ1b1phdURUS0lIK0w2dXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIzOTgzCWZpbGU6VGludGVyby5hcHAudGFyLmd6CmNONW12TGVYVVlSRU8wR1V6aHZzRitxbVBEM2tpclhUYzdRV0VYaERIaEhHcGZWZXhnR0l3YjkxTzVRQXBJMkp5TktDdXVBOFpvVlEyV1VWMHRXQkNnPT0K",
+      "url": "https://github.com/fnadalrod/Releases-Tintero/releases/download/0.10.11/Tintero.app.tar.gz"
     }
   },
   "release_notes": {
